@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Model LSTM (besar, tidak perlu di-commit)
+models/*.keras
+models/*.h5
+
+# Database
+*.db
+*.sqlite
+predictions.db
+
+# Colab & Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Pytest
+.pytest_cache/
+
+# Data temporary (hasil upload user)
+data/uploaded_sales.csv
+data/temp_*.csv
+
+# Script generator
+generate_readme.py
