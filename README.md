@@ -1,4 +1,4 @@
-💊 Apotek Demand Forecast
+## 💊 Apotek Demand Forecast :
 **Sistem Prediksi Kebutuhan Obat dengan LSTM**
 
 Aplikasi end-to-end untuk memprediksi permintaan obat mingguan per kategori menggunakan Deep Learning (LSTM), dengan REST API, database, dan dashboard interaktif berbasis Streamlit.
