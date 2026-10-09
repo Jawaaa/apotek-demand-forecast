@@ -10,11 +10,24 @@ import os
 # Tambahkan root project ke sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
+import pytest
 from api.main import app
 from api import model_loader
+import os
 
-# Load model dulu sebelum test
-model_loader.load_all_models()
+# Cek apakah model ada
+MODELS_DIR = os.path.join(os.path.dirname(__file__), "..", "models")
+MODEL_EXISTS = os.path.exists(os.path.join(MODELS_DIR, "metadata.pkl"))
+
+# Skip semua test kalau model tidak ada (untuk CI/CD)
+pytestmark = pytest.mark.skipif(
+    not MODEL_EXISTS,
+    reason="Model files tidak tersedia (di-ignore di Git). Test akan di-skip di CI/CD."
+)
+
+# Load model kalau ada
+if MODEL_EXISTS:
+    model_loader.load_all_models()
 
 # TestClient untuk simulasi request HTTP
 client = TestClient(app)
