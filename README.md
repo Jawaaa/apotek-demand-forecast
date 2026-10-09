@@ -117,11 +117,11 @@ curl -X POST http://127.0.0.1:8000/predict \
 ### Contoh Response
 
 {
-  "kategori": "Alergi",
-  "predicted_qty": 1066.9,
-  "recommendation_restock": 1280.3,
-  "buffer_pct": 20,
-  "last_date": "2015-12-28"
+"kategori": "Alergi",
+"predicted_qty": 1066.9,
+"recommendation_restock": 1280.3,
+"buffer_pct": 20,
+"last_date": "2015-12-28"
 }
 
 ---
