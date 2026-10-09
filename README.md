@@ -110,8 +110,10 @@ Hasil: 12 tests passed ✅
 
 ### Contoh Request
 
-curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" -d "{\\"kategori\\": \\"Alergi\\", \\"buffer_pct\\": 20}"
-
+curl -X POST http://127.0.0.1:8000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"kategori": "Alergi", "buffer_pct": 20}'
+  
 ### Contoh Response
 
 {
