@@ -1,36 +1,42 @@
 """
 Unit tests untuk API Apotek Demand Forecast.
 Jalankan: pytest tests/test_api.py -v
+
+Untuk CI/CD: test akan di-skip otomatis kalau file model tidak tersedia.
 """
-import pytest
-from fastapi.testclient import TestClient
-import sys
 import os
+import sys
+import pytest
 
 # Tambahkan root project ke sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-import pytest
-from api.main import app
-from api import model_loader
-import os
-
-# Cek apakah model ada
+# ============================================================
+# CEK APAKAH MODEL TERSEDIA
+# ============================================================
 MODELS_DIR = os.path.join(os.path.dirname(__file__), "..", "models")
 MODEL_EXISTS = os.path.exists(os.path.join(MODELS_DIR, "metadata.pkl"))
 
-# Skip semua test kalau model tidak ada (untuk CI/CD)
+# Skip SEMUA test kalau model tidak ada (untuk CI/CD)
 pytestmark = pytest.mark.skipif(
     not MODEL_EXISTS,
-    reason="Model files tidak tersedia (di-ignore di Git). Test akan di-skip di CI/CD."
+    reason="Model files tidak tersedia (di-ignore di Git). Test di-skip di CI/CD."
 )
 
-# Load model kalau ada
+
+# ============================================================
+# IMPORT & SETUP — HANYA KALAU MODEL ADA
+# ============================================================
 if MODEL_EXISTS:
+    from fastapi.testclient import TestClient
+    from api.main import app
+    from api import model_loader
+
+    # Load model dulu
     model_loader.load_all_models()
 
-# TestClient untuk simulasi request HTTP
-client = TestClient(app)
+    # TestClient untuk simulasi request HTTP
+    client = TestClient(app)
 
 
 # ============================================================
@@ -105,7 +111,7 @@ def test_predict_valid():
     assert "predicted_qty" in data
     assert "recommendation_restock" in data
     assert data["predicted_qty"] > 0
-    assert data["recommendation_restock"] > data["predicted_qty"]  # buffer 20%
+    assert data["recommendation_restock"] > data["predicted_qty"]
 
 
 # ============================================================
@@ -119,7 +125,6 @@ def test_predict_buffer_zero():
     )
     assert response.status_code == 200
     data = response.json()
-    # Prediksi & rekomendasi harus sama (selisih < 1 karena rounding)
     assert abs(data["predicted_qty"] - data["recommendation_restock"]) < 1
 
 
