@@ -1,10 +1,4 @@
-"""
-Script untuk generate README.md otomatis.
-Jalankan: python generate_readme.py
-"""
-
-content = """# 💊 Apotek Demand Forecast
-
+## 💊 Apotek Demand Forecast :
 **Sistem Prediksi Kebutuhan Obat dengan LSTM**
 
 Aplikasi end-to-end untuk memprediksi permintaan obat mingguan per kategori menggunakan Deep Learning (LSTM), dengan REST API, database, dan dashboard interaktif berbasis Streamlit.
@@ -50,22 +44,8 @@ Sistem ini menjawab pertanyaan bisnis: **"Obat apa yang harus di-restock minggu 
 
 ## 📁 Struktur Project
 
-apotek-demand-forecast/
-├── api/                          # Backend FastAPI
-│   ├── __init__.py
-│   ├── main.py
-│   ├── model_loader.py
-│   ├── database.py
-│   └── schemas.py
-├── ui/                           # Frontend Streamlit
-│   └── app.py
-├── models/                       # Model LSTM (12 kategori)
-├── data/                         # Dataset
-├── tests/                        # Unit tests
-├── .github/workflows/            # CI/CD
-├── requirements.txt
-├── .gitignore
-└── README.md
+<img width="581" height="416" alt="image" src="https://github.com/user-attachments/assets/163cafde-fb6f-4182-b757-00a085c02428" />
+
 
 ---
 
@@ -130,8 +110,10 @@ Hasil: 12 tests passed ✅
 
 ### Contoh Request
 
-curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" -d "{\\"kategori\\": \\"Alergi\\", \\"buffer_pct\\": 20}"
-
+curl -X POST http://127.0.0.1:8000/predict \
+  -H "Content-Type: application/json" \
+  -d '{"kategori": "Alergi", "buffer_pct": 20}'
+  
 ### Contoh Response
 
 {
