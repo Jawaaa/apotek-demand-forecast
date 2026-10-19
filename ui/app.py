@@ -258,20 +258,31 @@ if page == "🏠 Beranda":
     st.dataframe(df_decision, use_container_width=True, hide_index=True)
 
     st.divider()
-    st.subheader("📊 Perbandingan Kebutuhan per Kategori")
-    fig = go.Figure()
-    fig.add_trace(go.Bar(
-        x=df_recs["kategori"], y=df_recs["predicted_qty"],
-        name="Prediksi Kebutuhan", marker_color="#1f77b4",
-    ))
-    fig.add_trace(go.Bar(
-        x=df_recs["kategori"], y=df_recs["recommendation_restock"],
-        name=f"Rekomendasi Restock (+{buffer_pct}%)", marker_color="#2a9d8f",
-    ))
-    fig.update_layout(
-        barmode="group", xaxis_title="", yaxis_title="Jumlah Unit",
-        height=450, hovermode="x unified",
+    st.subheader("📊 Top 5 Prioritas Restock Minggu Ini")
+    st.caption("Diurutkan dari kategori yang paling membutuhkan stok tambahan")
+    
+    # Ambil Top 5
+    top5 = df_recs.sort_values("recommendation_restock", ascending=False).head(5)
+    
+    fig = px.bar(
+        top5, 
+        x="recommendation_restock", 
+        y="kategori", 
+        orientation="h",
+        text="recommendation_restock",
+        color_discrete_sequence=["#2a9d8f"] # Hijau bersih
     )
+    fig.update_traces(texttemplate='%{text:,.0f} unit', textposition='outside')
+    fig.update_layout(
+        height=350, 
+        xaxis_title="", yaxis_title="", 
+        showlegend=False,
+        margin=dict(l=0, r=50, t=20, b=20),
+        plot_bgcolor="white",
+        xaxis=dict(showgrid=True, gridcolor='#f0f0f0', showticklabels=False) # Sembunyikan sumbu X
+    )
+    # Urutkan dari terbesar di atas
+    fig.update_yaxes(categoryorder="total ascending", tickfont=dict(size=14))
     st.plotly_chart(fig, use_container_width=True)
 
     st.divider()
@@ -338,27 +349,48 @@ elif page == "🔮 Analisis Prediksi":
                 f"🎯 **Tindakan:** Siapkan pesanan ke supplier untuk kategori ini sebelum minggu depan."
             )
 
-            st.subheader("📈 Tren Historis + Prediksi")
+            st.subheader("📈 Tren Historis + Prediksi Minggu Depan")
+            st.caption(f"Kategori: {kategori}")
+            
             df_hist = load_historical_data()
             if df_hist is not None:
                 df_cat = df_hist[df_hist["KATEGORI"] == kategori].sort_values("TGL")
+                
                 fig = go.Figure()
+                
+                # Garis Historis (Biru)
                 fig.add_trace(go.Scatter(
                     x=df_cat["TGL"], y=df_cat["QTY_SOLD"],
                     mode="lines+markers", name="Penjualan Historis",
-                    line=dict(color="steelblue", width=2),
+                    line=dict(color="#1f77b4", width=3),
+                    marker=dict(size=6)
                 ))
+                
+                # Titik Prediksi (Oranye/Bintang Besar)
                 next_week = df_cat["TGL"].max() + timedelta(weeks=1)
                 fig.add_trace(go.Scatter(
                     x=[next_week], y=[result["predicted_qty"]],
-                    mode="markers", name="Prediksi Minggu Depan",
-                    marker=dict(color="darkorange", size=20, symbol="star"),
+                    mode="markers+text", name="Prediksi",
+                    marker=dict(color="#e76f51", size=18, symbol="star"),
+                    text=[f"<b>{result['predicted_qty']:,.0f}</b>"],
+                    textposition="top center",
+                    textfont=dict(size=14, color="#e76f51")
                 ))
+                
+                # Garis Rata-rata (Abu putus-putus)
                 avg_val = df_cat["QTY_SOLD"].mean()
-                fig.add_hline(y=avg_val, line_dash="dash", line_color="gray",
-                              annotation_text=f"Rata-rata: {avg_val:.0f}")
-                fig.update_layout(xaxis_title="Minggu", yaxis_title="Jumlah Terjual (unit)",
-                                  height=420, hovermode="x unified")
+                fig.add_hline(y=avg_val, line_dash="dash", line_color="#999",
+                              annotation_text=f"Avg: {avg_val:.0f}", annotation_position="bottom right")
+                
+                fig.update_layout(
+                    xaxis_title="", yaxis_title="Unit Terjual",
+                    height=400, 
+                    hovermode="x unified",
+                    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+                    plot_bgcolor="white",
+                    xaxis=dict(showgrid=False),
+                    yaxis=dict(showgrid=True, gridcolor='#f0f0f0')
+                )
                 st.plotly_chart(fig, use_container_width=True)
 
 
@@ -794,35 +826,48 @@ elif page == "📦 Manajemen Stok":
 
             # ===== GRAFIK =====
             st.divider()
-            st.subheader("📊 Visualisasi Stockout Risk")
+            st.subheader("📊 Analisis Risiko: Prediksi vs Stok Saat Ini")
+            st.caption("Fokus pada 5 kategori dengan risiko stockout tertinggi")
 
+            # Ambil Top 5 Risiko
+            top_risk = df_pred.head(5)
+            
             fig = go.Figure()
+            
+            # Bar 1: Prediksi (Biru)
             fig.add_trace(go.Bar(
-                name="Penjualan Minggu Lalu",
-                x=df_pred["Kategori"], y=df_pred["Penjualan Minggu Lalu"],
-                marker_color="#94a3b8",
-            ))
-            fig.add_trace(go.Bar(
-                name="Stok Saat Ini",
-                x=df_pred["Kategori"], y=df_pred["Stok Saat Ini"],
-                marker_color="#2a9d8f",
-            ))
-            fig.add_trace(go.Bar(
-                name="Prediksi Minggu Depan",
-                x=df_pred["Kategori"], y=df_pred["Prediksi Minggu Depan"],
+                name="Kebutuhan (Prediksi)",
+                x=top_risk["Kategori"], 
+                y=top_risk["Prediksi Minggu Depan"],
                 marker_color="#1f77b4",
+                text=top_risk["Prediksi Minggu Depan"].apply(lambda x: f"{x:,.0f}"),
+                textposition="outside"
             ))
+            
+            # Bar 2: Stok (Hijau)
             fig.add_trace(go.Bar(
-                name="Restock Diperlukan",
-                x=df_pred["Kategori"], y=df_pred["Restock Diperlukan"],
-                marker_color="#e63946",
+                name="Stok Tersedia Saat Ini",
+                x=top_risk["Kategori"], 
+                y=top_risk["Stok Saat Ini"],
+                marker_color="#2a9d8f",
+                text=top_risk["Stok Saat Ini"].apply(lambda x: f"{x:,.0f}"),
+                textposition="outside"
             ))
+            
             fig.update_layout(
-                barmode="group", xaxis_title="", yaxis_title="Unit",
-                height=480, xaxis_tickangle=-45,
-                title="Perbandingan: Penjualan vs Stok vs Prediksi vs Restock",
+                barmode="group", 
+                xaxis_title="", 
+                yaxis_title="Jumlah Unit",
+                height=400, 
+                xaxis_tickangle=0, # Lurus, tidak miring
+                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="center", x=0.5),
+                plot_bgcolor="white",
+                xaxis=dict(showgrid=False),
+                yaxis=dict(showgrid=True, gridcolor='#f0f0f0')
             )
+            
             st.plotly_chart(fig, use_container_width=True)
+            st.info("💡 Jika Bar Biru (Kebutuhan) lebih tinggi dari Bar Hijau (Stok), artinya kategori tersebut berisiko mengalami **Stockout**.")
 
             # ===== EXPORT =====
             st.divider()
