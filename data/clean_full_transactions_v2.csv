@@ -667,6 +667,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-05-26,AI-1178,Rhinofed 70 mg,3.0,Lainnya,2015,5,22,1
 2015-05-26,R-1091,Imunos,2.0,Lainnya,2015,5,22,1
 2015-05-26,AI-0174,Burnazin 1%,1.0,Lainnya,2015,5,22,1
+2015-05-26,R-1346,Lidocain 2 % inj,120.0,Lainnya,2015,5,22,1
 2015-05-26,AI-0095,Apazol 1 mg,1.0,Lainnya,2015,5,22,1
 2015-05-26,R-0601,Dexamethason tab,2.0,Lainnya,2015,5,22,1
 2015-05-26,R-0967,Gliseril Guaiacolat Tab,2.0,Lainnya,2015,5,22,1
@@ -1064,6 +1065,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-06-09,AI-0106,Asam Mefenamat 500 mg,20.0,Analgesik & Antiinflamasi,2015,6,24,1
 2015-06-09,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,6,24,1
 2015-06-09,AI-0417,Elkana tab,30.0,Lainnya,2015,6,24,1
+2015-06-09,AI-1028,Osteocal 500 mg,120.0,Vitamin & Suplemen,2015,6,24,1
 2015-06-09,R-0865,FLU TAB,10.0,Lainnya,2015,6,24,1
 2015-06-09,R-2077,Sanmol 500 mg,12.0,Lainnya,2015,6,24,1
 2015-06-05,AI-1267,Solosa 2 mg,30.0,Lainnya,2015,6,23,4
@@ -1686,6 +1688,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-17,R-4494,Disp spuit 3 cc onemed,1.0,Lainnya,2015,7,29,4
 2015-07-17,R-2768,Disp spuit 5 cc Unzen,5.0,Lainnya,2015,7,29,4
 2015-07-17,R-4831,Disp spuit 10 cc stera,5.0,Lainnya,2015,7,29,4
+2015-07-17,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,7,29,4
 2015-07-17,R-0117,Apialys Drop,1.0,Lainnya,2015,7,29,4
 2015-07-18,AI-0557,Glibenclamide 5 mg,40.0,Lainnya,2015,7,29,5
 2015-07-18,AI-0853,Metformin 500 mg,40.0,Diabetes,2015,7,29,5
@@ -1859,6 +1862,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-07,AI-0241,Cetirizine 10 mg,30.0,Alergi,2015,7,28,1
 2015-07-07,AI-0530,Furosemide 40 mg,50.0,Hipertensi & Jantung,2015,7,28,1
 2015-07-07,AI-0703,Isosorbid Dinitrat 5 mg,20.0,Lainnya,2015,7,28,1
+2015-07-07,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,7,28,1
 2015-07-07,AI-1009,Omeprazole 20 mg,30.0,Lambung & Pencernaan,2015,7,28,1
 2015-07-07,AI-1247,Simvastatin 20 mg,30.0,Kolesterol,2015,7,28,1
 2015-07-07,R-4718,Allopurinol 300 tab,50.0,Asam Urat,2015,7,28,1
@@ -3841,6 +3845,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-14,AI-1416,Ventolin nebules 2,5.0,Lainnya,2015,10,42,2
 2015-10-14,R-1561,NaCl 0.9% 100ml Otsuka,1.0,Bahan Non-Obat,2015,10,42,2
 2015-10-14,AI-0068,Amlodipin 5 mg,20.0,Hipertensi & Jantung,2015,10,42,2
+2015-10-14,AI-0853,Metformin 500 mg,120.0,Diabetes,2015,10,42,2
 2015-10-14,R-0194,Betadin sol 60 ml,1.0,Lainnya,2015,10,42,2
 2015-10-14,R-4111,Opsite 25cm x 10cm,1.0,Lainnya,2015,10,42,2
 2015-10-14,R-4673,Kasa Steril Molex,1.0,Lainnya,2015,10,42,2
@@ -3862,6 +3867,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-14,AI-0050,Ambroxol 30 mg,20.0,Pernapasan & Batuk,2015,10,42,2
 2015-10-14,AI-0771,Lansoprazole 30 mg,20.0,Lambung & Pencernaan,2015,10,42,2
 2015-10-14,R-2059,Sanadryl DMP 120ml,1.0,Lainnya,2015,10,42,2
+2015-10-14,R-2467,VITAMIN K Tablet,120.0,Vitamin & Suplemen,2015,10,42,2
 2015-10-14,AI-0050,Ambroxol 30 mg,10.0,Pernapasan & Batuk,2015,10,42,2
 2015-10-14,AI-0212,Cefadroxil 125 mg/5ml,1.0,Antibiotik,2015,10,42,2
 2015-10-15,AI-0660,Ibuprofen 200 mg/5 m,1.0,Analgesik & Antiinflamasi,2015,10,42,3
@@ -4016,6 +4022,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-23,R-2295,Tiriz drop,1.0,Lainnya,2015,10,43,4
 2015-10-23,AI-0671,Induxin 10 IU/ml,50.0,Lainnya,2015,10,43,4
 2015-10-23,AI-1187,Ringer Laktat 500 ml,20.0,Bahan Non-Obat,2015,10,43,4
+2015-10-23,AI-1473,Zink 20 mg,120.0,Lainnya,2015,10,43,4
 2015-10-23,R-0802,Extrace Inj,12.0,Lainnya,2015,10,43,4
 2015-10-23,R-2761,Disp spuit 1 cc Stera,5.0,Lainnya,2015,10,43,4
 2015-10-23,R-4553,DISP spuit 5 cc onemed,5.0,Lainnya,2015,10,43,4
@@ -4120,6 +4127,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-01,R-1091,Imunos,2.0,Lainnya,2015,11,44,6
 2015-11-01,AI-0097,Aptor 100 mg,30.0,Analgesik & Antiinflamasi,2015,11,44,6
 2015-11-01,AI-0500,Fitbon 500 mg,15.0,Vitamin & Suplemen,2015,11,44,6
+2015-11-01,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,11,44,6
 2015-11-01,AI-1247,Simvastatin 20 mg,30.0,Kolesterol,2015,11,44,6
 2015-11-01,AI-1549,Allopurinol 300 mg,30.0,Asam Urat,2015,11,44,6
 2015-11-01,AI-1247,Simvastatin 20 mg,10.0,Kolesterol,2015,11,44,6
@@ -4181,6 +4189,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-07,R-1782,Paracetamol syrup,1.0,Analgesik & Antiinflamasi,2015,11,45,5
 2015-11-07,AI-0837,Meloxicam 7,10.0,Analgesik & Antiinflamasi,2015,11,45,5
 2015-11-07,AI-1549,Allopurinol 300 mg,10.0,Asam Urat,2015,11,45,5
+2015-11-07,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,11,45,5
 2015-11-10,AI-0050,Ambroxol 30 mg,2.5,Pernapasan & Batuk,2015,11,46,1
 2015-11-10,R-0601,Dexamethason tab,2.5,Lainnya,2015,11,46,1
 2015-11-10,R-1204,kapsul kosong 1,15.0,Bahan Non-Obat,2015,11,46,1
@@ -4433,6 +4442,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-17,R-0601,Dexamethason tab,10.0,Lainnya,2015,11,47,1
 2015-11-17,R-0950,Gentamicine salep kulit,1.0,Lainnya,2015,11,47,1
 2015-11-17,R-1202,Kapsul kosong 0,15.0,Bahan Non-Obat,2015,11,47,1
+2015-11-17,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,47,1
 2015-11-17,R-4199,Pot 20cc,1.0,Lainnya,2015,11,47,1
 2015-11-17,AI-0578,Glucodex 80 mg,60.0,Diabetes,2015,11,47,1
 2015-11-18,AI-0484,Femara 2,10.0,Lainnya,2015,11,47,2
@@ -4472,6 +4482,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-20,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,47,4
 2015-11-20,AI-0533,Fusycom 20 mg/gr,0.5,Lainnya,2015,11,47,4
 2015-11-20,R-0313,Carmed cream 40gr 10%,0.5,Lainnya,2015,11,47,4
+2015-11-20,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,47,4
+2015-11-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,47,4
 2015-11-20,R-4199,Pot 20cc,1.0,Lainnya,2015,11,47,4
 2015-11-20,AI-0553,Gentamycin 40 mg/ml,2.0,Lainnya,2015,11,47,4
 2015-11-20,AI-0853,Metformin 500 mg,50.0,Diabetes,2015,11,47,4
@@ -4800,6 +4812,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-17,R-1442,Mefinal 500mg,10.0,Lainnya,2015,12,51,3
 2015-12-17,R-2077,Sanmol 500 mg,10.0,Lainnya,2015,12,51,3
 2015-12-17,R-0554,Cyclofem,1.0,Lainnya,2015,12,51,3
+2015-12-18,AI-0875,Metronidazole 500 mg,120.0,Antibiotik,2015,12,51,4
 2015-12-18,AI-1550,Oralit 200ml,5.0,Lainnya,2015,12,51,4
 2015-12-18,R-3390,ZINCPRO SYR,1.0,Lainnya,2015,12,51,4
 2015-12-18,R-4492,l- bio,10.0,Lainnya,2015,12,51,4
@@ -4953,6 +4966,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-03,AI-0881,Miconazol 2%,2.0,Lainnya,2015,12,49,3
 2015-12-03,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,12,49,3
 2015-12-03,R-1480,Methylprednisolone 4mg (REG),5.0,Kortikosteroid,2015,12,49,3
+2015-12-03,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,49,3
 2015-12-03,R-4199,Pot 20cc,1.0,Lainnya,2015,12,49,3
 2015-12-03,AI-0095,Apazol 1 mg,15.0,Lainnya,2015,12,49,3
 2015-12-04,AI-0406,Eclid 50 mg,30.0,Diabetes,2015,12,49,4
@@ -5243,6 +5257,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,R-0695,Dumin Rectal Supp 125mg,1.0,Lainnya,2015,12,50,4
 2015-12-11,R-2079,Sanmol Syr,1.0,Lainnya,2015,12,50,4
 2015-12-11,R-2180,STESOLID SYR 60ML,1.0,Lainnya,2015,12,50,4
+2015-12-14,AI-0851,Mestinon 60 mg,120.0,Lainnya,2015,12,51,0
 2015-12-14,R-0744,Epexol syr 120ml,1.0,Lainnya,2015,12,51,0
 2015-12-14,AI-0075,Amoxicillin 500 mg,20.0,Antibiotik,2015,12,51,0
 2015-12-14,AI-0106,Asam Mefenamat 500 mg,20.0,Analgesik & Antiinflamasi,2015,12,51,0
@@ -8631,6 +8646,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-01-20,AI-1036,Otsu Water Inj 25 ml,3.0,Lainnya,2015,1,4,1
 2015-01-20,AI-1187,Ringer Laktat 500 ml,3.0,Bahan Non-Obat,2015,1,4,1
 2015-01-21,AI-0405,Eclid 100 mg,6.0,Diabetes,2015,1,4,2
+2015-01-21,AI-0701,Isoniazide 300 mg,3.0,Lainnya,2015,1,4,2
 2015-01-21,AI-1180,Rifampicin 450 mg,3.0,Lainnya,2015,1,4,2
 2015-01-21,AI-1349,Tibitol 250 mg,9.0,Lainnya,2015,1,4,2
 2015-01-17,R-1809,Pethidin Inj,2.0,Lainnya,2015,1,3,5
@@ -20820,6 +20836,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-06,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,6,4
 2015-02-06,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,6,4
 2015-02-06,AI-0513,Flunarizine 5 mg,3.0,Lainnya,2015,2,6,4
+2015-02-06,AI-1540,Cordila SR 90 mg,3.0,Lainnya,2015,2,6,4
 2015-02-06,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,6,4
 2015-02-06,AI-0255,Ciprofloxacine 500 mg,6.0,Antibiotik,2015,2,6,4
 2015-02-06,AI-0110,Asering 500 ml,3.0,Lainnya,2015,2,6,4
@@ -21452,6 +21469,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-14,AI-1156,Ranitidine 150 mg,6.0,Lambung & Pencernaan,2015,2,7,5
 2015-02-14,AI-1379,Trolip 100 mg,3.0,Kolesterol,2015,2,7,5
 2015-02-14,AI-1409,Vastigo 6 mg,3.0,Saraf & Vertigo,2015,2,7,5
+2015-02-14,AI-1544,Dimenhydrinate 50 mg,3.0,Lainnya,2015,2,7,5
 2015-02-14,R-1431,MECOBALAMIN 500,9.0,Vitamin & Suplemen,2015,2,7,5
 2015-02-14,R-1677,Novalgin Inj,9.0,Lainnya,2015,2,7,5
 2015-02-14,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,7,5
@@ -21678,6 +21696,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-09,R-4388,Transfusi Set Stardec,1.0,Lainnya,2015,2,7,0
 2015-02-09,R-4619,Folley Catheter No. 16 Urocare,1.0,Lainnya,2015,2,7,0
 2015-02-09,R-4843,Urine bag with hanger 2L remedi,1.0,Lainnya,2015,2,7,0
+2015-02-09,R-4907,Disp Spuit 50 cc LT One mad,1.0,Lainnya,2015,2,7,0
 2015-02-09,AI-0110,Asering 500 ml,3.0,Lainnya,2015,2,7,0
 2015-02-09,AI-0590,Grahabion komb,3.0,Lainnya,2015,2,7,0
 2015-02-09,AI-0837,Meloxicam 7,3.0,Analgesik & Antiinflamasi,2015,2,7,0
@@ -22583,6 +22602,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-18,AI-0110,Asering 500 ml,3.0,Lainnya,2015,2,8,2
 2015-02-18,AI-0181,Cameloc 15 mg,3.0,Lainnya,2015,2,8,2
 2015-02-18,AI-0110,Asering 500 ml,3.0,Lainnya,2015,2,8,2
+2015-02-18,AI-1538,Aricept 5 mg,3.0,Lainnya,2015,2,8,2
 2015-02-18,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,8,2
 2015-02-18,AI-1036,Otsu Water Inj 25 ml,3.0,Lainnya,2015,2,8,2
 2015-02-18,AI-1265,Sohobion Injeksi 3 ml,3.0,Lainnya,2015,2,8,2
@@ -22895,6 +22915,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-23,AI-0189,Candesartan TI 16 mg,3.0,Hipertensi & Jantung,2015,2,9,0
 2015-02-23,AI-0771,Lansoprazole 30 mg,3.0,Lambung & Pencernaan,2015,2,9,0
 2015-02-23,AI-1174,Retaphyl SR 300 mg,3.0,Pernapasan & Batuk,2015,2,9,0
+2015-02-23,AI-1540,Cordila SR 90 mg,6.0,Lainnya,2015,2,9,0
 2015-02-23,AI-0075,Amoxicillin 500 mg,3.0,Antibiotik,2015,2,9,0
 2015-02-23,AI-0118,Atmacid 350 mg kom,3.0,Lainnya,2015,2,9,0
 2015-02-23,AI-0722,Kaltrofen 100 mg (supp),1.0,Lainnya,2015,2,9,0
@@ -23030,6 +23051,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-24,AI-1057,Paracetamol 500 mg,9.0,Analgesik & Antiinflamasi,2015,2,9,1
 2015-02-24,R-1228,Ketosteril,9.0,Lainnya,2015,2,9,1
 2015-02-24,AI-0590,Grahabion komb,3.0,Lainnya,2015,2,9,1
+2015-02-24,AI-1538,Aricept 5 mg,3.0,Lainnya,2015,2,9,1
 2015-02-24,R-2125,Sirdalud,6.0,Lainnya,2015,2,9,1
 2015-02-24,AI-0222,Ceftriaxone 1000 mg/vi,2.0,Lainnya,2015,2,9,1
 2015-02-24,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,9,1
@@ -23080,6 +23102,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-25,AI-1291,Starquin 2 mg/ml,2.0,Lainnya,2015,2,9,2
 2015-02-25,AI-0189,Candesartan TI 16 mg,3.0,Hipertensi & Jantung,2015,2,9,2
 2015-02-25,AI-0771,Lansoprazole 30 mg,3.0,Lambung & Pencernaan,2015,2,9,2
+2015-02-25,AI-1540,Cordila SR 90 mg,6.0,Lainnya,2015,2,9,2
 2015-02-25,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,9,2
 2015-02-25,AI-1036,Otsu Water Inj 25 ml,3.0,Lainnya,2015,2,9,2
 2015-02-25,AI-1057,Paracetamol 500 mg,9.0,Analgesik & Antiinflamasi,2015,2,9,2
@@ -23203,6 +23226,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-21,AI-0771,Lansoprazole 30 mg,3.0,Lambung & Pencernaan,2015,2,8,5
 2015-02-21,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,2,8,5
 2015-02-21,AI-0943,Neurodex FC komb,3.0,Vitamin & Suplemen,2015,2,8,5
+2015-02-21,AI-1538,Aricept 5 mg,3.0,Lainnya,2015,2,8,5
 2015-02-21,R-2125,Sirdalud,9.0,Lainnya,2015,2,8,5
 2015-02-21,AI-0222,Ceftriaxone 1000 mg/vi,1.0,Lainnya,2015,2,8,5
 2015-02-21,AI-0260,Citicholin 250 mg/2ml,3.0,Lainnya,2015,2,8,5
@@ -23213,6 +23237,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-21,AI-1211,Scanaflam 25 mg,10.0,Lainnya,2015,2,8,5
 2015-02-21,AI-1246,Simvastatin 10 mg,3.0,Kolesterol,2015,2,8,5
 2015-02-21,AI-1409,Vastigo 6 mg,9.0,Saraf & Vertigo,2015,2,8,5
+2015-02-21,AI-1544,Dimenhydrinate 50 mg,5.0,Lainnya,2015,2,8,5
 2015-02-21,R-1204,kapsul kosong 1,9.0,Bahan Non-Obat,2015,2,8,5
 2015-02-21,R-1431,MECOBALAMIN 500,9.0,Vitamin & Suplemen,2015,2,8,5
 2015-02-21,R-2395,Valisanbe 2mg,10.0,Lainnya,2015,2,8,5
@@ -31204,6 +31229,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-28,AI-0694,Irvebal 150 mg,6.0,Lainnya,2015,3,13,5
 2015-03-28,AI-0825,Maintate 2,3.0,Lainnya,2015,3,13,5
 2015-03-28,AI-1157,Ranitidine 50 mg/2 ml,2.0,Lambung & Pencernaan,2015,3,13,5
+2015-03-28,AI-1168,Renadinac 25 mg,120.0,Analgesik & Antiinflamasi,2015,3,13,5
 2015-03-28,AI-1409,Vastigo 6 mg,5.0,Saraf & Vertigo,2015,3,13,5
 2015-03-28,R-0635,diazepam 2mg,6.0,Lainnya,2015,3,13,5
 2015-03-28,AI-0075,Amoxicillin 500 mg,9.0,Antibiotik,2015,3,13,5
@@ -33854,6 +33880,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-10,AI-0339,Deksametason 5 mg/ml,4.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0066,Amitriptyline 25 mg,9.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,3,11,1
+2015-03-10,AI-1537,Erythromycin   500 mg,9.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0219,Cefixime OGB 100 mg/5ml,1.0,Antibiotik,2015,3,11,1
 2015-03-10,AI-0364,Dialac 1 gram,6.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0120,Atorvastatin 20 mg,3.0,Kolesterol,2015,3,11,1
@@ -35402,6 +35429,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-25,AI-0097,Aptor 100 mg,3.0,Analgesik & Antiinflamasi,2015,3,13,2
 2015-03-25,AI-1549,Allopurinol 300 mg,3.0,Asam Urat,2015,3,13,2
 2015-03-25,R-1431,MECOBALAMIN 500,9.0,Vitamin & Suplemen,2015,3,13,2
+2015-03-25,R-4929,citicolin tab 500,6.0,Lainnya,2015,3,13,2
 2015-03-26,AI-0222,Ceftriaxone 1000 mg/vi,3.0,Lainnya,2015,3,13,3
 2015-03-26,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,3,13,3
 2015-03-26,AI-1035,Otsu RL 500 ml,3.0,Lainnya,2015,3,13,3
@@ -45549,6 +45577,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-04-11,R-1561,NaCl 0.9% 100ml Otsuka,3.0,Bahan Non-Obat,2015,4,15,5
 2015-04-11,AI-0110,Asering 500 ml,3.0,Lainnya,2015,4,15,5
 2015-04-11,AI-1284,Spironolacton 25 mg,3.0,Hipertensi & Jantung,2015,4,15,5
+2015-04-11,AI-1553,Dobutamin Hameln 250 mg,3.0,Lainnya,2015,4,15,5
 2015-04-11,AI-0812,Lovenox 60 mg/0,2.0,Lainnya,2015,4,15,5
 2015-04-11,R-0617,Dextrose 5% 100ml otsu,3.0,Lainnya,2015,4,15,5
 2015-04-11,AI-0050,Ambroxol 30 mg,3.0,Pernapasan & Batuk,2015,4,15,5
@@ -68959,6 +68988,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-06-06,AI-0222,Ceftriaxone 1000 mg/vi,1.0,Lainnya,2015,6,23,5
 2015-06-06,R-0617,Dextrose 5% 100ml otsu,1.0,Lainnya,2015,6,23,5
 2015-06-06,R-4492,l- bio,3.0,Lainnya,2015,6,23,5
+2015-06-06,R-4919,CHLORAL HIDRAT SERBUK,120.0,Lainnya,2015,6,23,5
 2015-06-06,AI-0216,Cefixime 100 mg,12.0,Antibiotik,2015,6,23,5
 2015-06-06,AI-0771,Lansoprazole 30 mg,6.0,Lambung & Pencernaan,2015,6,23,5
 2015-06-06,AI-1019,Ondansetron 8 mg,3.0,Lainnya,2015,6,23,5
@@ -96958,6 +96988,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-27,R-1220,KERTAS PERKAMEN,9.0,Lainnya,2015,9,39,6
 2015-09-27,AI-0943,Neurodex FC komb,1.0,Vitamin & Suplemen,2015,9,39,6
 2015-09-27,AI-1038,Otsu-D40 40%,2.0,Lainnya,2015,9,39,6
+2015-09-27,R-0614,Dextrose 10% 500ml widatra,2.0,Lainnya,2015,9,39,6
 2015-09-27,AI-0110,Asering 500 ml,3.0,Lainnya,2015,9,39,6
 2015-09-28,AI-0110,Asering 500 ml,3.0,Lainnya,2015,9,40,0
 2015-09-28,AI-0110,Asering 500 ml,3.0,Lainnya,2015,9,40,0
@@ -105014,6 +105045,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-30,AI-0943,Neurodex FC komb,6.0,Vitamin & Suplemen,2015,9,40,2
 2015-09-30,AI-0221,Ceftazidime 1000 mg/vi,1.0,Lainnya,2015,9,40,2
 2015-09-30,R-2434,Viccillin 1000mg/vial,1.0,Lainnya,2015,9,40,2
+2015-09-30,R-4919,CHLORAL HIDRAT SERBUK,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0374,Digoxine 0,3.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0529,Furosemid 10 mg/ml,5.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0958,Nitrokaf Retard Forte 5 mg,6.0,Hipertensi & Jantung,2015,9,40,2
@@ -118284,7 +118316,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-17,AI-0263,Clindamycin 150 mg,1.0,Lainnya,2015,11,47,1
 2015-11-17,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,47,1
 2015-11-17,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,11,47,1
-2015-11-17,R-2564,Acid Salicyl,0.1,Lainnya,2015,11,47,1
+2015-11-17,R-2564,Acid Salicyl,0.11,Lainnya,2015,11,47,1
 2015-11-17,R-4199,Pot 20cc,1.0,Lainnya,2015,11,47,1
 2015-11-17,AI-0371,Diazole 5 mg/ml,6.0,Lainnya,2015,11,47,1
 2015-11-17,AI-1018,Ondansetron 4 mg/2 ml,4.0,Lainnya,2015,11,47,1
@@ -122242,6 +122274,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0739,Ketokonazol 200 mg,3.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0106,Asam Mefenamat 500 mg,9.0,Analgesik & Antiinflamasi,2015,11,46,2
 2015-11-11,AI-0255,Ciprofloxacine 500 mg,6.0,Antibiotik,2015,11,46,2
@@ -126791,6 +126824,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-15,AI-1187,Ringer Laktat 500 ml,3.0,Bahan Non-Obat,2015,11,46,6
 2015-11-15,AI-1265,Sohobion Injeksi 3 ml,3.0,Lainnya,2015,11,46,6
 2015-11-15,R-0124,Aquades for inj 25 ml Otsuka,2.0,Lainnya,2015,11,46,6
+2015-11-15,R-0614,Dextrose 10% 500ml widatra,3.0,Lainnya,2015,11,46,6
 2015-11-15,AI-0477,Farsix 10 mg/ml,3.0,Lainnya,2015,11,46,6
 2015-11-15,AI-0479,Farsorbid 10 mg/ml,1.0,Hipertensi & Jantung,2015,11,46,6
 2015-11-15,AI-1530,Nitral  500 mcg,1.0,Lainnya,2015,11,46,6
@@ -131246,6 +131280,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,AI-0717,Kalnex 250 mg,9.0,Lainnya,2015,12,50,4
 2015-12-11,AI-1187,Ringer Laktat 500 ml,3.0,Bahan Non-Obat,2015,12,50,4
 2015-12-11,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,4
 2015-12-10,AI-0067,Amlodipin 10 mg,1.0,Hipertensi & Jantung,2015,12,50,3
 2015-12-10,AI-0106,Asam Mefenamat 500 mg,3.0,Analgesik & Antiinflamasi,2015,12,50,3
 2015-12-10,AI-0771,Lansoprazole 30 mg,1.0,Lambung & Pencernaan,2015,12,50,3
@@ -151208,6 +151243,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-01-08,AI-0596,Gratheos 50 mg,7.0,Lainnya,2015,1,2,3
 2015-01-08,AI-1009,Omeprazole 20 mg,14.0,Lambung & Pencernaan,2015,1,2,3
 2015-01-08,AI-1264,Sohobion 5000 mcg,7.0,Lainnya,2015,1,2,3
+2015-01-08,R-1919,PRORENAL TAB,120.0,Lainnya,2015,1,2,3
 2015-01-08,AI-0073,Amoxicillin 125 mg,1.0,Antibiotik,2015,1,2,3
 2015-01-08,AI-1199,Salbutamol 4 mg,2.0,Pernapasan & Batuk,2015,1,2,3
 2015-01-08,R-0495,Codein 20mg,2.0,Lainnya,2015,1,2,3
@@ -161293,6 +161329,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-27,AI-0050,Ambroxol 30 mg,3.0,Pernapasan & Batuk,2015,2,9,4
 2015-02-27,AI-0242,Cetirizine 10 mg/mL,1.0,Alergi,2015,2,9,4
 2015-02-27,AI-1197,Salbutamol 2 mg,3.0,Pernapasan & Batuk,2015,2,9,4
+2015-02-27,R-1202,Kapsul kosong 0,15.0,Bahan Non-Obat,2015,2,9,4
 2015-02-27,AI-0943,Neurodex FC komb,3.0,Vitamin & Suplemen,2015,2,9,4
 2015-02-27,AI-1017,Ondansetron 4 mg,6.0,Lainnya,2015,2,9,4
 2015-02-27,AI-1274,Sotatic 10 mg,9.0,Saraf & Vertigo,2015,2,9,4
@@ -162924,6 +162961,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-03,AI-0958,Nitrokaf Retard Forte 5 mg,6.0,Hipertensi & Jantung,2015,2,6,1
 2015-02-03,AI-1409,Vastigo 6 mg,9.0,Saraf & Vertigo,2015,2,6,1
 2015-02-03,R-1063,Hydrokortison 2,4.0,Lainnya,2015,2,6,1
+2015-02-03,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,6,1
 2015-02-03,R-4199,Pot 20cc,1.0,Lainnya,2015,2,6,1
 2015-02-03,R-5051,Vitamin A 20.000 tab,20.0,Vitamin & Suplemen,2015,2,6,1
 2015-02-03,AI-0043,Allopurinol 100 mg,7.0,Asam Urat,2015,2,6,1
@@ -163320,6 +163358,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-03,AI-1593,Soft u derm,0.5,Lainnya,2015,2,6,1
 2015-02-03,R-0950,Gentamicine salep kulit,1.0,Lainnya,2015,2,6,1
 2015-02-03,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,6,1
+2015-02-03,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,6,1
 2015-02-03,R-4199,Pot 20cc,1.0,Lainnya,2015,2,6,1
 2015-02-03,R-4873,Mometasone krim 5gr,4.0,Lainnya,2015,2,6,1
 2015-02-03,AI-0043,Allopurinol 100 mg,7.0,Asam Urat,2015,2,6,1
@@ -168271,7 +168310,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-04,R-1204,kapsul kosong 1,12.0,Bahan Non-Obat,2015,2,6,2
 2015-02-04,R-1324,LCD,0.03,Lainnya,2015,2,6,2
 2015-02-04,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,2,6,2
+2015-02-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,6,2
 2015-02-04,R-4200,Pot 30cc,1.0,Lainnya,2015,2,6,2
+2015-02-04,R-5242,lanolin 150gr,0.01,Lainnya,2015,2,6,2
 2015-02-04,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,2,6,2
 2015-02-04,AI-0500,Fitbon 500 mg,15.0,Vitamin & Suplemen,2015,2,6,2
 2015-02-04,AI-0739,Ketokonazol 200 mg,20.0,Lainnya,2015,2,6,2
@@ -168701,6 +168742,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-06,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,2,6,4
 2015-02-06,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,2,6,4
 2015-02-06,R-0865,FLU TAB,10.0,Lainnya,2015,2,6,4
+2015-02-06,R-1324,LCD,0.01,Lainnya,2015,2,6,4
 2015-02-06,AI-0052,Amdixal 5 mg,30.0,Hipertensi & Jantung,2015,2,6,4
 2015-02-06,AI-0216,Cefixime 100 mg,20.0,Antibiotik,2015,2,6,4
 2015-02-06,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,2,6,4
@@ -168728,6 +168770,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-06,AI-0836,Meloxicam 15 mg,30.0,Analgesik & Antiinflamasi,2015,2,6,4
 2015-02-06,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,2,6,4
 2015-02-06,AI-1439,Voltadex 1%,1.0,Lainnya,2015,2,6,4
+2015-02-06,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,6,4
 2015-02-06,R-0056,Allopurinol 100mg tab,30.0,Asam Urat,2015,2,6,4
 2015-02-06,AI-0051,Amdixal 10 mg,30.0,Hipertensi & Jantung,2015,2,6,4
 2015-02-06,AI-0652,Hytrin 2 mg,30.0,Lainnya,2015,2,6,4
@@ -169069,6 +169112,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-10,R-1782,Paracetamol syrup,1.0,Analgesik & Antiinflamasi,2015,2,7,1
 2015-02-10,R-2468,Vitavit syr,1.0,Lainnya,2015,2,7,1
 2015-02-10,R-2778,DOMPERIDONE SYR,1.0,Lambung & Pencernaan,2015,2,7,1
+2015-02-10,R-4894,Acarbose 50mg tab,60.0,Lainnya,2015,2,7,1
 2015-02-10,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,2,7,1
 2015-02-10,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,7,1
 2015-02-10,AI-0341,Dekstrometorfan 15 mg,9.0,Lainnya,2015,2,7,1
@@ -169213,6 +169257,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-10,AI-0214,Cefadroxil 500 mg,2.0,Antibiotik,2015,2,7,1
 2015-02-10,AI-0439,Ericaf 1 mg,6.0,Lainnya,2015,2,7,1
 2015-02-10,AI-0943,Neurodex FC komb,1.0,Vitamin & Suplemen,2015,2,7,1
+2015-02-10,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,7,1
 2015-02-10,R-0865,FLU TAB,3.0,Lainnya,2015,2,7,1
 2015-02-10,R-1781,Paracetamol 500mg (REG),6.0,Analgesik & Antiinflamasi,2015,2,7,1
 2015-02-10,AI-0836,Meloxicam 15 mg,7.0,Analgesik & Antiinflamasi,2015,2,7,1
@@ -169241,8 +169286,10 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-10,AI-1525,Desoximetasone  0,1.0,Lainnya,2015,2,7,1
 2015-02-10,AI-1593,Soft u derm,1.0,Lainnya,2015,2,7,1
 2015-02-10,R-1220,KERTAS PERKAMEN,4.0,Lainnya,2015,2,7,1
+2015-02-10,R-1324,LCD,0.01,Lainnya,2015,2,7,1
 2015-02-10,R-4200,Pot 30cc,1.0,Lainnya,2015,2,7,1
 2015-02-10,R-4759,Vitamin C,15.0,Vitamin & Suplemen,2015,2,7,1
+2015-02-10,R-5242,lanolin 150gr,0.01,Lainnya,2015,2,7,1
 2015-02-10,AI-0043,Allopurinol 100 mg,30.0,Asam Urat,2015,2,7,1
 2015-02-10,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,7,1
 2015-02-10,AI-0336,Deculin 15 mg,30.0,Lainnya,2015,2,7,1
@@ -169275,6 +169322,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-11,AI-0973,Norvask 5 mg,30.0,Hipertensi & Jantung,2015,2,7,2
 2015-02-11,R-1324,LCD,0.03,Lainnya,2015,2,7,2
 2015-02-11,R-2564,Acid Salicyl,0.03,Lainnya,2015,2,7,2
+2015-02-11,R-4894,Acarbose 50mg tab,60.0,Lainnya,2015,2,7,2
 2015-02-11,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,2,7,2
 2015-02-11,AI-0336,Deculin 15 mg,30.0,Lainnya,2015,2,7,2
 2015-02-11,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,2,7,2
@@ -169436,6 +169484,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-11,AI-0293,Concor 5 mg,30.0,Hipertensi & Jantung,2015,2,7,2
 2015-02-11,AI-0853,Metformin 500 mg,60.0,Diabetes,2015,2,7,2
 2015-02-11,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,2,7,2
+2015-02-11,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,7,2
 2015-02-11,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,2,7,2
 2015-02-11,R-0475,Clindamycin 150mg,10.0,Lainnya,2015,2,7,2
 2015-02-11,R-0601,Dexamethason tab,6.0,Lainnya,2015,2,7,2
@@ -170196,6 +170245,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-12,AI-1180,Rifampicin 450 mg,19.0,Lainnya,2015,2,7,3
 2015-02-12,AI-1197,Salbutamol 2 mg,4.0,Pernapasan & Batuk,2015,2,7,3
 2015-02-12,AI-1416,Ventolin nebules 2,1.0,Lainnya,2015,2,7,3
+2015-02-12,AI-1537,Erythromycin   500 mg,7.0,Lainnya,2015,2,7,3
 2015-02-12,AI-1565,inoxin tab,14.0,Lainnya,2015,2,7,3
 2015-02-12,R-2468,Vitavit syr,1.0,Lainnya,2015,2,7,3
 2015-02-12,AI-0051,Amdixal 10 mg,10.0,Hipertensi & Jantung,2015,2,7,3
@@ -170704,6 +170754,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-13,AI-0881,Miconazol 2%,1.0,Lainnya,2015,2,7,4
 2015-02-13,AI-1057,Paracetamol 500 mg,10.0,Analgesik & Antiinflamasi,2015,2,7,4
 2015-02-13,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,7,4
+2015-02-13,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,7,4
 2015-02-13,R-4199,Pot 20cc,1.0,Lainnya,2015,2,7,4
 2015-02-13,AI-0226,Cendo Lyteers 15 ml,1.0,Lainnya,2015,2,7,4
 2015-02-13,AI-0760,Kotrimoksazol 480 mg,20.0,Lainnya,2015,2,7,4
@@ -170966,6 +171017,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-14,AI-0881,Miconazol 2%,1.0,Lainnya,2015,2,7,5
 2015-02-14,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,2,7,5
 2015-02-14,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,7,5
+2015-02-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,7,5
 2015-02-14,R-4199,Pot 20cc,1.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0115,Asthenof 0,1.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0241,Cetirizine 10 mg,30.0,Alergi,2015,2,7,5
@@ -170975,6 +171027,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-14,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,7,5
 2015-02-14,R-1324,LCD,1.0,Lainnya,2015,2,7,5
 2015-02-14,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,2,7,5
+2015-02-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,7,5
 2015-02-14,R-4199,Pot 20cc,1.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,2,7,5
 2015-02-14,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,2,7,5
@@ -170985,6 +171038,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-14,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,7,5
 2015-02-14,R-1324,LCD,1.0,Lainnya,2015,2,7,5
 2015-02-14,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,2,7,5
+2015-02-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,7,5
 2015-02-14,R-4199,Pot 20cc,1.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0500,Fitbon 500 mg,15.0,Vitamin & Suplemen,2015,2,7,5
 2015-02-14,AI-0590,Grahabion komb,15.0,Lainnya,2015,2,7,5
@@ -171058,6 +171112,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-14,AI-0118,Atmacid 350 mg kom,10.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0694,Irvebal 150 mg,30.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0973,Norvask 5 mg,7.0,Hipertensi & Jantung,2015,2,7,5
+2015-02-14,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,7,5
 2015-02-14,R-5278,Bioprexum 5mg,14.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0880,Micardis 80 mg,30.0,Lainnya,2015,2,7,5
 2015-02-14,AI-0943,Neurodex FC komb,3.0,Vitamin & Suplemen,2015,2,7,5
@@ -171549,6 +171604,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-17,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,8,1
 2015-02-17,R-1324,LCD,1.0,Lainnya,2015,2,8,1
 2015-02-17,R-1480,Methylprednisolone 4mg (REG),20.0,Kortikosteroid,2015,2,8,1
+2015-02-17,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,8,1
 2015-02-17,R-4199,Pot 20cc,1.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0255,Ciprofloxacine 500 mg,2.0,Antibiotik,2015,2,8,1
 2015-02-17,AI-0771,Lansoprazole 30 mg,1.0,Lambung & Pencernaan,2015,2,8,1
@@ -171597,6 +171653,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-17,AI-0958,Nitrokaf Retard Forte 5 mg,30.0,Hipertensi & Jantung,2015,2,8,1
 2015-02-17,AI-0973,Norvask 5 mg,15.0,Hipertensi & Jantung,2015,2,8,1
 2015-02-17,AI-1525,Desoximetasone  0,1.0,Lainnya,2015,2,8,1
+2015-02-17,AI-1537,Erythromycin   500 mg,15.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,8,1
 2015-02-17,AI-0853,Metformin 500 mg,14.0,Diabetes,2015,2,8,1
 2015-02-17,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,2,8,1
@@ -171625,6 +171682,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-17,R-1280,Lanolin 100GR,1.0,Lainnya,2015,2,8,1
 2015-02-17,R-1324,LCD,1.0,Lainnya,2015,2,8,1
 2015-02-17,R-1872,Prednison,20.0,Kortikosteroid,2015,2,8,1
+2015-02-17,R-2564,Acid Salicyl,0.01,Lainnya,2015,2,8,1
 2015-02-17,R-4199,Pot 20cc,1.0,Lainnya,2015,2,8,1
 2015-02-17,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,2,8,1
@@ -171811,6 +171869,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-17,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,2,8,1
 2015-02-17,AI-1274,Sotatic 10 mg,10.0,Saraf & Vertigo,2015,2,8,1
+2015-02-17,AI-1541,Zilop   300 mg,10.0,Lainnya,2015,2,8,1
 2015-02-17,R-0371,Cendo Asthenof ED,1.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0156,Bisoprolol 5 mg,7.0,Hipertensi & Jantung,2015,2,8,1
 2015-02-17,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,8,1
@@ -171979,6 +172038,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-17,AI-0853,Metformin 500 mg,60.0,Diabetes,2015,2,8,1
 2015-02-17,AI-0973,Norvask 5 mg,28.0,Hipertensi & Jantung,2015,2,8,1
 2015-02-17,AI-1246,Simvastatin 10 mg,30.0,Kolesterol,2015,2,8,1
+2015-02-17,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,8,1
 2015-02-17,R-2212,Symbicort Turbuheler 160/4.5 60 dosis,1.0,Lainnya,2015,2,8,1
 2015-02-17,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,8,1
 2015-02-17,AI-0292,Concor 2,15.0,Hipertensi & Jantung,2015,2,8,1
@@ -172555,6 +172615,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-19,AI-1599,Natrium Diklofenac 50mg,5.0,Lainnya,2015,2,8,3
 2015-02-19,AI-0068,Amlodipin 5 mg,7.0,Hipertensi & Jantung,2015,2,8,3
 2015-02-19,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,2,8,3
+2015-02-19,AI-1537,Erythromycin   500 mg,12.0,Lainnya,2015,2,8,3
 2015-02-19,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,2,8,3
 2015-02-19,R-0973,Glucodex 80mg,7.0,Diabetes,2015,2,8,3
 2015-02-19,R-1471,Metformin 500,21.0,Diabetes,2015,2,8,3
@@ -173388,6 +173449,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-21,R-1203,Kapsul kosong 00,60.0,Bahan Non-Obat,2015,2,8,5
 2015-02-21,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,2,8,5
 2015-02-21,R-1490,Metronidazole 500 mg,5.0,Antibiotik,2015,2,8,5
+2015-02-21,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,2,8,5
 2015-02-21,R-5154,Valesco 80mg tab,30.0,Lainnya,2015,2,8,5
 2015-02-21,AI-0068,Amlodipin 5 mg,30.0,Hipertensi & Jantung,2015,2,8,5
 2015-02-21,AI-0114,Aspilets 80 mg,30.0,Analgesik & Antiinflamasi,2015,2,8,5
@@ -173641,6 +173703,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-21,AI-0043,Allopurinol 100 mg,15.0,Asam Urat,2015,2,8,5
 2015-02-21,AI-0120,Atorvastatin 20 mg,30.0,Kolesterol,2015,2,8,5
 2015-02-21,AI-1398,Vagistin 500 mg,6.0,Lainnya,2015,2,8,5
+2015-02-21,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,8,5
 2015-02-21,R-1490,Metronidazole 500 mg,10.0,Antibiotik,2015,2,8,5
 2015-02-21,AI-0097,Aptor 100 mg,30.0,Analgesik & Antiinflamasi,2015,2,8,5
 2015-02-21,AI-0958,Nitrokaf Retard Forte 5 mg,60.0,Hipertensi & Jantung,2015,2,8,5
@@ -174406,6 +174469,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-25,AI-0832,Mecobalamine 500 mcg,20.0,Vitamin & Suplemen,2015,2,9,2
 2015-02-25,AI-1168,Renadinac 25 mg,20.0,Analgesik & Antiinflamasi,2015,2,9,2
 2015-02-25,AI-1409,Vastigo 6 mg,15.0,Saraf & Vertigo,2015,2,9,2
+2015-02-25,AI-1544,Dimenhydrinate 50 mg,15.0,Lainnya,2015,2,9,2
 2015-02-25,R-0635,diazepam 2mg,20.0,Lainnya,2015,2,9,2
 2015-02-25,R-1204,kapsul kosong 1,15.0,Bahan Non-Obat,2015,2,9,2
 2015-02-25,AI-0860,Methylprednisolone 4 mg,15.0,Kortikosteroid,2015,2,9,2
@@ -174505,6 +174569,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-24,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,2,9,1
 2015-02-24,AI-0957,Nitrokaf Retard 2,60.0,Hipertensi & Jantung,2015,2,9,1
 2015-02-24,AI-0999,Olmetec 20 mg,30.0,Lainnya,2015,2,9,1
+2015-02-24,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,9,1
 2015-02-24,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,9,1
 2015-02-24,AI-0860,Methylprednisolone 4 mg,12.0,Kortikosteroid,2015,2,9,1
 2015-02-24,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,2,9,1
@@ -174747,6 +174812,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-25,AI-0957,Nitrokaf Retard 2,60.0,Hipertensi & Jantung,2015,2,9,2
 2015-02-25,AI-1267,Solosa 2 mg,30.0,Lainnya,2015,2,9,2
 2015-02-25,AI-1402,Valsartan NI 160 mg,30.0,Hipertensi & Jantung,2015,2,9,2
+2015-02-25,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,9,2
 2015-02-19,AI-0837,Meloxicam 7,10.0,Analgesik & Antiinflamasi,2015,2,8,3
 2015-02-19,AI-0860,Methylprednisolone 4 mg,12.0,Kortikosteroid,2015,2,8,3
 2015-02-19,AI-1439,Voltadex 1%,1.0,Lainnya,2015,2,8,3
@@ -174758,6 +174824,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-20,AI-1376,Triheksifenidil HCl 2 mg,60.0,Lainnya,2015,2,8,4
 2015-02-20,R-1204,kapsul kosong 1,60.0,Bahan Non-Obat,2015,2,8,4
 2015-02-20,R-2125,Sirdalud,30.0,Lainnya,2015,2,8,4
+2015-02-20,R-4912,SIFROL 0.75,20.0,Lainnya,2015,2,8,4
 2015-02-20,AI-1439,Voltadex 1%,1.0,Lainnya,2015,2,8,4
 2015-02-20,AI-0740,Ketoprofen 100 mg,6.0,Lainnya,2015,2,8,4
 2015-02-20,AI-1168,Renadinac 25 mg,10.0,Analgesik & Antiinflamasi,2015,2,8,4
@@ -174803,6 +174870,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-26,AI-0832,Mecobalamine 500 mcg,15.0,Vitamin & Suplemen,2015,2,9,3
 2015-02-26,AI-0652,Hytrin 2 mg,30.0,Lainnya,2015,2,9,3
 2015-02-26,AI-0688,Irbedox 300 mg,30.0,Lainnya,2015,2,9,3
+2015-02-26,AI-1540,Cordila SR 90 mg,30.0,Lainnya,2015,2,9,3
 2015-02-26,AI-1419,Verorab 0,1.0,Lainnya,2015,2,9,3
 2015-02-26,AI-0226,Cendo Lyteers 15 ml,1.0,Lainnya,2015,2,9,3
 2015-02-26,AI-0832,Mecobalamine 500 mcg,20.0,Vitamin & Suplemen,2015,2,9,3
@@ -174845,6 +174913,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-26,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,2,9,3
 2015-02-26,AI-0590,Grahabion komb,10.0,Lainnya,2015,2,9,3
 2015-02-26,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,2,9,3
+2015-02-26,AI-1537,Erythromycin   500 mg,12.0,Lainnya,2015,2,9,3
 2015-02-26,R-0137,Asam Mefenamat 500mg tab,12.0,Analgesik & Antiinflamasi,2015,2,9,3
 2015-02-26,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,2,9,3
 2015-02-26,AI-0264,Clindamycin 300 mg,15.0,Lainnya,2015,2,9,3
@@ -175032,6 +175101,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-27,AI-0181,Cameloc 15 mg,10.0,Lainnya,2015,2,9,4
 2015-02-27,AI-1060,Paratusin 577 mg tab,10.0,Lainnya,2015,2,9,4
 2015-02-27,AI-1402,Valsartan NI 160 mg,30.0,Hipertensi & Jantung,2015,2,9,4
+2015-02-27,AI-1540,Cordila SR 90 mg,30.0,Lainnya,2015,2,9,4
 2015-02-27,AI-0576,Glucobay 100 mg,90.0,Diabetes,2015,2,9,4
 2015-02-27,AI-0973,Norvask 5 mg,30.0,Hipertensi & Jantung,2015,2,9,4
 2015-02-27,AI-1267,Solosa 2 mg,30.0,Lainnya,2015,2,9,4
@@ -175124,6 +175194,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-28,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,2,9,5
 2015-02-28,AI-0418,Elkana syr,1.0,Lainnya,2015,2,9,5
 2015-02-28,AI-1197,Salbutamol 2 mg,4.0,Pernapasan & Batuk,2015,2,9,5
+2015-02-28,R-4913,Cetirizine 5mg/5ml,1.0,Alergi,2015,2,9,5
 2015-02-28,AI-0530,Furosemide 40 mg,3.0,Hipertensi & Jantung,2015,2,9,5
 2015-02-28,AI-1381,Trunal 50 mg,10.0,Lainnya,2015,2,9,5
 2015-02-28,AI-0226,Cendo Lyteers 15 ml,1.0,Lainnya,2015,2,9,5
@@ -175142,6 +175213,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-28,AI-1056,Paracetamol 120 mg/5ml,1.0,Analgesik & Antiinflamasi,2015,2,9,5
 2015-02-28,R-2468,Vitavit syr,1.0,Lainnya,2015,2,9,5
 2015-02-28,R-2948,ISPRINOL SYR,1.0,Lainnya,2015,2,9,5
+2015-02-28,R-4913,Cetirizine 5mg/5ml,1.0,Alergi,2015,2,9,5
 2015-02-28,AI-0135,Azithromycin 500 mg,3.0,Antibiotik,2015,2,9,5
 2015-02-28,AI-0661,Ibuprofen 400 mg,5.0,Analgesik & Antiinflamasi,2015,2,9,5
 2015-02-28,AI-0771,Lansoprazole 30 mg,5.0,Lambung & Pencernaan,2015,2,9,5
@@ -175224,6 +175296,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-02-28,AI-1266,Solosa 1 mg,30.0,Lainnya,2015,2,9,5
 2015-02-28,AI-1387,Ulsafate 500 mg/5 m,1.0,Lainnya,2015,2,9,5
 2015-02-28,AI-1525,Desoximetasone  0,1.0,Lainnya,2015,2,9,5
+2015-02-28,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,2,9,5
 2015-02-28,R-4910,Molexdryl syp,1.0,Lainnya,2015,2,9,5
 2015-02-25,AI-0097,Aptor 100 mg,30.0,Analgesik & Antiinflamasi,2015,2,9,2
 2015-02-25,AI-0156,Bisoprolol 5 mg,30.0,Hipertensi & Jantung,2015,2,9,2
@@ -189247,6 +189320,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-06,R-2262,Tetagam Inj,1.0,Lainnya,2015,3,10,4
 2015-03-06,R-5236,Spuit 3 cc Cosmomed,1.0,Lainnya,2015,3,10,4
 2015-03-07,R-0123,Aqua 1 LTR WIDA,1.0,Lainnya,2015,3,10,5
+2015-03-07,R-0175,Becefort tab,120.0,Lainnya,2015,3,10,5
 2015-03-07,R-0194,Betadin sol 60 ml,1.0,Lainnya,2015,3,10,5
 2015-03-07,R-0264,Burnazin  saleb,1.0,Lainnya,2015,3,10,5
 2015-03-06,R-1324,LCD,0.03,Lainnya,2015,3,10,4
@@ -191038,6 +191112,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-03,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,3,10,1
 2015-03-03,AI-1246,Simvastatin 10 mg,7.0,Kolesterol,2015,3,10,1
 2015-03-03,AI-1372,Triaxitrol 5 ml,1.0,Lainnya,2015,3,10,1
+2015-03-03,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,3,10,1
 2015-03-03,R-1672,Norvask 5 mg,30.0,Hipertensi & Jantung,2015,3,10,1
 2015-03-03,R-1709,OLMETEC 20,30.0,Lainnya,2015,3,10,1
 2015-03-03,AI-0577,Glucobay 50 mg,60.0,Diabetes,2015,3,10,1
@@ -191276,6 +191351,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-03,AI-0565,Glimepiride 2 mg,28.0,Diabetes,2015,3,10,1
 2015-03-03,AI-0577,Glucobay 50 mg,84.0,Diabetes,2015,3,10,1
 2015-03-03,AI-0695,Irvebal 300 mg,30.0,Lainnya,2015,3,10,1
+2015-03-03,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,3,10,1
 2015-03-03,R-1672,Norvask 5 mg,28.0,Hipertensi & Jantung,2015,3,10,1
 2015-03-03,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,3,10,1
 2015-03-03,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,3,10,1
@@ -191315,6 +191391,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-03,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,10,1
 2015-03-03,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,1
 2015-03-03,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,10,1
+2015-03-03,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,1
 2015-03-03,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,1
 2015-03-03,R-4718,Allopurinol 300 tab,30.0,Asam Urat,2015,3,10,1
 2015-03-04,AI-0357,Dexocort 0,1.0,Lainnya,2015,3,10,2
@@ -191325,6 +191402,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,10,2
 2015-03-04,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,2
 2015-03-04,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,10,2
+2015-03-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,2
 2015-03-04,R-3393,ZYLORIC TAB 300 MG,10.0,Lainnya,2015,3,10,2
 2015-03-04,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0297,Cordila SR 180 mg,30.0,Lainnya,2015,3,10,2
@@ -191344,6 +191422,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,10,2
 2015-03-04,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,2
 2015-03-04,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,10,2
+2015-03-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,2
 2015-03-04,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0255,Ciprofloxacine 500 mg,2.0,Antibiotik,2015,3,10,2
 2015-03-04,AI-0357,Dexocort 0,1.0,Lainnya,2015,3,10,2
@@ -191353,6 +191432,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,10,2
 2015-03-04,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,2
 2015-03-04,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,10,2
+2015-03-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,2
 2015-03-04,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0357,Dexocort 0,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0781,Lenal Ace 667 mg,45.0,Lainnya,2015,3,10,2
@@ -191363,6 +191443,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,10,2
 2015-03-04,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,2
 2015-03-04,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,10,2
+2015-03-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,2
 2015-03-04,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0050,Ambroxol 30 mg,15.0,Pernapasan & Batuk,2015,3,10,2
 2015-03-04,AI-0135,Azithromycin 500 mg,3.0,Antibiotik,2015,3,10,2
@@ -191372,6 +191453,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,R-1203,Kapsul kosong 00,20.0,Bahan Non-Obat,2015,3,10,2
 2015-03-04,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,10,2
 2015-03-04,R-1480,Methylprednisolone 4mg (REG),20.0,Kortikosteroid,2015,3,10,2
+2015-03-04,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,2
 2015-03-04,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0226,Cendo Lyteers 15 ml,1.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0272,Clopidogrel 75 mg,30.0,Hipertensi & Jantung,2015,3,10,2
@@ -191796,6 +191878,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-04,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,3,10,2
 2015-03-04,AI-0500,Fitbon 500 mg,30.0,Vitamin & Suplemen,2015,3,10,2
 2015-03-04,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,3,10,2
+2015-03-04,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,3,10,2
 2015-03-04,R-3122,PLASMINEX TAB,5.0,Lainnya,2015,3,10,2
 2015-03-04,AI-0075,Amoxicillin 500 mg,10.0,Antibiotik,2015,3,10,2
 2015-03-04,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,3,10,2
@@ -192091,6 +192174,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-05,AI-0836,Meloxicam 15 mg,7.0,Analgesik & Antiinflamasi,2015,3,10,3
 2015-03-05,AI-0903,Mucogard 500 mg/5 m,1.0,Lainnya,2015,3,10,3
 2015-03-05,AI-1403,Valsartan NI 80 mg,30.0,Hipertensi & Jantung,2015,3,10,3
+2015-03-05,AI-1539,UNKNOWN_PRODUCT,30.0,Lainnya,2015,3,10,3
 2015-03-05,R-0742,EPERISONE OGB,30.0,Lainnya,2015,3,10,3
 2015-03-05,R-1431,MECOBALAMIN 500,30.0,Vitamin & Suplemen,2015,3,10,3
 2015-03-05,AI-0216,Cefixime 100 mg,6.0,Antibiotik,2015,3,10,3
@@ -192542,6 +192626,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-06,AI-0564,Glimepiride 1 mg,30.0,Diabetes,2015,3,10,4
 2015-03-06,AI-0771,Lansoprazole 30 mg,12.0,Lambung & Pencernaan,2015,3,10,4
 2015-03-06,AI-1057,Paracetamol 500 mg,4.0,Analgesik & Antiinflamasi,2015,3,10,4
+2015-03-06,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,3,10,4
 2015-03-06,R-0865,FLU TAB,3.0,Lainnya,2015,3,10,4
 2015-03-06,AI-0097,Aptor 100 mg,30.0,Analgesik & Antiinflamasi,2015,3,10,4
 2015-03-06,AI-0120,Atorvastatin 20 mg,30.0,Kolesterol,2015,3,10,4
@@ -193159,6 +193244,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-05,R-0919,fuson,1.0,Lainnya,2015,3,10,3
 2015-03-05,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,3,10,3
 2015-03-05,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,3,10,3
+2015-03-05,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,10,3
 2015-03-05,R-4199,Pot 20cc,1.0,Lainnya,2015,3,10,3
 2015-03-05,R-5318,LANOLIN 40 GR,1.0,Lainnya,2015,3,10,3
 2015-03-07,AI-0097,Aptor 100 mg,30.0,Analgesik & Antiinflamasi,2015,3,10,5
@@ -193285,6 +193371,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-10,AI-0025,Acyclovir 400 mg,50.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0066,Amitriptyline 25 mg,15.0,Lainnya,2015,3,11,1
 2015-03-10,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,3,11,1
+2015-03-10,AI-1537,Erythromycin   500 mg,15.0,Lainnya,2015,3,11,1
 2015-03-10,R-0023,Acyclovir 5gr,1.0,Lainnya,2015,3,11,1
 2015-03-10,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,3,11,1
 2015-03-10,R-2212,Symbicort Turbuheler 160/4.5 60 dosis,1.0,Lainnya,2015,3,11,1
@@ -195018,6 +195105,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-13,AI-0566,Glimepiride 3 mg,28.0,Diabetes,2015,3,11,4
 2015-03-13,AI-0654,Hytroz 2 mg,28.0,Lainnya,2015,3,11,4
 2015-03-13,AI-0853,Metformin 500 mg,84.0,Diabetes,2015,3,11,4
+2015-03-13,AI-1537,Erythromycin   500 mg,10.0,Lainnya,2015,3,11,4
 2015-03-13,R-0122,Aptor tab,28.0,Analgesik & Antiinflamasi,2015,3,11,4
 2015-03-13,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,3,11,4
 2015-03-13,R-4759,Vitamin C,10.0,Vitamin & Suplemen,2015,3,11,4
@@ -197428,6 +197516,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-20,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,12,4
 2015-03-20,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,12,4
 2015-03-20,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,12,4
+2015-03-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,12,4
 2015-03-20,R-4199,Pot 20cc,1.0,Lainnya,2015,3,12,4
 2015-03-20,AI-0043,Allopurinol 100 mg,15.0,Asam Urat,2015,3,12,4
 2015-03-20,AI-0051,Amdixal 10 mg,7.0,Hipertensi & Jantung,2015,3,12,4
@@ -197456,6 +197545,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-20,AI-1267,Solosa 2 mg,15.0,Lainnya,2015,3,12,4
 2015-03-20,AI-1394,Urixin 400 mg,10.0,Lainnya,2015,3,12,4
 2015-03-20,AI-1398,Vagistin 500 mg,1.0,Lainnya,2015,3,12,4
+2015-03-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,12,4
 2015-03-20,R-4199,Pot 20cc,1.0,Lainnya,2015,3,12,4
 2015-03-20,R-5318,LANOLIN 40 GR,1.0,Lainnya,2015,3,12,4
 2015-03-20,AI-0241,Cetirizine 10 mg,30.0,Alergi,2015,3,12,4
@@ -197467,6 +197557,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-20,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,12,4
 2015-03-20,R-1324,LCD,1.0,Lainnya,2015,3,12,4
 2015-03-20,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,12,4
+2015-03-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,12,4
 2015-03-20,R-4199,Pot 20cc,1.0,Lainnya,2015,3,12,4
 2015-03-20,AI-0241,Cetirizine 10 mg,30.0,Alergi,2015,3,12,4
 2015-03-20,AI-0357,Dexocort 0,1.0,Lainnya,2015,3,12,4
@@ -197475,6 +197566,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-20,R-1203,Kapsul kosong 00,30.0,Bahan Non-Obat,2015,3,12,4
 2015-03-20,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,12,4
 2015-03-20,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,3,12,4
+2015-03-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,12,4
 2015-03-20,R-4199,Pot 20cc,1.0,Lainnya,2015,3,12,4
 2015-03-20,AI-0241,Cetirizine 10 mg,20.0,Alergi,2015,3,12,4
 2015-03-20,AI-0357,Dexocort 0,1.0,Lainnya,2015,3,12,4
@@ -197485,6 +197577,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-03-20,AI-1180,Rifampicin 450 mg,7.0,Lainnya,2015,3,12,4
 2015-03-20,AI-1349,Tibitol 250 mg,21.0,Lainnya,2015,3,12,4
 2015-03-20,R-1280,Lanolin 100GR,1.0,Lainnya,2015,3,12,4
+2015-03-20,R-2564,Acid Salicyl,0.01,Lainnya,2015,3,12,4
 2015-03-20,R-4199,Pot 20cc,1.0,Lainnya,2015,3,12,4
 2015-03-20,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,3,12,4
 2015-03-20,AI-1168,Renadinac 25 mg,14.0,Analgesik & Antiinflamasi,2015,3,12,4
@@ -250043,6 +250136,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-06-20,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,6,25,5
 2015-06-20,AI-0052,Amdixal 5 mg,30.0,Hipertensi & Jantung,2015,6,25,5
 2015-06-20,AI-0187,Canderin 16 mg,30.0,Hipertensi & Jantung,2015,6,25,5
+2015-06-20,AI-1057,Paracetamol 500 mg,120.0,Analgesik & Antiinflamasi,2015,6,25,5
 2015-06-20,AI-1243,Simarc 2 mg,90.0,Lainnya,2015,6,25,5
 2015-06-20,AI-1284,Spironolacton 25 mg,15.0,Hipertensi & Jantung,2015,6,25,5
 2015-06-20,AI-1397,Vaclo 75 mg,30.0,Lainnya,2015,6,25,5
@@ -259303,7 +259397,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-06-26,R-0481,Clobazam,5.0,Lainnya,2015,6,26,4
 2015-06-26,AI-0701,Isoniazide 300 mg,28.0,Lainnya,2015,6,26,4
 2015-06-26,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,6,26,4
+2015-06-26,AI-1141,Pyrazinamide 500 mg,120.0,Lainnya,2015,6,26,4
 2015-06-26,AI-1180,Rifampicin 450 mg,28.0,Lainnya,2015,6,26,4
+2015-06-26,AI-1349,Tibitol 250 mg,120.0,Lainnya,2015,6,26,4
 2015-06-26,AI-0860,Methylprednisolone 4 mg,15.0,Kortikosteroid,2015,6,26,4
 2015-06-26,AI-1178,Rhinofed 70 mg,10.0,Lainnya,2015,6,26,4
 2015-06-26,R-0967,Gliseril Guaiacolat Tab,10.0,Lainnya,2015,6,26,4
@@ -259990,14 +260086,27 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-06-25,AI-0255,Ciprofloxacine 500 mg,6.0,Antibiotik,2015,6,26,3
 2015-06-25,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,6,26,3
 2015-06-25,AI-1260,Sod. Chlorida (NaCl) 0,3.0,Bahan Non-Obat,2015,6,26,3
+2015-07-14,AI-0063,Aminopyline 200 mg,120.0,Lainnya,2015,7,29,1
+2015-07-14,AI-0075,Amoxicillin 500 mg,120.0,Antibiotik,2015,7,29,1
+2015-07-14,AI-0083,Antalgin 500 mg,120.0,Lainnya,2015,7,29,1
+2015-07-14,AI-0354,Dexanta 350 mg tab,120.0,Lainnya,2015,7,29,1
+2015-07-14,AI-1057,Paracetamol 500 mg,120.0,Analgesik & Antiinflamasi,2015,7,29,1
 2015-07-14,AI-1107,Povidon Iodine lar 10%/60,54.0,Lainnya,2015,7,29,1
+2015-07-14,AI-1550,Oralit 200ml,120.0,Lainnya,2015,7,29,1
+2015-07-14,R-0111,Antimo tab,120.0,Lainnya,2015,7,29,1
 2015-07-14,R-0196,BETADINE SOL 30ML,27.0,Lainnya,2015,7,29,1
+2015-07-14,R-0436,Chlorpeniramine Maleat 4mg (CTM),120.0,Lainnya,2015,7,29,1
 2015-07-14,R-1336,Levertran zalf 15 gr,90.0,Lainnya,2015,7,29,1
 2015-07-14,R-1516,Minyak kapak 10ml,45.0,Lainnya,2015,7,29,1
 2015-07-14,R-1589,Nebacetin 5gr,27.0,Lainnya,2015,7,29,1
+2015-07-14,R-1700,OBH syr,120.0,Pernapasan & Batuk,2015,7,29,1
+2015-07-14,R-1779,Papaverin Tab,120.0,Lainnya,2015,7,29,1
 2015-07-14,R-2022,Rivanol Kompres 100ml,36.0,Lainnya,2015,7,29,1
+2015-07-14,R-2264,Tetracyline 250,120.0,Lainnya,2015,7,29,1
 2015-07-14,R-2576,Alkohol 70% 100 ml,36.0,Lainnya,2015,7,29,1
+2015-07-14,R-3846,Hansaplast biasa,120.0,Lainnya,2015,7,29,1
 2015-07-14,R-3995,Leukoplast 0,18.0,Lainnya,2015,7,29,1
+2015-07-14,R-4424,Verban 4 x 10 cm,120.0,Lainnya,2015,7,29,1
 2015-07-14,R-4673,Kasa Steril Molex,45.0,Lainnya,2015,7,29,1
 2015-07-25,AI-0216,Cefixime 100 mg,20.0,Antibiotik,2015,7,30,5
 2015-07-25,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,7,30,5
@@ -262687,6 +262796,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-08,AI-1197,Salbutamol 2 mg,2.0,Pernapasan & Batuk,2015,7,28,2
 2015-07-08,R-1203,Kapsul kosong 00,15.0,Bahan Non-Obat,2015,7,28,2
 2015-07-08,R-4199,Pot 20cc,1.0,Lainnya,2015,7,28,2
+2015-07-08,R-4919,CHLORAL HIDRAT SERBUK,120.0,Lainnya,2015,7,28,2
 2015-07-08,AI-1058,Paracetamol Drop 100 mg/ml,1.0,Analgesik & Antiinflamasi,2015,7,28,2
 2015-07-08,AI-1058,Paracetamol Drop 100 mg/ml,1.0,Analgesik & Antiinflamasi,2015,7,28,2
 2015-07-08,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,7,28,2
@@ -267385,6 +267495,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-05,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,7,27,6
 2015-07-05,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,7,27,6
 2015-07-05,R-1203,Kapsul kosong 00,90.0,Bahan Non-Obat,2015,7,27,6
+2015-07-05,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,7,27,6
 2015-07-05,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,7,27,6
 2015-07-05,AI-1168,Renadinac 25 mg,10.0,Analgesik & Antiinflamasi,2015,7,27,6
 2015-07-05,AI-1246,Simvastatin 10 mg,5.0,Kolesterol,2015,7,27,6
@@ -274357,6 +274468,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-17,AI-0417,Elkana tab,10.0,Lainnya,2015,7,29,4
 2015-07-17,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,7,29,4
 2015-07-17,AI-1028,Osteocal 500 mg,10.0,Vitamin & Suplemen,2015,7,29,4
+2015-07-17,AI-0486,Fenobarbital 30 mg,120.0,Lainnya,2015,7,29,4
 2015-07-17,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,7,29,4
 2015-07-17,AI-1290,Starfolat 1 mg,5.0,Vitamin & Suplemen,2015,7,29,4
 2015-07-17,R-1204,kapsul kosong 1,90.0,Bahan Non-Obat,2015,7,29,4
@@ -276968,6 +277080,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-07-21,R-4982,Gemcikal 200mg inj,2.0,Lainnya,2015,7,30,1
 2015-07-21,R-4986,Gemcikal 1000 inj,1.0,Lainnya,2015,7,30,1
 2015-08-12,AI-0174,Burnazin 1%,100.0,Lainnya,2015,8,33,2
+2015-08-12,R-2576,Alkohol 70% 100 ml,120.0,Lainnya,2015,8,33,2
+2015-08-12,R-2941,IODINE POVIDON 30ML,120.0,Lainnya,2015,8,33,2
+2015-08-12,R-3846,Hansaplast biasa,120.0,Lainnya,2015,8,33,2
 2015-08-12,R-3953,Kapas 50gr,50.0,Lainnya,2015,8,33,2
 2015-08-12,R-3995,Leukoplast 0,50.0,Lainnya,2015,8,33,2
 2015-08-12,R-4506,Masker Jilbab Remedi @ 50 pcs,100.0,Lainnya,2015,8,33,2
@@ -281162,6 +281277,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-21,R-3762,Folley Chateter No. 16 Well Lead,1.0,Lainnya,2015,8,34,4
 2015-08-21,R-4552,Disp Spuit 10 cc Onemed,1.0,Lainnya,2015,8,34,4
 2015-08-21,R-4843,Urine bag with hanger 2L remedi,1.0,Lainnya,2015,8,34,4
+2015-08-21,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,8,34,4
 2015-08-21,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,8,34,4
 2015-08-21,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,8,34,4
 2015-08-21,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,8,34,4
@@ -283269,6 +283385,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-14,AI-0717,Kalnex 250 mg,6.0,Lainnya,2015,8,33,4
 2015-08-14,AI-0943,Neurodex FC komb,3.0,Vitamin & Suplemen,2015,8,33,4
 2015-08-15,R-0539,CRESTOR 10,30.0,Lainnya,2015,8,33,5
+2015-08-15,R-1228,Ketosteril,120.0,Lainnya,2015,8,33,5
 2015-08-15,R-2625,BICNAT TAB,30.0,Lainnya,2015,8,33,5
 2015-08-14,AI-0943,Neurodex FC komb,1.0,Vitamin & Suplemen,2015,8,33,4
 2015-08-14,AI-1409,Vastigo 6 mg,3.0,Saraf & Vertigo,2015,8,33,4
@@ -286236,6 +286353,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-12,AI-0162,Braxidin 7,10.0,Lainnya,2015,8,33,2
 2015-08-12,AI-0293,Concor 5 mg,30.0,Hipertensi & Jantung,2015,8,33,2
 2015-08-12,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,8,33,2
+2015-08-12,AI-1524,Dilavask 5 mg,120.0,Hipertensi & Jantung,2015,8,33,2
 2015-08-13,AI-1059,Paratusin 294,1.0,Lainnya,2015,8,33,3
 2015-08-13,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,8,33,3
 2015-08-13,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,8,33,3
@@ -287595,6 +287713,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-20,R-1203,Kapsul kosong 00,12.0,Bahan Non-Obat,2015,8,34,3
 2015-08-20,AI-0114,Aspilets 80 mg,30.0,Analgesik & Antiinflamasi,2015,8,34,3
 2015-08-20,AI-0226,Cendo Lyteers 15 ml,1.0,Lainnya,2015,8,34,3
+2015-08-20,AI-0578,Glucodex 80 mg,120.0,Diabetes,2015,8,34,3
 2015-08-20,AI-0853,Metformin 500 mg,60.0,Diabetes,2015,8,34,3
 2015-08-20,R-2754,DIOVAN 80 TAB,15.0,Hipertensi & Jantung,2015,8,34,3
 2015-08-20,AI-0011,Actapin 5 mg,30.0,Lainnya,2015,8,34,3
@@ -289860,6 +289979,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-05,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,8,32,2
 2015-08-05,AI-0106,Asam Mefenamat 500 mg,5.0,Analgesik & Antiinflamasi,2015,8,32,2
 2015-08-05,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,8,32,2
+2015-08-05,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,8,32,2
 2015-08-05,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,8,32,2
 2015-08-05,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,8,32,2
 2015-08-05,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,8,32,2
@@ -291987,6 +292107,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-08-11,AI-1247,Simvastatin 20 mg,7.0,Kolesterol,2015,8,33,1
 2015-08-11,AI-1524,Dilavask 5 mg,30.0,Hipertensi & Jantung,2015,8,33,1
 2015-08-11,R-0742,EPERISONE OGB,10.0,Lainnya,2015,8,33,1
+2015-08-11,AI-1185,Rimcure Paed 275 mg,120.0,Lainnya,2015,8,33,1
+2015-08-11,R-1872,Prednison,120.0,Kortikosteroid,2015,8,33,1
 2015-08-11,AI-0609,Harnal Ocas 0,30.0,Lainnya,2015,8,33,1
 2015-08-12,AI-0406,Eclid 50 mg,56.0,Diabetes,2015,8,33,2
 2015-08-12,AI-0565,Glimepiride 2 mg,28.0,Diabetes,2015,8,33,2
@@ -298337,18 +298459,47 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-08,AI-0216,Cefixime 100 mg,15.0,Antibiotik,2015,9,37,1
 2015-09-08,AI-0661,Ibuprofen 400 mg,5.0,Analgesik & Antiinflamasi,2015,9,37,1
 2015-09-08,AI-1178,Rhinofed 70 mg,10.0,Lainnya,2015,9,37,1
-2015-09-18,AI-0050,Ambroxol 30 mg,80.0,Pernapasan & Batuk,2015,9,38,4
-2015-09-18,AI-0075,Amoxicillin 500 mg,90.0,Antibiotik,2015,9,38,4
+2015-09-18,AI-0024,Acyclovir 200 mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-0050,Ambroxol 30 mg,320.0,Pernapasan & Batuk,2015,9,38,4
+2015-09-18,AI-0075,Amoxicillin 500 mg,210.0,Antibiotik,2015,9,38,4
+2015-09-18,AI-0097,Aptor 100 mg,120.0,Analgesik & Antiinflamasi,2015,9,38,4
+2015-09-18,AI-0191,Captopril 12,120.0,Hipertensi & Jantung,2015,9,38,4
+2015-09-18,AI-0192,Captopril 25 mg,120.0,Hipertensi & Jantung,2015,9,38,4
+2015-09-18,AI-0241,Cetirizine 10 mg,120.0,Alergi,2015,9,38,4
+2015-09-18,AI-0354,Dexanta 350 mg tab,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-0374,Digoxine 0,120.0,Lainnya,2015,9,38,4
 2015-09-18,AI-0448,Erythromycin 250 mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-0625,Hidroklorotiazid 25 mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-0645,Hydrocortison 2,120.0,Lainnya,2015,9,38,4
 2015-09-18,AI-0853,Metformin 500 mg,100.0,Diabetes,2015,9,38,4
+2015-09-18,AI-0860,Methylprednisolone 4 mg,120.0,Kortikosteroid,2015,9,38,4
+2015-09-18,AI-0875,Metronidazole 500 mg,120.0,Antibiotik,2015,9,38,4
+2015-09-18,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,9,38,4
+2015-09-18,AI-0947,New Diatab 600 mg,120.0,Lainnya,2015,9,38,4
 2015-09-18,AI-1056,Paracetamol 120 mg/5ml,50.0,Analgesik & Antiinflamasi,2015,9,38,4
+2015-09-18,AI-1089,Piroxicam 10 mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-1156,Ranitidine 150 mg,120.0,Lambung & Pencernaan,2015,9,38,4
+2015-09-18,AI-1274,Sotatic 10 mg,120.0,Saraf & Vertigo,2015,9,38,4
+2015-09-18,AI-1306,Sultrimmix 480 mg,120.0,Lainnya,2015,9,38,4
 2015-09-18,AI-1315,Talk Salicyl 2%,40.0,Lainnya,2015,9,38,4
+2015-09-18,AI-1537,Erythromycin   500 mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,AI-1549,Allopurinol 300 mg,120.0,Asam Urat,2015,9,38,4
 2015-09-18,AI-1550,Oralit 200ml,100.0,Lainnya,2015,9,38,4
 2015-09-18,R-0107,Antasida Doen Syr,30.0,Lambung & Pencernaan,2015,9,38,4
-2015-09-18,R-0436,Chlorpeniramine Maleat 4mg (CTM),80.0,Lainnya,2015,9,38,4
+2015-09-18,R-0137,Asam Mefenamat 500mg tab,120.0,Analgesik & Antiinflamasi,2015,9,38,4
+2015-09-18,R-0147,Atmacid 400 tab,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-0436,Chlorpeniramine Maleat 4mg (CTM),320.0,Lainnya,2015,9,38,4
+2015-09-18,R-0601,Dexamethason tab,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-0865,FLU TAB,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-0967,Gliseril Guaiacolat Tab,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-1055,Histapan Tab 50mg,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-1220,KERTAS PERKAMEN,240.0,Lainnya,2015,9,38,4
 2015-09-18,R-1224,Ketoconazole Cream,62.0,Lainnya,2015,9,38,4
-2015-09-18,R-1781,Paracetamol 500mg (REG),80.0,Analgesik & Antiinflamasi,2015,9,38,4
-2015-09-18,R-1872,Prednison,67.0,Kortikosteroid,2015,9,38,4
+2015-09-18,R-1700,OBH syr,120.0,Pernapasan & Batuk,2015,9,38,4
+2015-09-18,R-1781,Paracetamol 500mg (REG),320.0,Analgesik & Antiinflamasi,2015,9,38,4
+2015-09-18,R-1872,Prednison,307.0,Kortikosteroid,2015,9,38,4
+2015-09-18,R-2253,Teosal Tab,120.0,Lainnya,2015,9,38,4
+2015-09-18,R-2468,Vitavit syr,120.0,Lainnya,2015,9,38,4
 2015-09-18,R-3167,Pyrantil Pamoat,40.0,Lainnya,2015,9,38,4
 2015-09-18,R-5037,RECO SLP MATA,40.0,Lainnya,2015,9,38,4
 2015-09-18,R-5104,Travilon 250 mg,100.0,Lainnya,2015,9,38,4
@@ -299751,6 +299902,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-02,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,9,36,2
 2015-09-02,R-0313,Carmed cream 40gr 10%,0.5,Lainnya,2015,9,36,2
 2015-09-02,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,9,36,2
+2015-09-02,R-1280,Lanolin 100GR,0.01,Lainnya,2015,9,36,2
 2015-09-02,R-2564,Acid Salicyl,1.0,Lainnya,2015,9,36,2
 2015-09-02,R-4199,Pot 20cc,1.0,Lainnya,2015,9,36,2
 2015-09-02,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,36,2
@@ -299767,6 +299919,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-02,AI-0982,Novo Rapid FlexPen 100 IU/ml,3.0,Lainnya,2015,9,36,2
 2015-09-03,AI-0190,Candesartan TI 8 mg ,28.0,Hipertensi & Jantung,2015,9,36,3
 2015-09-03,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,36,3
+2015-09-03,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,9,36,3
 2015-09-03,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,9,36,3
 2015-09-03,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,36,3
 2015-09-03,AI-0958,Nitrokaf Retard Forte 5 mg,60.0,Hipertensi & Jantung,2015,9,36,3
@@ -300707,6 +300860,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-10,R-2754,DIOVAN 80 TAB,30.0,Hipertensi & Jantung,2015,9,37,3
 2015-09-10,AI-0066,Amitriptyline 25 mg,10.0,Lainnya,2015,9,37,3
 2015-09-10,AI-0102,Asabium 10 mg,10.0,Lainnya,2015,9,37,3
+2015-09-10,AI-0392,Dorner 20 mcg,30.0,Lainnya,2015,9,37,3
 2015-09-10,R-1430,Mecobalamin 250 CAPS,10.0,Vitamin & Suplemen,2015,9,37,3
 2015-09-10,AI-0970,Norelut 5 mg,15.0,Lainnya,2015,9,37,3
 2015-09-10,AI-0067,Amlodipin 10 mg,30.0,Hipertensi & Jantung,2015,9,37,3
@@ -305286,6 +305440,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-25,R-0206,Bic Natric tab,90.0,Lainnya,2015,9,39,4
 2015-09-25,R-1086,Imdur,15.0,Lainnya,2015,9,39,4
 2015-09-25,R-1314,Lasix Tab,30.0,Lainnya,2015,9,39,4
+2015-09-25,R-1919,PRORENAL TAB,120.0,Lainnya,2015,9,39,4
 2015-09-25,R-3070,NOCID TAB,84.0,Lainnya,2015,9,39,4
 2015-09-24,AI-0279,Co amoxiclav 625 mg,3.0,Lainnya,2015,9,39,3
 2015-09-24,AI-0354,Dexanta 350 mg tab,2.0,Lainnya,2015,9,39,3
@@ -306914,6 +307069,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-08,AI-0406,Eclid 50 mg,90.0,Diabetes,2015,9,37,1
 2015-09-08,AI-1379,Trolip 100 mg,60.0,Kolesterol,2015,9,37,1
 2015-09-08,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,9,37,1
+2015-09-08,AI-0710,Ixor 150 mg,120.0,Lainnya,2015,9,37,1
 2015-09-08,AI-0860,Methylprednisolone 4 mg,15.0,Kortikosteroid,2015,9,37,1
 2015-09-08,AI-1156,Ranitidine 150 mg,30.0,Lambung & Pencernaan,2015,9,37,1
 2015-09-08,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,9,37,1
@@ -306932,6 +307088,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-08,AI-0406,Eclid 50 mg,90.0,Diabetes,2015,9,37,1
 2015-09-08,AI-0772,Lantus Solostar Pen 100 IU/ml,2.0,Lainnya,2015,9,37,1
 2015-09-08,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,9,37,1
+2015-09-08,AI-1009,Omeprazole 20 mg,120.0,Lambung & Pencernaan,2015,9,37,1
 2015-09-08,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,9,37,1
 2015-09-08,AI-0264,Clindamycin 300 mg,15.0,Lainnya,2015,9,37,1
 2015-09-08,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,9,37,1
@@ -314541,6 +314698,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-09,AI-0188,Canderin 8 mg,30.0,Hipertensi & Jantung,2015,9,37,2
 2015-09-09,AI-0771,Lansoprazole 30 mg,5.0,Lambung & Pencernaan,2015,9,37,2
 2015-09-09,AI-0958,Nitrokaf Retard Forte 5 mg,60.0,Hipertensi & Jantung,2015,9,37,2
+2015-09-09,AI-0392,Dorner 20 mcg,90.0,Lainnya,2015,9,37,2
 2015-09-09,AI-0530,Furosemide 40 mg,30.0,Hipertensi & Jantung,2015,9,37,2
 2015-09-09,AI-1284,Spironolacton 25 mg,30.0,Hipertensi & Jantung,2015,9,37,2
 2015-09-09,R-2754,DIOVAN 80 TAB,30.0,Hipertensi & Jantung,2015,9,37,2
@@ -317085,6 +317243,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-17,R-1202,Kapsul kosong 0,15.0,Bahan Non-Obat,2015,9,38,3
 2015-09-17,R-1781,Paracetamol 500mg (REG),10.0,Analgesik & Antiinflamasi,2015,9,38,3
 2015-09-17,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,38,3
+2015-09-17,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,9,38,3
 2015-09-17,AI-0043,Allopurinol 100 mg,30.0,Asam Urat,2015,9,38,3
 2015-09-17,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,38,3
 2015-09-17,R-4926,Ramipril 2,30.0,Lainnya,2015,9,38,3
@@ -317117,6 +317276,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-17,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,9,38,3
 2015-09-17,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,9,38,3
 2015-09-17,AI-0881,Miconazol 2%,1.0,Lainnya,2015,9,38,3
+2015-09-16,AI-0486,Fenobarbital 30 mg,120.0,Lainnya,2015,9,38,2
 2015-09-16,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,9,38,2
 2015-09-16,AI-1290,Starfolat 1 mg,10.0,Vitamin & Suplemen,2015,9,38,2
 2015-09-16,R-1202,Kapsul kosong 0,90.0,Bahan Non-Obat,2015,9,38,2
@@ -319717,6 +319877,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-23,AI-0243,Cetirizine 5mg/5ml,1.0,Alergi,2015,9,39,2
 2015-09-23,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,9,39,2
 2015-09-23,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,9,39,2
+2015-09-23,AI-0106,Asam Mefenamat 500 mg,120.0,Analgesik & Antiinflamasi,2015,9,39,2
 2015-09-23,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,39,2
 2015-09-23,AI-0024,Acyclovir 200 mg,15.0,Lainnya,2015,9,39,2
 2015-09-23,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,9,39,2
@@ -321858,89 +322019,138 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-30,AI-0011,Actapin 5 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0024,Acyclovir 200 mg,10.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0027,Adalat Oros 30 mg,30.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0043,Allopurinol 100 mg,120.0,Asam Urat,2015,9,40,2
+2015-09-30,AI-0050,Ambroxol 30 mg,120.0,Pernapasan & Batuk,2015,9,40,2
 2015-09-30,AI-0051,Amdixal 10 mg,30.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0052,Amdixal 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0067,Amlodipin 10 mg,60.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0075,Amoxicillin 500 mg,120.0,Antibiotik,2015,9,40,2
 2015-09-30,AI-0091,Anxibloc 10 mg,13.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0094,Apazol 0,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0095,Apazol 1 mg,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0097,Aptor 100 mg,120.0,Analgesik & Antiinflamasi,2015,9,40,2
+2015-09-30,AI-0120,Atorvastatin 20 mg,120.0,Kolesterol,2015,9,40,2
 2015-09-30,AI-0143,Berotec MDI 100 mcg/pu,12.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0156,Bisoprolol 5 mg,30.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0161,Borraginol N Supp supp Komb,15.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0187,Canderin 16 mg,60.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0188,Canderin 8 mg,30.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0189,Candesartan TI 16 mg,60.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0190,Candesartan TI 8 mg ,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0195,Carbloxal 6,55.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1549,Allopurinol 300 mg,120.0,Asam Urat,2015,9,40,2
 2015-09-30,R-0073,Ambroxol Syr,3.0,Pernapasan & Batuk,2015,9,40,2
+2015-09-30,R-0137,Asam Mefenamat 500mg tab,120.0,Analgesik & Antiinflamasi,2015,9,40,2
+2015-09-30,R-0198,BETAHISTINE 6MG,120.0,Saraf & Vertigo,2015,9,40,2
 2015-09-30,AI-0201,Cardace 2,70.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0202,Cardace 5 mg,90.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0207,Casodex 50 mg,10.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0214,Cefadroxil 500 mg,120.0,Antibiotik,2015,9,40,2
 2015-09-30,AI-0216,Cefixime 100 mg,10.0,Antibiotik,2015,9,40,2
 2015-09-30,AI-0224,Cendo Catarlent 52,4.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0226,Cendo Lyteers 15 ml,28.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0241,Cetirizine 10 mg,120.0,Alergi,2015,9,40,2
+2015-09-30,AI-0255,Ciprofloxacine 500 mg,120.0,Antibiotik,2015,9,40,2
 2015-09-30,AI-0274,Clopisan 75 mg,60.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0279,Co amoxiclav 625 mg,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0293,Concor 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0297,Cordila SR 180 mg,90.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0336,Deculin 15 mg,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0337,Deculin 30 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0353,Dexanta 100 ml syp,31.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0354,Dexanta 350 mg tab,65.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0374,Digoxine 0,60.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0389,Domperidone 10 mg,45.0,Lambung & Pencernaan,2015,9,40,2
+2015-09-30,AI-0405,Eclid 100 mg,120.0,Diabetes,2015,9,40,2
+2015-09-30,AI-0406,Eclid 50 mg,120.0,Diabetes,2015,9,40,2
+2015-09-30,AI-1524,Dilavask 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-1540,Cordila SR 90 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,R-0436,Chlorpeniramine Maleat 4mg (CTM),16.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0449,Esvat 20 mg,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0480,Farsorbid 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0500,Fitbon 500 mg,120.0,Vitamin & Suplemen,2015,9,40,2
+2015-09-30,AI-0530,Furosemide 40 mg,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0533,Fusycom 20 mg/gr,10.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0552,Gentamicin 0,1.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0564,Glimepiride 1 mg,120.0,Diabetes,2015,9,40,2
 2015-09-30,AI-0565,Glimepiride 2 mg,90.0,Diabetes,2015,9,40,2
 2015-09-30,AI-0566,Glimepiride 3 mg,60.0,Diabetes,2015,9,40,2
 2015-09-30,AI-0567,Glimepiride 4 mg,70.0,Diabetes,2015,9,40,2
+2015-09-30,AI-0577,Glucobay 50 mg,120.0,Diabetes,2015,9,40,2
+2015-09-30,AI-0578,Glucodex 80 mg,120.0,Diabetes,2015,9,40,2
 2015-09-30,AI-0583,Glurenorm 30 mg,60.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0625,Hidroklorotiazid 25 mg,100.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0652,Hytrin 2 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0654,Hytroz 2 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0661,Ibuprofen 400 mg,90.0,Analgesik & Antiinflamasi,2015,9,40,2
 2015-09-30,AI-0672,Inerson 0,23.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0703,Isosorbid Dinitrat 5 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0001,Vagizol Ovula 500mg ,3.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0102,Asabium 10 mg,90.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0114,Aspilets 80 mg,120.0,Analgesik & Antiinflamasi,2015,9,40,2
 2015-09-30,AI-0132,Avodart 0,30.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0137,Azopt 1%,1.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0147,Betaserc 8 mg,50.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0150,Binozyt 500 mg,9.0,Lainnya,2015,9,40,2
-2015-09-30,AI-0183,Cameloc 7,25.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0181,Cameloc 15 mg,240.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0183,Cameloc 7,145.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0277,Clozer 100 mg,60.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0357,Dexocort 0,17.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0366,Diaversa 2 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0367,Diaversa 3 mg,60.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0399,Dulcolax 5 mg,10.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0537,Gabexal 300 mg,10.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0538,Ganin 300 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0555,Glaopen 0,1.0,Lainnya,2015,9,40,2
-2015-09-30,AI-0606,Haloperidol 1,10.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0606,Haloperidol 1,130.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0609,Harnal Ocas 0,90.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0653,Hytroz 1 mg,30.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0664,Iliadin Spray 0,1.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0693,Irtan 300 mg,45.0,Lainnya,2015,9,40,2
-2015-09-30,AI-0694,Irvebal 150 mg,15.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0694,Irvebal 150 mg,255.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0695,Irvebal 300 mg,15.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0705,Isotic Adretor 0,1.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0739,Ketokonazol 200 mg,45.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0771,Lansoprazole 30 mg,120.0,Lambung & Pencernaan,2015,9,40,2
 2015-09-30,AI-0772,Lantus Solostar Pen 100 IU/ml,19.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0777,Laxadine 60 ml,1.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0789,Levemir Flexpen 100 IU/ml,15.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0791,Levofloxacin 500 mg,10.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0806,Loratadine 10 mg,70.0,Alergi,2015,9,40,2
 2015-09-30,AI-0837,Meloxicam 7,65.0,Analgesik & Antiinflamasi,2015,9,40,2
+2015-09-30,AI-0853,Metformin 500 mg,120.0,Diabetes,2015,9,40,2
+2015-09-30,AI-0860,Methylprednisolone 4 mg,120.0,Kortikosteroid,2015,9,40,2
+2015-09-30,AI-0875,Metronidazole 500 mg,120.0,Antibiotik,2015,9,40,2
 2015-09-30,AI-0880,Micardis 80 mg,25.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0881,Miconazol 2%,14.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0903,Mucogard 500 mg/5 m,25.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,9,40,2
 2015-09-30,AI-0947,New Diatab 600 mg,37.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0957,Nitrokaf Retard 2,120.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-0958,Nitrokaf Retard Forte 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0964,Noperten 10 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-0965,Noperten 5 mg,30.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0973,Norvask 5 mg,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-0982,Novo Rapid FlexPen 100 IU/ml,78.0,Lainnya,2015,9,40,2
+2015-09-30,AI-0999,Olmetec 20 mg,120.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1000,Olmetec 40 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1009,Omeprazole 20 mg,115.0,Lambung & Pencernaan,2015,9,40,2
+2015-09-30,AI-1028,Osteocal 500 mg,120.0,Vitamin & Suplemen,2015,9,40,2
 2015-09-30,AI-1059,Paratusin 294,3.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1060,Paratusin 577 mg tab,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1138,Pulmicort Turbuhaler 200 mcg/pu,1.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1156,Ranitidine 150 mg,110.0,Lambung & Pencernaan,2015,9,40,2
-2015-09-30,AI-1168,Renadinac 25 mg,5.0,Analgesik & Antiinflamasi,2015,9,40,2
+2015-09-30,AI-1168,Renadinac 25 mg,125.0,Analgesik & Antiinflamasi,2015,9,40,2
 2015-09-30,AI-1174,Retaphyl SR 300 mg,150.0,Pernapasan & Batuk,2015,9,40,2
-2015-09-30,AI-1178,Rhinofed 70 mg,100.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1178,Rhinofed 70 mg,460.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1197,Salbutamol 2 mg,20.0,Pernapasan & Batuk,2015,9,40,2
 2015-09-30,AI-1243,Simarc 2 mg,30.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1246,Simvastatin 10 mg,240.0,Kolesterol,2015,9,40,2
 2015-09-30,AI-1266,Solosa 1 mg,50.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1267,Solosa 2 mg,130.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1268,Solosa 3 mg,30.0,Lainnya,2015,9,40,2
-2015-09-30,AI-1284,Spironolacton 25 mg,100.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-1284,Spironolacton 25 mg,340.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,AI-1290,Starfolat 1 mg,90.0,Vitamin & Suplemen,2015,9,40,2
 2015-09-30,AI-1311,Symbicort 160/4.5mcg,13.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1315,Talk Salicyl 2%,4.0,Lainnya,2015,9,40,2
@@ -321948,7 +322158,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-30,AI-1347,Tiaryt 200 mg,15.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1359,Tramadol 50 mg,40.0,Analgesik & Antiinflamasi,2015,9,40,2
 2015-09-30,AI-1372,Triaxitrol 5 ml,5.0,Lainnya,2015,9,40,2
-2015-09-30,AI-1379,Trolip 100 mg,110.0,Kolesterol,2015,9,40,2
+2015-09-30,AI-1379,Trolip 100 mg,230.0,Kolesterol,2015,9,40,2
 2015-09-30,AI-1381,Trunal 50 mg,120.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1390,Ulsidex 500 mg,45.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1394,Urixin 400 mg,28.0,Lainnya,2015,9,40,2
@@ -321958,13 +322168,20 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-09-30,AI-1415,Ventolin Inhaler 100 mcg/pu,2.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1439,Voltadex 1%,88.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1523,pravastatin tab 20 ,30.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1527,Platogrix 75 mg,360.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1541,Zilop   300 mg,30.0,Lainnya,2015,9,40,2
 2015-09-30,AI-1550,Oralit 200ml,5.0,Lainnya,2015,9,40,2
-2015-09-30,R-0865,FLU TAB,85.0,Lainnya,2015,9,40,2
+2015-09-30,AI-1570,DIOVAN 80,240.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,AI-1572,diovan 160,120.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,R-0652,Diovan 160 mg,120.0,Hipertensi & Jantung,2015,9,40,2
+2015-09-30,R-0865,FLU TAB,325.0,Lainnya,2015,9,40,2
 2015-09-30,R-0950,Gentamicine salep kulit,6.0,Lainnya,2015,9,40,2
+2015-09-30,R-1050,Hexymer 2 mg,240.0,Lainnya,2015,9,40,2
 2015-09-30,R-1224,Ketoconazole Cream,10.0,Lainnya,2015,9,40,2
 2015-09-30,R-1752,otopraf tetes telinga,2.0,Lainnya,2015,9,40,2
+2015-09-30,R-1781,Paracetamol 500mg (REG),120.0,Analgesik & Antiinflamasi,2015,9,40,2
 2015-09-30,R-2022,Rivanol Kompres 100ml,4.0,Lainnya,2015,9,40,2
+2015-09-30,R-2754,DIOVAN 80 TAB,120.0,Hipertensi & Jantung,2015,9,40,2
 2015-09-30,R-3194,RECO TETES MATA,2.0,Lainnya,2015,9,40,2
 2015-09-30,R-3195,RECO TETES TELINGA,1.0,Lainnya,2015,9,40,2
 2015-09-30,R-3212,RISPERIDONE 2 MG TAB,60.0,Lainnya,2015,9,40,2
@@ -322953,6 +323170,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-02,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,10,40,4
 2015-10-02,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,10,40,4
 2015-10-02,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,40,4
+2015-10-02,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,10,40,4
 2015-10-02,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,10,40,4
 2015-10-02,R-4681,UNKNOWN_PRODUCT,1.0,Lainnya,2015,10,40,4
 2015-10-02,AI-0050,Ambroxol 30 mg,6.0,Pernapasan & Batuk,2015,10,40,4
@@ -324489,6 +324707,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-16,R-2564,Acid Salicyl,1.0,Lainnya,2015,10,42,4
 2015-10-16,R-4199,Pot 20cc,1.0,Lainnya,2015,10,42,4
 2015-10-16,R-5117,LANOLIN 50GR,0.1,Lainnya,2015,10,42,4
+2015-10-16,R-1324,LCD,0.01,Lainnya,2015,10,42,4
 2015-10-16,R-2564,Acid Salicyl,1.0,Lainnya,2015,10,42,4
 2015-10-16,R-4199,Pot 20cc,1.0,Lainnya,2015,10,42,4
 2015-10-16,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,42,4
@@ -324743,6 +324962,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-16,AI-1401,Valdimex 5 mg,10.0,Lainnya,2015,10,42,4
 2015-10-16,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,10,42,4
 2015-10-16,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,10,42,4
+2015-10-16,AI-0066,Amitriptyline 25 mg,120.0,Lainnya,2015,10,42,4
 2015-10-16,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,10,42,4
 2015-10-16,AI-1290,Starfolat 1 mg,10.0,Vitamin & Suplemen,2015,10,42,4
 2015-10-16,R-1202,Kapsul kosong 0,90.0,Bahan Non-Obat,2015,10,42,4
@@ -326428,6 +326648,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-23,AI-0771,Lansoprazole 30 mg,5.0,Lambung & Pencernaan,2015,10,43,4
 2015-10-23,AI-1028,Osteocal 500 mg,10.0,Vitamin & Suplemen,2015,10,43,4
 2015-10-23,AI-1169,Renadinac 50 mg,6.0,Analgesik & Antiinflamasi,2015,10,43,4
+2015-10-23,AI-1557,Prednison,10.0,Kortikosteroid,2015,10,43,4
 2015-10-23,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,10,43,4
 2015-10-23,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,10,43,4
 2015-10-23,AI-1274,Sotatic 10 mg,15.0,Saraf & Vertigo,2015,10,43,4
@@ -326849,6 +327070,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,43,5
 2015-10-24,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,10,43,5
@@ -326868,6 +327091,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,43,5
 2015-10-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-1324,LCD,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0202,Cardace 5 mg,15.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,10,43,5
@@ -326877,19 +327103,27 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,10,43,5
 2015-10-24,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,43,5
+2015-10-24,AI-1557,Prednison,10.0,Kortikosteroid,2015,10,43,5
 2015-10-24,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,43,5
 2015-10-24,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,43,5
 2015-10-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,43,5
 2015-10-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-1324,LCD,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,43,5
 2015-10-24,AI-0068,Amlodipin 5 mg,30.0,Hipertensi & Jantung,2015,10,43,5
@@ -326921,6 +327155,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,43,5
 2015-10-24,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-1324,LCD,0.01,Lainnya,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,43,5
 2015-10-24,AI-1274,Sotatic 10 mg,10.0,Saraf & Vertigo,2015,10,43,5
@@ -326929,7 +327166,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,43,5
 2015-10-24,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,10,43,5
+2015-10-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,AI-0049,Ambroxol 15mg/5ml,1.0,Pernapasan & Batuk,2015,10,43,5
 2015-10-24,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,10,43,5
 2015-10-24,AI-0216,Cefixime 100 mg,20.0,Antibiotik,2015,10,43,5
@@ -327241,6 +327480,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-24,AI-1028,Osteocal 500 mg,10.0,Vitamin & Suplemen,2015,10,43,5
 2015-10-24,AI-1169,Renadinac 50 mg,10.0,Analgesik & Antiinflamasi,2015,10,43,5
 2015-10-24,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,43,5
+2015-10-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,43,5
 2015-10-24,R-4199,Pot 20cc,1.0,Lainnya,2015,10,43,5
 2015-10-24,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,43,5
 2015-10-24,AI-0043,Allopurinol 100 mg,10.0,Asam Urat,2015,10,43,5
@@ -327577,13 +327817,18 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-28,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,10,44,2
 2015-10-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,2
 2015-10-28,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-1260,Sod. Chlorida (NaCl) 0,1.0,Bahan Non-Obat,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-1324,LCD,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-1480,Methylprednisolone 4mg (REG),30.0,Kortikosteroid,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,AI-0075,Amoxicillin 500 mg,21.0,Antibiotik,2015,10,44,2
 2015-10-28,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,10,44,2
 2015-10-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,2
@@ -327593,21 +327838,29 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,10,44,2
 2015-10-28,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
+2015-10-28,R-1324,LCD,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,2
 2015-10-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,2
 2015-10-28,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,R-0313,Carmed cream 40gr 10%,1.0,Lainnya,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-1324,LCD,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,10,44,2
 2015-10-28,AI-1056,Paracetamol 120 mg/5ml,1.0,Analgesik & Antiinflamasi,2015,10,44,2
@@ -327619,7 +327872,10 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,2
+2015-10-28,AI-1557,Prednison,10.0,Kortikosteroid,2015,10,44,2
 2015-10-28,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0212,Cefadroxil 125 mg/5ml,1.0,Antibiotik,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
@@ -327632,6 +327888,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,2
 2015-10-28,AI-1359,Tramadol 50 mg,10.0,Analgesik & Antiinflamasi,2015,10,44,2
+2015-10-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-1324,LCD,0.01,Lainnya,2015,10,44,2
+2015-10-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
@@ -327709,11 +327968,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-29,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,3
 2015-10-29,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,3
 2015-10-29,AI-1537,Erythromycin   500 mg,9.0,Lainnya,2015,10,44,3
+2015-10-29,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,3
 2015-10-29,R-3535,Botol obat 100cc,1.0,Lainnya,2015,10,44,3
 2015-10-29,AI-0241,Cetirizine 10 mg,1.0,Alergi,2015,10,44,3
 2015-10-29,AI-0626,Hidrokortison 2,1.0,Lainnya,2015,10,44,3
 2015-10-29,R-0313,Carmed cream 40gr 10%,1.0,Lainnya,2015,10,44,3
 2015-10-29,R-1204,kapsul kosong 1,4.0,Bahan Non-Obat,2015,10,44,3
+2015-10-29,R-1324,LCD,0.01,Lainnya,2015,10,44,3
 2015-10-29,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,3
 2015-10-29,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,3
 2015-10-29,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,10,44,3
@@ -327815,6 +328076,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-29,AI-1570,DIOVAN 80,30.0,Hipertensi & Jantung,2015,10,44,3
 2015-10-29,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,10,44,3
 2015-10-29,AI-0903,Mucogard 500 mg/5 m,1.0,Lainnya,2015,10,44,3
+2015-10-29,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,3
 2015-10-29,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,3
 2015-10-29,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,44,3
 2015-10-29,R-4913,Cetirizine 5mg/5ml,1.0,Alergi,2015,10,44,3
@@ -327904,10 +328166,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-30,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,4
 2015-10-30,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,4
 2015-10-30,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,10,44,4
+2015-10-30,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,4
 2015-10-30,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,4
+2015-10-30,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,10,44,4
+2015-10-30,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,4
 2015-10-30,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,4
@@ -327916,10 +328181,12 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-30,R-2272,Thiampenicol 500mg,6.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,4
 2015-10-30,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,4
+2015-10-30,R-1324,LCD,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,10,44,4
 2015-10-30,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0447,Erythromycin 200 mg/5 m,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,4
+2015-10-30,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,10,44,4
 2015-10-30,AI-0212,Cefadroxil 125 mg/5ml,1.0,Antibiotik,2015,10,44,4
@@ -327940,6 +328207,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-30,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,4
 2015-10-30,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,10,44,4
+2015-10-30,R-1324,LCD,0.01,Lainnya,2015,10,44,4
 2015-10-30,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,10,44,4
 2015-10-30,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,4
 2015-10-30,AI-0836,Meloxicam 15 mg,5.0,Analgesik & Antiinflamasi,2015,10,44,4
@@ -328432,12 +328700,16 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,5
 2015-10-31,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,5
+2015-10-31,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,5
+2015-10-31,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,5
 2015-10-31,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,5
 2015-10-31,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,5
+2015-10-31,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,5
+2015-10-31,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-4201,Pot 50cc,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,10,44,5
 2015-10-31,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,5
@@ -328453,6 +328725,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,5
 2015-10-31,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,5
+2015-10-31,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,5
+2015-10-31,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-4199,Pot 20cc,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,10,44,5
 2015-10-31,AI-0214,Cefadroxil 500 mg,10.0,Antibiotik,2015,10,44,5
@@ -328480,6 +328754,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,5
 2015-10-31,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,5
+2015-10-31,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,5
+2015-10-31,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-4199,Pot 20cc,1.0,Lainnya,2015,10,44,5
 2015-10-31,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,10,44,5
@@ -328507,7 +328783,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,5
 2015-10-31,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,10,44,5
 2015-10-31,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,10,44,5
+2015-10-31,R-1280,Lanolin 100GR,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,5
+2015-10-31,R-2564,Acid Salicyl,0.01,Lainnya,2015,10,44,5
 2015-10-31,R-4199,Pot 20cc,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0406,Eclid 50 mg,90.0,Diabetes,2015,10,44,5
@@ -330122,6 +330400,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-29,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,10,44,3
 2015-10-29,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,10,44,3
 2015-10-29,R-1314,Lasix Tab,30.0,Lainnya,2015,10,44,3
+2015-10-29,R-1919,PRORENAL TAB,120.0,Lainnya,2015,10,44,3
 2015-10-29,R-2625,BICNAT TAB,90.0,Lainnya,2015,10,44,3
 2015-10-29,R-3049,NEULIN PS TAB,60.0,Lainnya,2015,10,44,3
 2015-10-29,R-0176,Becom C tab,3.0,Lainnya,2015,10,44,3
@@ -330243,6 +330522,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-01,AI-0406,Eclid 50 mg,90.0,Diabetes,2015,10,40,3
 2015-10-01,AI-0564,Glimepiride 1 mg,30.0,Diabetes,2015,10,40,3
 2015-10-01,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,10,40,3
+2015-10-01,AI-1345,Thyrozol 5 mg,120.0,Lainnya,2015,10,40,3
 2015-10-01,AI-0068,Amlodipin 5 mg,30.0,Hipertensi & Jantung,2015,10,40,3
 2015-10-01,AI-0958,Nitrokaf Retard Forte 5 mg,60.0,Hipertensi & Jantung,2015,10,40,3
 2015-10-01,AI-1174,Retaphyl SR 300 mg,30.0,Pernapasan & Batuk,2015,10,40,3
@@ -335669,6 +335949,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-02,AI-1524,Dilavask 5 mg,28.0,Hipertensi & Jantung,2015,10,40,4
 2015-10-02,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,40,4
 2015-10-02,AI-0347,Depakote ER 500 mg,30.0,Lainnya,2015,10,40,4
+2015-10-02,AI-0486,Fenobarbital 30 mg,120.0,Lainnya,2015,10,40,4
 2015-10-02,AI-0860,Methylprednisolone 4 mg,3.0,Kortikosteroid,2015,10,40,4
 2015-10-02,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,10,40,4
 2015-10-02,R-0756,Ergotamin Coffein 50mg,1.0,Lainnya,2015,10,40,4
@@ -344685,10 +344966,12 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-28,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,2
 2015-10-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,2
 2015-10-28,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,10,44,2
+2015-10-28,R-1324,LCD,0.01,Lainnya,2015,10,44,2
 2015-10-28,R-4200,Pot 30cc,1.0,Lainnya,2015,10,44,2
 2015-10-27,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,10,44,1
 2015-10-27,AI-0264,Clindamycin 300 mg,9.0,Lainnya,2015,10,44,1
 2015-10-27,AI-0357,Dexocort 0,1.0,Lainnya,2015,10,44,1
+2015-10-27,R-1324,LCD,0.01,Lainnya,2015,10,44,1
 2015-10-27,R-4200,Pot 30cc,1.0,Lainnya,2015,10,44,1
 2015-10-27,AI-0050,Ambroxol 30 mg,3.0,Pernapasan & Batuk,2015,10,44,1
 2015-10-27,AI-0389,Domperidone 10 mg,3.0,Lambung & Pencernaan,2015,10,44,1
@@ -345607,10 +345890,12 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-16,AI-0836,Meloxicam 15 mg,10.0,Analgesik & Antiinflamasi,2015,10,42,4
 2015-10-16,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,10,42,4
 2015-10-16,AI-1394,Urixin 400 mg,10.0,Lainnya,2015,10,42,4
+2015-10-31,AI-0011,Actapin 5 mg,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0025,Acyclovir 400 mg,50.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0027,Adalat Oros 30 mg,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0033,Albothyl 10 ml,3.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0050,Ambroxol 30 mg,50.0,Pernapasan & Batuk,2015,10,44,5
+2015-10-31,AI-0043,Allopurinol 100 mg,240.0,Asam Urat,2015,10,44,5
+2015-10-31,AI-0050,Ambroxol 30 mg,170.0,Pernapasan & Batuk,2015,10,44,5
 2015-10-31,AI-0051,Amdixal 10 mg,90.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0052,Amdixal 5 mg,150.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0067,Amlodipin 10 mg,30.0,Hipertensi & Jantung,2015,10,44,5
@@ -345618,7 +345903,10 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0091,Anxibloc 10 mg,105.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0094,Apazol 0,73.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0095,Apazol 1 mg,60.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0120,Atorvastatin 20 mg,110.0,Kolesterol,2015,10,44,5
+2015-10-31,AI-0097,Aptor 100 mg,360.0,Analgesik & Antiinflamasi,2015,10,44,5
+2015-10-31,AI-0106,Asam Mefenamat 500 mg,120.0,Analgesik & Antiinflamasi,2015,10,44,5
+2015-10-31,AI-0114,Aspilets 80 mg,240.0,Analgesik & Antiinflamasi,2015,10,44,5
+2015-10-31,AI-0120,Atorvastatin 20 mg,230.0,Kolesterol,2015,10,44,5
 2015-10-31,AI-0132,Avodart 0,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0137,Azopt 1%,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0143,Berotec MDI 100 mcg/pu,11.0,Lainnya,2015,10,44,5
@@ -345628,32 +345916,42 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0161,Borraginol N Supp supp Komb,18.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0162,Braxidin 7,20.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0174,Burnazin 1%,2.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0181,Cameloc 15 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0183,Cameloc 7,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0189,Candesartan TI 16 mg,180.0,Hipertensi & Jantung,2015,10,44,5
-2015-10-31,AI-0190,Candesartan TI 8 mg ,77.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0190,Candesartan TI 8 mg ,317.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0195,Carbloxal 6,65.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0201,Cardace 2,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0202,Cardace 5 mg,90.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0207,Casodex 50 mg,32.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0214,Cefadroxil 500 mg,96.0,Antibiotik,2015,10,44,5
+2015-10-31,AI-0214,Cefadroxil 500 mg,336.0,Antibiotik,2015,10,44,5
 2015-10-31,AI-0226,Cendo Lyteers 15 ml,20.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0241,Cetirizine 10 mg,11.0,Alergi,2015,10,44,5
-2015-10-31,AI-0255,Ciprofloxacine 500 mg,119.0,Antibiotik,2015,10,44,5
+2015-10-31,AI-0241,Cetirizine 10 mg,251.0,Alergi,2015,10,44,5
+2015-10-31,AI-0255,Ciprofloxacine 500 mg,239.0,Antibiotik,2015,10,44,5
 2015-10-31,AI-0274,Clopisan 75 mg,60.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0277,Clozer 100 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0279,Co amoxiclav 625 mg,240.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0292,Concor 2,113.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0293,Concor 5 mg,120.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0297,Cordila SR 180 mg,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0336,Deculin 15 mg,90.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0337,Deculin 30 mg,20.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0337,Deculin 30 mg,140.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0353,Dexanta 100 ml syp,28.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0354,Dexanta 350 mg tab,20.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0357,Dexocort 0,37.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0366,Diaversa 2 mg,100.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0366,Diaversa 2 mg,340.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0367,Diaversa 3 mg,90.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0374,Digoxine 0,75.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0389,Domperidone 10 mg,110.0,Lambung & Pencernaan,2015,10,44,5
 2015-10-31,AI-0398,Dulcolax 10 mg,7.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0399,Dulcolax 5 mg,26.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0405,Eclid 100 mg,240.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0406,Eclid 50 mg,120.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0417,Elkana tab,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0449,Esvat 20 mg,240.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0458,Euthyrox 0,105.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0480,Farsorbid 5 mg,30.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0500,Fitbon 500 mg,240.0,Vitamin & Suplemen,2015,10,44,5
 2015-10-31,AI-0506,Floxa 3 mg/0.6 m,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0530,Furosemide 40 mg,80.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0533,Fusycom 20 mg/gr,12.0,Lainnya,2015,10,44,5
@@ -345661,15 +345959,19 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0538,Ganin 300 mg,70.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0552,Gentamicin 0,4.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0557,Glibenclamide 5 mg,90.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0564,Glimepiride 1 mg,120.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0565,Glimepiride 2 mg,30.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0566,Glimepiride 3 mg,30.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0567,Glimepiride 4 mg,30.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0576,Glucobay 100 mg,120.0,Diabetes,2015,10,44,5
-2015-10-31,AI-0577,Glucobay 50 mg,90.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0577,Glucobay 50 mg,330.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0578,Glucodex 80 mg,240.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0583,Glurenorm 30 mg,30.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0606,Haloperidol 1,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0607,Haloperidol 5 mg,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0608,Harnal D 0,5.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0609,Harnal Ocas 0,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0623,Hexymer 2 mg,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0625,Hidroklorotiazid 25 mg,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0645,Hydrocortison 2,6.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0651,Hytrin 1 mg,95.0,Lainnya,2015,10,44,5
@@ -345679,70 +345981,90 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-31,AI-0664,Iliadin Spray 0,2.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0672,Inerson 0,7.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0692,Irtan 150 mg,120.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0703,Isosorbid Dinitrat 5 mg,110.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0694,Irvebal 150 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0695,Irvebal 300 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0703,Isosorbid Dinitrat 5 mg,230.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0705,Isotic Adretor 0,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0717,Kalnex 250 mg,10.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0737,Ketoconazole 200 mg { SALAH },85.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0738,Ketokonazol 2%,12.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0739,Ketokonazol 200 mg,85.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0771,Lansoprazole 30 mg,360.0,Lambung & Pencernaan,2015,10,44,5
 2015-10-31,AI-0772,Lantus Solostar Pen 100 IU/ml,20.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0777,Laxadine 60 ml,9.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0789,Levemir Flexpen 100 IU/ml,13.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0806,Loratadine 10 mg,70.0,Alergi,2015,10,44,5
 2015-10-31,AI-0837,Meloxicam 7,39.0,Analgesik & Antiinflamasi,2015,10,44,5
-2015-10-31,AI-0853,Metformin 500 mg,47.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0853,Metformin 500 mg,287.0,Diabetes,2015,10,44,5
 2015-10-31,AI-0854,Metformin 850 mg,30.0,Diabetes,2015,10,44,5
+2015-10-31,AI-0860,Methylprednisolone 4 mg,240.0,Kortikosteroid,2015,10,44,5
 2015-10-31,AI-0875,Metronidazole 500 mg,240.0,Antibiotik,2015,10,44,5
 2015-10-31,AI-0880,Micardis 80 mg,35.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0881,Miconazol 2%,31.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0903,Mucogard 500 mg/5 m,31.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,10,44,5
 2015-10-31,AI-0947,New Diatab 600 mg,124.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0957,Nitrokaf Retard 2,120.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0958,Nitrokaf Retard Forte 5 mg,240.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-0964,Noperten 10 mg,120.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0965,Noperten 5 mg,90.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0973,Norvask 5 mg,240.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-0981,Novo Mix FlexPen 100 IU/ml,8.0,Lainnya,2015,10,44,5
 2015-10-31,AI-0982,Novo Rapid FlexPen 100 IU/ml,68.0,Lainnya,2015,10,44,5
-2015-10-31,AI-0999,Olmetec 20 mg,90.0,Lainnya,2015,10,44,5
-2015-10-31,AI-1000,Olmetec 40 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-0999,Olmetec 20 mg,330.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1000,Olmetec 40 mg,360.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1009,Omeprazole 20 mg,126.0,Lambung & Pencernaan,2015,10,44,5
-2015-10-31,AI-1028,Osteocal 500 mg,112.0,Vitamin & Suplemen,2015,10,44,5
+2015-10-31,AI-1028,Osteocal 500 mg,232.0,Vitamin & Suplemen,2015,10,44,5
+2015-10-31,AI-1057,Paracetamol 500 mg,120.0,Analgesik & Antiinflamasi,2015,10,44,5
 2015-10-31,AI-1059,Paratusin 294,3.0,Lainnya,2015,10,44,5
-2015-10-31,AI-1060,Paratusin 577 mg tab,10.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1060,Paratusin 577 mg tab,250.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1131,Propiltiourasil 100 mg,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1138,Pulmicort Turbuhaler 200 mcg/pu,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1156,Ranitidine 150 mg,100.0,Lambung & Pencernaan,2015,10,44,5
+2015-10-31,AI-1169,Renadinac 50 mg,120.0,Analgesik & Antiinflamasi,2015,10,44,5
+2015-10-31,AI-1174,Retaphyl SR 300 mg,120.0,Pernapasan & Batuk,2015,10,44,5
 2015-10-31,AI-1178,Rhinofed 70 mg,110.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1197,Salbutamol 2 mg,70.0,Pernapasan & Batuk,2015,10,44,5
 2015-10-31,AI-1235,Seretide Inhaler 50 mcg/puf,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1243,Simarc 2 mg,150.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1246,Simvastatin 10 mg,240.0,Kolesterol,2015,10,44,5
 2015-10-31,AI-1247,Simvastatin 20 mg,20.0,Kolesterol,2015,10,44,5
 2015-10-31,AI-1263,Sofra-Tulle 1% 10x10,1.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1266,Solosa 1 mg,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1267,Solosa 2 mg,70.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1268,Solosa 3 mg,90.0,Lainnya,2015,10,44,5
-2015-10-31,AI-1284,Spironolacton 25 mg,100.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-1284,Spironolacton 25 mg,220.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-1290,Starfolat 1 mg,90.0,Vitamin & Suplemen,2015,10,44,5
 2015-10-31,AI-1311,Symbicort 160/4.5mcg,15.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1315,Talk Salicyl 2%,4.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1345,Thyrozol 5 mg,30.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1347,Tiaryt 200 mg,15.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1359,Tramadol 50 mg,110.0,Analgesik & Antiinflamasi,2015,10,44,5
+2015-10-31,AI-1379,Trolip 100 mg,120.0,Kolesterol,2015,10,44,5
 2015-10-31,AI-1390,Ulsidex 500 mg,115.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1394,Urixin 400 mg,63.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1397,Vaclo 75 mg,120.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1409,Vastigo 6 mg,120.0,Saraf & Vertigo,2015,10,44,5
 2015-10-31,AI-1410,Vbloc 6,90.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1415,Ventolin Inhaler 100 mcg/pu,2.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1439,Voltadex 1%,78.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1524,Dilavask 5 mg,240.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-1527,Platogrix 75 mg,240.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1541,Zilop   300 mg,90.0,Lainnya,2015,10,44,5
+2015-10-31,AI-1549,Allopurinol 300 mg,120.0,Asam Urat,2015,10,44,5
 2015-10-31,AI-1550,Oralit 200ml,10.0,Lainnya,2015,10,44,5
 2015-10-31,AI-1568,Farsix tab,115.0,Lainnya,2015,10,44,5
-2015-10-31,AI-1570,DIOVAN 80,100.0,Hipertensi & Jantung,2015,10,44,5
+2015-10-31,AI-1570,DIOVAN 80,220.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,AI-1572,diovan 160,120.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,R-0073,Ambroxol Syr,107.0,Pernapasan & Batuk,2015,10,44,5
 2015-10-31,R-0198,BETAHISTINE 6MG,120.0,Saraf & Vertigo,2015,10,44,5
 2015-10-31,R-0377,CENDO CATARLENT ED 5 ML,2.0,Lainnya,2015,10,44,5
 2015-10-31,R-0436,Chlorpeniramine Maleat 4mg (CTM),34.0,Lainnya,2015,10,44,5
+2015-10-31,R-0865,FLU TAB,120.0,Lainnya,2015,10,44,5
 2015-10-31,R-0950,Gentamicine salep kulit,16.0,Lainnya,2015,10,44,5
 2015-10-31,R-1050,Hexymer 2 mg,10.0,Lainnya,2015,10,44,5
 2015-10-31,R-1297,Lapicef 500mg,10.0,Lainnya,2015,10,44,5
+2015-10-31,R-2754,DIOVAN 80 TAB,120.0,Hipertensi & Jantung,2015,10,44,5
 2015-10-31,R-3212,RISPERIDONE 2 MG TAB,90.0,Lainnya,2015,10,44,5
 2015-10-31,R-4199,Pot 20cc,47.0,Lainnya,2015,10,44,5
 2015-10-31,R-4910,Molexdryl syp,30.0,Lainnya,2015,10,44,5
@@ -348351,6 +348673,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-07,AI-1568,Farsix tab,15.0,Lainnya,2015,11,45,5
 2015-11-07,R-5154,Valesco 80mg tab,30.0,Lainnya,2015,11,45,5
 2015-11-07,AI-0114,Aspilets 80 mg,30.0,Analgesik & Antiinflamasi,2015,11,45,5
+2015-11-07,AI-0192,Captopril 25 mg,120.0,Hipertensi & Jantung,2015,11,45,5
 2015-11-07,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,45,5
 2015-11-07,AI-1247,Simvastatin 20 mg,30.0,Kolesterol,2015,11,45,5
 2015-11-07,AI-1284,Spironolacton 25 mg,30.0,Hipertensi & Jantung,2015,11,45,5
@@ -348455,6 +348778,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-10,AI-0114,Aspilets 80 mg,30.0,Analgesik & Antiinflamasi,2015,11,46,1
 2015-11-10,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,11,46,1
 2015-11-10,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,1
+2015-11-10,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0091,Anxibloc 10 mg,10.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0114,Aspilets 80 mg,30.0,Analgesik & Antiinflamasi,2015,11,46,1
 2015-11-10,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,46,1
@@ -348547,6 +348871,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-10,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,46,1
 2015-11-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,11,46,1
+2015-11-10,R-1324,LCD,0.01,Lainnya,2015,11,46,1
 2015-11-10,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0216,Cefixime 100 mg,10.0,Antibiotik,2015,11,46,1
 2015-11-10,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,11,46,1
@@ -348580,6 +348905,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0860,Methylprednisolone 4 mg,12.0,Kortikosteroid,2015,11,46,1
 2015-11-10,R-0436,Chlorpeniramine Maleat 4mg (CTM),3.0,Lainnya,2015,11,46,1
+2015-11-10,R-1324,LCD,0.01,Lainnya,2015,11,46,1
 2015-11-10,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0091,Anxibloc 10 mg,10.0,Lainnya,2015,11,46,1
 2015-11-10,AI-0354,Dexanta 350 mg tab,10.0,Lainnya,2015,11,46,1
@@ -348812,22 +349138,30 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0075,Amoxicillin 500 mg,10.0,Antibiotik,2015,11,46,2
 2015-11-11,AI-1168,Renadinac 25 mg,10.0,Analgesik & Antiinflamasi,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0739,Ketokonazol 200 mg,10.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
 2015-11-11,R-0137,Asam Mefenamat 500mg tab,15.0,Analgesik & Antiinflamasi,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-1475,Zinkid 10 mg/5 ml,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-1550,Oralit 200ml,5.0,Lainnya,2015,11,46,2
@@ -348837,6 +349171,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0075,Amoxicillin 500 mg,15.0,Antibiotik,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
@@ -348848,6 +349185,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0806,Loratadine 10 mg,10.0,Alergi,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0216,Cefixime 100 mg,15.0,Antibiotik,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
@@ -348856,11 +349195,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
 2015-11-11,R-0137,Asam Mefenamat 500mg tab,15.0,Analgesik & Antiinflamasi,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
+2015-11-11,R-1324,LCD,0.01,Lainnya,2015,11,46,2
 2015-11-11,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,2
 2015-11-11,R-0137,Asam Mefenamat 500mg tab,15.0,Analgesik & Antiinflamasi,2015,11,46,2
@@ -348870,6 +349211,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,2
 2015-11-11,AI-1359,Tramadol 50 mg,10.0,Analgesik & Antiinflamasi,2015,11,46,2
 2015-11-11,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,46,2
+2015-11-11,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,2
+2015-11-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,2
 2015-11-11,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,2
 2015-11-11,AI-0739,Ketokonazol 200 mg,15.0,Lainnya,2015,11,46,2
 2015-11-11,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,46,2
@@ -349275,6 +349618,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-13,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,11,46,4
 2015-11-13,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,11,46,4
+2015-11-13,R-1324,LCD,0.01,Lainnya,2015,11,46,4
 2015-11-13,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,11,46,4
 2015-11-13,AI-0609,Harnal Ocas 0,30.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0717,Kalnex 250 mg,10.0,Lainnya,2015,11,46,4
@@ -349284,15 +349628,19 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-13,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,46,4
 2015-11-13,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,11,46,4
+2015-11-13,R-1324,LCD,0.01,Lainnya,2015,11,46,4
 2015-11-13,AI-0241,Cetirizine 10 mg,1.0,Alergi,2015,11,46,4
 2015-11-13,AI-0263,Clindamycin 150 mg,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0447,Erythromycin 200 mg/5 m,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,11,46,4
 2015-11-13,R-1203,Kapsul kosong 00,4.0,Bahan Non-Obat,2015,11,46,4
+2015-11-13,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,4
 2015-11-13,R-4199,Pot 20cc,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,46,4
 2015-11-13,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0860,Methylprednisolone 4 mg,9.0,Kortikosteroid,2015,11,46,4
+2015-11-13,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,4
+2015-11-13,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,4
 2015-11-13,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,11,46,4
 2015-11-13,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,4
@@ -349306,6 +349654,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-13,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,46,4
 2015-11-13,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0860,Methylprednisolone 4 mg,9.0,Kortikosteroid,2015,11,46,4
+2015-11-13,R-1324,LCD,0.01,Lainnya,2015,11,46,4
 2015-11-13,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,4
 2015-11-13,AI-0263,Clindamycin 150 mg,10.0,Lainnya,2015,11,46,4
 2015-11-13,R-0137,Asam Mefenamat 500mg tab,10.0,Analgesik & Antiinflamasi,2015,11,46,4
@@ -349350,12 +349699,17 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-14,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,11,46,5
 2015-11-14,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,11,46,5
+2015-11-14,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,11,46,5
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,5
 2015-11-14,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,11,46,5
+2015-11-14,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-1872,Prednison,10.0,Kortikosteroid,2015,11,46,5
+2015-11-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0214,Cefadroxil 500 mg,10.0,Antibiotik,2015,11,46,5
 2015-11-14,AI-0338,Deksametason 0,10.0,Lainnya,2015,11,46,5
@@ -349364,14 +349718,21 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,11,46,5
 2015-11-14,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,11,46,5
+2015-11-14,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,5
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
+2015-11-14,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,5
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,5
 2015-11-14,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0190,Candesartan TI 8 mg ,7.0,Hipertensi & Jantung,2015,11,46,5
 2015-11-14,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,46,5
@@ -349386,6 +349747,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-14,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,5
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0738,Ketokonazol 2%,1.0,Lainnya,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
+2015-11-14,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0073,Amoxicillin 125 mg,1.0,Antibiotik,2015,11,46,5
 2015-11-14,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,46,5
@@ -349493,6 +349856,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-14,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,46,5
 2015-11-14,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,5
+2015-11-14,R-1324,LCD,0.01,Lainnya,2015,11,46,5
 2015-11-14,R-4200,Pot 30cc,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0772,Lantus Solostar Pen 100 IU/ml,1.0,Lainnya,2015,11,46,5
 2015-11-14,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,46,5
@@ -351723,11 +352087,15 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-24,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,11,48,1
 2015-11-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,1
 2015-11-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,1
+2015-11-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-1480,Methylprednisolone 4mg (REG),12.0,Kortikosteroid,2015,11,48,1
+2015-11-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,1
 2015-11-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,1
 2015-11-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,1
+2015-11-24,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,11,48,1
+2015-11-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,1
 2015-11-24,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,11,48,1
 2015-11-24,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,11,48,1
@@ -351739,6 +352107,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,1
 2015-11-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,1
 2015-11-24,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,11,48,1
+2015-11-24,R-1324,LCD,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,1
 2015-11-24,AI-0212,Cefadroxil 125 mg/5ml,1.0,Antibiotik,2015,11,48,1
 2015-11-24,AI-1475,Zinkid 10 mg/5 ml,1.0,Lainnya,2015,11,48,1
@@ -351747,6 +352116,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,1
 2015-11-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,1
 2015-11-24,R-0436,Chlorpeniramine Maleat 4mg (CTM),3.0,Lainnya,2015,11,48,1
+2015-11-24,R-1324,LCD,0.01,Lainnya,2015,11,48,1
 2015-11-24,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,11,48,1
 2015-11-24,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,1
 2015-11-24,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,48,1
@@ -351966,6 +352336,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-25,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,2
 2015-11-25,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,2
 2015-11-25,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,11,48,2
+2015-11-25,R-1324,LCD,0.01,Lainnya,2015,11,48,2
 2015-11-25,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,11,48,2
 2015-11-25,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,2
@@ -352000,6 +352371,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-25,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,2
 2015-11-25,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,11,48,2
+2015-11-25,R-1324,LCD,0.01,Lainnya,2015,11,48,2
 2015-11-25,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0263,Clindamycin 150 mg,10.0,Lainnya,2015,11,48,2
 2015-11-25,AI-1168,Renadinac 25 mg,10.0,Analgesik & Antiinflamasi,2015,11,48,2
@@ -352007,7 +352379,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-25,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,2
 2015-11-25,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,11,48,2
+2015-11-25,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,2
 2015-11-25,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,11,48,2
+2015-11-25,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,2
 2015-11-25,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-1009,Omeprazole 20 mg,10.0,Lambung & Pencernaan,2015,11,48,2
 2015-11-25,AI-0075,Amoxicillin 500 mg,1.0,Antibiotik,2015,11,48,2
@@ -352032,6 +352406,9 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-25,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,48,2
+2015-11-25,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,2
+2015-11-25,R-1324,LCD,0.01,Lainnya,2015,11,48,2
+2015-11-25,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,2
 2015-11-25,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,2
 2015-11-25,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,2
 2015-11-25,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,11,48,2
@@ -352249,6 +352626,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-26,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,48,3
 2015-11-26,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,11,48,3
 2015-11-26,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,3
+2015-11-26,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,3
+2015-11-26,R-1324,LCD,0.01,Lainnya,2015,11,48,3
 2015-11-26,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,11,48,3
 2015-11-26,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,3
 2015-11-26,AI-0075,Amoxicillin 500 mg,10.0,Antibiotik,2015,11,48,3
@@ -352697,6 +353076,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-27,R-2053,Salbutamol 2mg,3.0,Pernapasan & Batuk,2015,11,48,4
 2015-11-27,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,4
 2015-11-27,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,4
+2015-11-27,R-1324,LCD,0.01,Lainnya,2015,11,48,4
 2015-11-27,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,11,48,4
 2015-11-27,R-4200,Pot 30cc,1.0,Lainnya,2015,11,48,4
 2015-11-27,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,11,48,4
@@ -352727,11 +353107,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-27,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,48,4
 2015-11-27,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,4
 2015-11-27,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,4
+2015-11-27,R-1324,LCD,0.01,Lainnya,2015,11,48,4
 2015-11-27,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,11,48,4
 2015-11-27,R-4201,Pot 50cc,1.0,Lainnya,2015,11,48,4
 2015-11-27,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,11,48,4
 2015-11-27,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,4
 2015-11-27,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,11,48,4
+2015-11-27,R-1324,LCD,0.01,Lainnya,2015,11,48,4
 2015-11-27,R-4201,Pot 50cc,1.0,Lainnya,2015,11,48,4
 2015-11-27,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,11,48,4
 2015-11-27,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,48,4
@@ -352841,12 +353223,16 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,48,5
 2015-11-28,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,11,48,5
 2015-11-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4201,Pot 50cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,11,48,5
 2015-11-28,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,11,48,5
@@ -352876,6 +353262,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0067,Amlodipin 10 mg,30.0,Hipertensi & Jantung,2015,11,48,5
 2015-11-28,AI-0564,Glimepiride 1 mg,30.0,Diabetes,2015,11,48,5
@@ -352926,6 +353314,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-28,AI-0739,Ketokonazol 200 mg,10.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0216,Cefixime 100 mg,20.0,Antibiotik,2015,11,48,5
 2015-11-28,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,48,5
@@ -352942,6 +353332,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-28,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0881,Miconazol 2%,1.0,Lainnya,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,5
 2015-11-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,5
@@ -352952,9 +353344,12 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-28,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,48,5
 2015-11-28,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,11,48,5
+2015-11-28,R-1280,Lanolin 100GR,0.01,Lainnya,2015,11,48,5
+2015-11-28,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,11,48,5
 2015-11-28,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,11,48,5
+2015-11-28,R-1324,LCD,0.01,Lainnya,2015,11,48,5
 2015-11-28,R-4199,Pot 20cc,1.0,Lainnya,2015,11,48,5
 2015-11-28,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,11,48,5
 2015-11-28,AI-0212,Cefadroxil 125 mg/5ml,1.0,Antibiotik,2015,11,48,5
@@ -359797,6 +360192,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-07,R-1202,Kapsul kosong 0,3.0,Bahan Non-Obat,2015,11,45,5
 2015-11-07,R-1480,Methylprednisolone 4mg (REG),1.0,Kortikosteroid,2015,11,45,5
 2015-11-07,R-0107,Antasida Doen Syr,1.0,Lambung & Pencernaan,2015,11,45,5
+2015-11-07,R-4919,CHLORAL HIDRAT SERBUK,120.0,Lainnya,2015,11,45,5
 2015-11-07,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,11,45,5
 2015-11-07,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,11,45,5
 2015-11-07,R-0481,Clobazam,5.0,Lainnya,2015,11,45,5
@@ -361867,6 +362263,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-13,AI-0943,Neurodex FC komb,1.0,Vitamin & Suplemen,2015,11,46,4
 2015-11-13,AI-1156,Ranitidine 150 mg,2.0,Lambung & Pencernaan,2015,11,46,4
 2015-11-13,R-0137,Asam Mefenamat 500mg tab,3.0,Analgesik & Antiinflamasi,2015,11,46,4
+2015-11-13,AI-0486,Fenobarbital 30 mg,120.0,Lainnya,2015,11,46,4
 2015-11-13,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,11,46,4
 2015-11-13,AI-1290,Starfolat 1 mg,10.0,Vitamin & Suplemen,2015,11,46,4
 2015-11-13,R-1203,Kapsul kosong 00,90.0,Bahan Non-Obat,2015,11,46,4
@@ -366384,12 +366781,18 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-30,AI-0011,Actapin 5 mg,45.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0027,Adalat Oros 30 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0033,Albothyl 10 ml,5.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0043,Allopurinol 100 mg,120.0,Asam Urat,2015,11,49,0
+2015-11-30,AI-0050,Ambroxol 30 mg,120.0,Pernapasan & Batuk,2015,11,49,0
 2015-11-30,AI-0051,Amdixal 10 mg,60.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0052,Amdixal 5 mg,120.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0067,Amlodipin 10 mg,30.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0068,Amlodipin 5 mg,5.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0075,Amoxicillin 500 mg,120.0,Antibiotik,2015,11,49,0
 2015-11-30,AI-0094,Apazol 0,78.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0095,Apazol 1 mg,60.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0114,Aspilets 80 mg,65.0,Analgesik & Antiinflamasi,2015,11,49,0
+2015-11-30,AI-0097,Aptor 100 mg,240.0,Analgesik & Antiinflamasi,2015,11,49,0
+2015-11-30,AI-0114,Aspilets 80 mg,185.0,Analgesik & Antiinflamasi,2015,11,49,0
+2015-11-30,AI-0120,Atorvastatin 20 mg,120.0,Kolesterol,2015,11,49,0
 2015-11-30,AI-0132,Avodart 0,30.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0137,Azopt 1%,1.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0143,Berotec MDI 100 mcg/pu,9.0,Lainnya,2015,11,49,0
@@ -366398,109 +366801,154 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-30,AI-0156,Bisoprolol 5 mg,30.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0161,Borraginol N Supp supp Komb,9.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0162,Braxidin 7,10.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0190,Candesartan TI 8 mg ,107.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0181,Cameloc 15 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0183,Cameloc 7,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0187,Canderin 16 mg,120.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0188,Canderin 8 mg,120.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0190,Candesartan TI 8 mg ,227.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0192,Captopril 25 mg,20.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0195,Carbloxal 6,60.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0201,Cardace 2,60.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0202,Cardace 5 mg,60.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0207,Casodex 50 mg,30.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0214,Cefadroxil 500 mg,70.0,Antibiotik,2015,11,49,0
+2015-11-30,AI-0214,Cefadroxil 500 mg,190.0,Antibiotik,2015,11,49,0
 2015-11-30,AI-0219,Cefixime OGB 100 mg/5ml,1.0,Antibiotik,2015,11,49,0
 2015-11-30,AI-0226,Cendo Lyteers 15 ml,30.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0255,Ciprofloxacine 500 mg,17.0,Antibiotik,2015,11,49,0
+2015-11-30,AI-0241,Cetirizine 10 mg,240.0,Alergi,2015,11,49,0
+2015-11-30,AI-0255,Ciprofloxacine 500 mg,257.0,Antibiotik,2015,11,49,0
 2015-11-30,AI-0274,Clopisan 75 mg,120.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0277,Clozer 100 mg,120.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0292,Concor 2,87.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0279,Co amoxiclav 625 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0292,Concor 2,207.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0293,Concor 5 mg,240.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0297,Cordila SR 180 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0336,Deculin 15 mg,90.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0337,Deculin 30 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0353,Dexanta 100 ml syp,30.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0357,Dexocort 0,42.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0366,Diaversa 2 mg,240.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0367,Diaversa 3 mg,90.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0374,Digoxine 0,75.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0389,Domperidone 10 mg,101.0,Lambung & Pencernaan,2015,11,49,0
 2015-11-30,AI-0398,Dulcolax 10 mg,6.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0399,Dulcolax 5 mg,2.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0405,Eclid 100 mg,120.0,Diabetes,2015,11,49,0
+2015-11-30,AI-0406,Eclid 50 mg,120.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0418,Elkana syr,1.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0449,Esvat 20 mg,100.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0449,Esvat 20 mg,220.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0458,Euthyrox 0,45.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0480,Farsorbid 5 mg,30.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0500,Fitbon 500 mg,240.0,Vitamin & Suplemen,2015,11,49,0
 2015-11-30,AI-0533,Fusycom 20 mg/gr,8.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0536,Gabexal 100 mg,30.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0537,Gabexal 300 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0537,Gabexal 300 mg,240.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0555,Glaopen 0,1.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0557,Glibenclamide 5 mg,60.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0564,Glimepiride 1 mg,120.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0565,Glimepiride 2 mg,20.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0566,Glimepiride 3 mg,30.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0567,Glimepiride 4 mg,60.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0576,Glucobay 100 mg,90.0,Diabetes,2015,11,49,0
-2015-11-30,AI-0577,Glucobay 50 mg,60.0,Diabetes,2015,11,49,0
+2015-11-30,AI-0577,Glucobay 50 mg,300.0,Diabetes,2015,11,49,0
+2015-11-30,AI-0578,Glucodex 80 mg,120.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0583,Glurenorm 30 mg,60.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0606,Haloperidol 1,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0607,Haloperidol 5 mg,30.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0609,Harnal Ocas 0,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0623,Hexymer 2 mg,59.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0625,Hidroklorotiazid 25 mg,45.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0645,Hydrocortison 2,3.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0651,Hytrin 1 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0652,Hytrin 2 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0653,Hytroz 1 mg,30.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0654,Hytroz 2 mg,90.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0661,Ibuprofen 400 mg,20.0,Analgesik & Antiinflamasi,2015,11,49,0
 2015-11-30,AI-0692,Irtan 150 mg,30.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0694,Irvebal 150 mg,100.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0694,Irvebal 150 mg,220.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0695,Irvebal 300 mg,135.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0703,Isosorbid Dinitrat 5 mg,169.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0703,Isosorbid Dinitrat 5 mg,289.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0705,Isotic Adretor 0,1.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0717,Kalnex 250 mg,10.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0719,Kalnex 500 mg,10.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0737,Ketoconazole 200 mg { SALAH },55.0,Lainnya,2015,11,49,0
-2015-11-30,AI-0771,Lansoprazole 30 mg,82.0,Lambung & Pencernaan,2015,11,49,0
+2015-11-30,AI-0771,Lansoprazole 30 mg,202.0,Lambung & Pencernaan,2015,11,49,0
 2015-11-30,AI-0772,Lantus Solostar Pen 100 IU/ml,24.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0777,Laxadine 60 ml,11.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0789,Levemir Flexpen 100 IU/ml,13.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0837,Meloxicam 7,41.0,Analgesik & Antiinflamasi,2015,11,49,0
+2015-11-30,AI-0853,Metformin 500 mg,120.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0854,Metformin 850 mg,30.0,Diabetes,2015,11,49,0
 2015-11-30,AI-0860,Methylprednisolone 4 mg,40.0,Kortikosteroid,2015,11,49,0
 2015-11-30,AI-0875,Metronidazole 500 mg,160.0,Antibiotik,2015,11,49,0
 2015-11-30,AI-0880,Micardis 80 mg,90.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0881,Miconazol 2%,29.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0903,Mucogard 500 mg/5 m,34.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,11,49,0
 2015-11-30,AI-0947,New Diatab 600 mg,54.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0957,Nitrokaf Retard 2,120.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0958,Nitrokaf Retard Forte 5 mg,120.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-0964,Noperten 10 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0965,Noperten 5 mg,90.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0973,Norvask 5 mg,120.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-0981,Novo Mix FlexPen 100 IU/ml,8.0,Lainnya,2015,11,49,0
 2015-11-30,AI-0982,Novo Rapid FlexPen 100 IU/ml,69.0,Lainnya,2015,11,49,0
+2015-11-30,AI-0999,Olmetec 20 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1000,Olmetec 40 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1009,Omeprazole 20 mg,120.0,Lambung & Pencernaan,2015,11,49,0
+2015-11-30,AI-1028,Osteocal 500 mg,240.0,Vitamin & Suplemen,2015,11,49,0
 2015-11-30,AI-1057,Paracetamol 500 mg,45.0,Analgesik & Antiinflamasi,2015,11,49,0
 2015-11-30,AI-1060,Paratusin 577 mg tab,75.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1138,Pulmicort Turbuhaler 200 mcg/pu,2.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1156,Ranitidine 150 mg,140.0,Lambung & Pencernaan,2015,11,49,0
-2015-11-30,AI-1243,Simarc 2 mg,130.0,Lainnya,2015,11,49,0
-2015-11-30,AI-1246,Simvastatin 10 mg,85.0,Kolesterol,2015,11,49,0
+2015-11-30,AI-1168,Renadinac 25 mg,360.0,Analgesik & Antiinflamasi,2015,11,49,0
+2015-11-30,AI-1174,Retaphyl SR 300 mg,120.0,Pernapasan & Batuk,2015,11,49,0
+2015-11-30,AI-1178,Rhinofed 70 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1243,Simarc 2 mg,250.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1246,Simvastatin 10 mg,205.0,Kolesterol,2015,11,49,0
 2015-11-30,AI-1263,Sofra-Tulle 1% 10x10,2.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1266,Solosa 1 mg,30.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1268,Solosa 3 mg,90.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1274,Sotatic 10 mg,85.0,Saraf & Vertigo,2015,11,49,0
+2015-11-30,AI-1284,Spironolacton 25 mg,120.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-1290,Starfolat 1 mg,10.0,Vitamin & Suplemen,2015,11,49,0
 2015-11-30,AI-1311,Symbicort 160/4.5mcg,12.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1345,Thyrozol 5 mg,90.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1347,Tiaryt 200 mg,45.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1359,Tramadol 50 mg,80.0,Analgesik & Antiinflamasi,2015,11,49,0
 2015-11-30,AI-1372,Triaxitrol 5 ml,1.0,Lainnya,2015,11,49,0
-2015-11-30,AI-1379,Trolip 100 mg,10.0,Kolesterol,2015,11,49,0
+2015-11-30,AI-1379,Trolip 100 mg,130.0,Kolesterol,2015,11,49,0
 2015-11-30,AI-1381,Trunal 50 mg,40.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1390,Ulsidex 500 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1394,Urixin 400 mg,50.0,Lainnya,2015,11,49,0
-2015-11-30,AI-1409,Vastigo 6 mg,69.0,Saraf & Vertigo,2015,11,49,0
+2015-11-30,AI-1397,Vaclo 75 mg,120.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1409,Vastigo 6 mg,189.0,Saraf & Vertigo,2015,11,49,0
 2015-11-30,AI-1410,Vbloc 6,68.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1415,Ventolin Inhaler 100 mcg/pu,1.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1439,Voltadex 1%,78.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1524,Dilavask 5 mg,240.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-1527,Platogrix 75 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,AI-1541,Zilop   300 mg,60.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1549,Allopurinol 300 mg,120.0,Asam Urat,2015,11,49,0
 2015-11-30,AI-1550,Oralit 200ml,6.0,Lainnya,2015,11,49,0
-2015-11-30,AI-1568,Farsix tab,85.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1568,Farsix tab,205.0,Lainnya,2015,11,49,0
+2015-11-30,AI-1570,DIOVAN 80,120.0,Hipertensi & Jantung,2015,11,49,0
+2015-11-30,AI-1572,diovan 160,120.0,Hipertensi & Jantung,2015,11,49,0
 2015-11-30,AI-1581,Thyrozol 10mg ,90.0,Lainnya,2015,11,49,0
 2015-11-30,R-0073,Ambroxol Syr,25.0,Pernapasan & Batuk,2015,11,49,0
+2015-11-30,R-0137,Asam Mefenamat 500mg tab,120.0,Analgesik & Antiinflamasi,2015,11,49,0
 2015-11-30,R-0198,BETAHISTINE 6MG,5.0,Saraf & Vertigo,2015,11,49,0
 2015-11-30,R-0377,CENDO CATARLENT ED 5 ML,2.0,Lainnya,2015,11,49,0
 2015-11-30,R-0436,Chlorpeniramine Maleat 4mg (CTM),20.0,Lainnya,2015,11,49,0
 2015-11-30,R-0481,Clobazam,65.0,Lainnya,2015,11,49,0
 2015-11-30,R-0545,Curcuma,30.0,Lainnya,2015,11,49,0
+2015-11-30,R-0865,FLU TAB,120.0,Lainnya,2015,11,49,0
 2015-11-30,R-0950,Gentamicine salep kulit,12.0,Lainnya,2015,11,49,0
+2015-11-30,R-1050,Hexymer 2 mg,120.0,Lainnya,2015,11,49,0
 2015-11-30,R-1224,Ketoconazole Cream,2.0,Lainnya,2015,11,49,0
 2015-11-30,R-1295,Lapicef 125mg Syr,1.0,Lainnya,2015,11,49,0
+2015-11-30,R-1480,Methylprednisolone 4mg (REG),120.0,Kortikosteroid,2015,11,49,0
 2015-11-30,R-1752,otopraf tetes telinga,1.0,Lainnya,2015,11,49,0
+2015-11-30,R-1781,Paracetamol 500mg (REG),120.0,Analgesik & Antiinflamasi,2015,11,49,0
 2015-11-30,R-2079,Sanmol Syr,1.0,Lainnya,2015,11,49,0
 2015-11-30,R-3194,RECO TETES MATA,4.0,Lainnya,2015,11,49,0
 2015-11-30,R-3195,RECO TETES TELINGA,3.0,Lainnya,2015,11,49,0
@@ -366874,6 +367322,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-06,AI-1079,Phenytoin 100 mg,90.0,Lainnya,2015,11,45,4
 2015-11-06,AI-1290,Starfolat 1 mg,10.0,Vitamin & Suplemen,2015,11,45,4
 2015-11-06,R-1202,Kapsul kosong 0,90.0,Bahan Non-Obat,2015,11,45,4
+2015-11-06,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,11,45,4
 2015-11-01,AI-0390,Dopamet 250 mg,15.0,Lainnya,2015,11,44,6
 2015-11-08,AI-0106,Asam Mefenamat 500 mg,3.0,Analgesik & Antiinflamasi,2015,11,45,6
 2015-11-08,AI-0255,Ciprofloxacine 500 mg,2.0,Antibiotik,2015,11,45,6
@@ -367815,6 +368264,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-05,AI-0357,Dexocort 0,1.0,Lainnya,2015,11,45,3
 2015-11-05,AI-0806,Loratadine 10 mg,15.0,Alergi,2015,11,45,3
 2015-11-05,R-1470,Metaneuron,15.0,Lainnya,2015,11,45,3
+2015-11-05,R-2564,Acid Salicyl,0.01,Lainnya,2015,11,45,3
 2015-11-05,R-2800,EPISAN SYR,1.0,Lainnya,2015,11,45,3
 2015-11-05,R-5099,Erphalanz caps,7.0,Lainnya,2015,11,45,3
 2015-11-05,R-1091,Imunos,3.0,Lainnya,2015,11,45,3
@@ -368426,6 +368876,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-10,R-1869,PRAZOTEC CAPSUL,20.0,Lainnya,2015,12,50,3
 2015-12-10,R-0206,Bic Natric tab,90.0,Lainnya,2015,12,50,3
 2015-12-10,R-0539,CRESTOR 10,30.0,Lainnya,2015,12,50,3
+2015-12-10,R-1919,PRORENAL TAB,120.0,Lainnya,2015,12,50,3
 2015-12-10,R-3049,NEULIN PS TAB,60.0,Lainnya,2015,12,50,3
 2015-12-11,AI-0214,Cefadroxil 500 mg,2.0,Antibiotik,2015,12,50,4
 2015-12-11,R-0176,Becom C tab,2.0,Lainnya,2015,12,50,4
@@ -368561,6 +369012,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-15,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,12,51,1
 2015-12-15,AI-0357,Dexocort 0,2.0,Lainnya,2015,12,51,1
 2015-12-15,AI-0860,Methylprednisolone 4 mg,15.0,Kortikosteroid,2015,12,51,1
+2015-12-15,R-1324,LCD,0.01,Lainnya,2015,12,51,1
 2015-12-15,R-4200,Pot 30cc,1.0,Lainnya,2015,12,51,1
 2015-12-15,R-0534,Counterpain PXM,1.0,Lainnya,2015,12,51,1
 2015-12-15,R-0742,EPERISONE OGB,15.0,Lainnya,2015,12,51,1
@@ -370069,6 +370521,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-22,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,52,1
 2015-12-22,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0860,Methylprednisolone 4 mg,12.0,Kortikosteroid,2015,12,52,1
+2015-12-22,R-1324,LCD,0.01,Lainnya,2015,12,52,1
 2015-12-22,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,52,1
 2015-12-22,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,12,52,1
@@ -370089,6 +370542,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-22,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,52,1
 2015-12-22,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-1156,Ranitidine 150 mg,6.0,Lambung & Pencernaan,2015,12,52,1
+2015-12-22,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,1
 2015-12-22,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,1
 2015-12-22,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0650,Hystolan 20 mg,10.0,Lainnya,2015,12,52,1
@@ -370100,6 +370554,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-22,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0738,Ketokonazol 2%,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,12,52,1
+2015-12-22,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,1
 2015-12-22,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,1
 2015-12-22,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0241,Cetirizine 10 mg,4.0,Alergi,2015,12,52,1
@@ -370110,6 +370565,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-22,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,52,1
 2015-12-22,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0860,Methylprednisolone 4 mg,9.0,Kortikosteroid,2015,12,52,1
+2015-12-22,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,1
 2015-12-22,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,1
 2015-12-22,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,1
 2015-12-22,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,12,52,1
@@ -370278,6 +370734,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-0313,Carmed cream 40gr 10%,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0050,Ambroxol 30 mg,4.0,Pernapasan & Batuk,2015,12,52,2
@@ -370301,11 +370759,15 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,12,52,2
 2015-12-23,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,12,52,2
 2015-12-23,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,52,2
 2015-12-23,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,12,52,2
+2015-12-23,R-1324,LCD,0.013,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0025,Acyclovir 400 mg,50.0,Lainnya,2015,12,52,2
@@ -370319,16 +370781,21 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,12,52,2
 2015-12-23,R-0073,Ambroxol Syr,1.0,Pernapasan & Batuk,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,52,2
 2015-12-23,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0739,Ketokonazol 200 mg,10.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,52,2
 2015-12-23,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4200,Pot 30cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0537,Gabexal 300 mg,5.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,12,52,2
@@ -370373,6 +370840,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,R-1204,kapsul kosong 1,15.0,Bahan Non-Obat,2015,12,52,2
 2015-12-23,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,52,2
 2015-12-23,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0777,Laxadine 60 ml,1.0,Lainnya,2015,12,52,2
@@ -370382,6 +370851,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,AI-1028,Osteocal 500 mg,10.0,Vitamin & Suplemen,2015,12,52,2
 2015-12-23,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0806,Loratadine 10 mg,10.0,Alergi,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0050,Ambroxol 30 mg,3.0,Pernapasan & Batuk,2015,12,52,2
 2015-12-23,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,52,2
@@ -370396,6 +370866,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-23,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-0860,Methylprednisolone 4 mg,10.0,Kortikosteroid,2015,12,52,2
 2015-12-23,R-1204,kapsul kosong 1,10.0,Bahan Non-Obat,2015,12,52,2
+2015-12-23,R-1324,LCD,0.01,Lainnya,2015,12,52,2
+2015-12-23,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,2
 2015-12-23,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,2
 2015-12-23,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,2
 2015-12-23,AI-1398,Vagistin 500 mg,7.0,Lainnya,2015,12,52,2
@@ -370598,6 +371070,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,52,3
 2015-12-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,12,52,3
+2015-12-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,3
 2015-12-24,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,3
 2015-12-24,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,12,52,3
@@ -370629,6 +371102,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-1156,Ranitidine 150 mg,6.0,Lambung & Pencernaan,2015,12,52,3
 2015-12-24,R-0436,Chlorpeniramine Maleat 4mg (CTM),5.0,Lainnya,2015,12,52,3
+2015-12-24,R-1324,LCD,0.01,Lainnya,2015,12,52,3
 2015-12-24,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-1537,Erythromycin   500 mg,5.0,Lainnya,2015,12,52,3
 2015-12-24,R-0255,BREATHY DROP (TETES HIDUNG),1.0,Lainnya,2015,12,52,3
@@ -370649,9 +371123,11 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-24,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,52,3
 2015-12-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0943,Neurodex FC komb,9.0,Vitamin & Suplemen,2015,12,52,3
+2015-12-24,R-1324,LCD,0.01,Lainnya,2015,12,52,3
 2015-12-24,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,52,3
 2015-12-24,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,12,52,3
+2015-12-24,R-1324,LCD,0.01,Lainnya,2015,12,52,3
 2015-12-24,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,52,3
 2015-12-24,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,12,52,3
@@ -370668,6 +371144,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-24,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,52,3
 2015-12-24,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0860,Methylprednisolone 4 mg,9.0,Kortikosteroid,2015,12,52,3
+2015-12-24,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,52,3
 2015-12-24,R-4199,Pot 20cc,1.0,Lainnya,2015,12,52,3
 2015-12-24,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,52,3
 2015-12-24,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,12,52,3
@@ -370987,6 +371464,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-29,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,12,53,1
 2015-12-29,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,53,1
 2015-12-29,AI-0739,Ketokonazol 200 mg,10.0,Lainnya,2015,12,53,1
+2015-12-29,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,53,1
 2015-12-29,R-4199,Pot 20cc,1.0,Lainnya,2015,12,53,1
 2015-12-29,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,53,1
 2015-12-29,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,12,53,1
@@ -374064,6 +374542,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-05,AI-0836,Meloxicam 15 mg,14.0,Analgesik & Antiinflamasi,2015,12,49,5
 2015-12-05,AI-1246,Simvastatin 10 mg,7.0,Kolesterol,2015,12,49,5
 2015-12-05,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,49,5
+2015-12-05,R-1324,LCD,0.01,Lainnya,2015,12,49,5
 2015-12-05,R-4199,Pot 20cc,1.0,Lainnya,2015,12,49,5
 2015-12-05,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,49,5
 2015-12-05,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,12,49,5
@@ -374309,6 +374788,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-08,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,12,50,1
 2015-12-08,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,50,1
 2015-12-08,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,1
+2015-12-08,R-1324,LCD,0.01,Lainnya,2015,12,50,1
 2015-12-08,R-1480,Methylprednisolone 4mg (REG),15.0,Kortikosteroid,2015,12,50,1
 2015-12-08,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0050,Ambroxol 30 mg,7.0,Pernapasan & Batuk,2015,12,50,1
@@ -374321,6 +374801,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-08,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,50,1
+2015-12-08,R-1324,LCD,0.01,Lainnya,2015,12,50,1
 2015-12-08,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,1
 2015-12-08,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,12,50,1
@@ -374340,6 +374821,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-08,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,1
 2015-12-08,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0739,Ketokonazol 200 mg,20.0,Lainnya,2015,12,50,1
+2015-12-08,R-1324,LCD,0.01,Lainnya,2015,12,50,1
 2015-12-08,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0049,Ambroxol 15mg/5ml,1.0,Pernapasan & Batuk,2015,12,50,1
 2015-12-08,AI-0564,Glimepiride 1 mg,30.0,Diabetes,2015,12,50,1
@@ -374371,6 +374853,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-08,R-2054,Salbutamol 4mg,5.0,Pernapasan & Batuk,2015,12,50,1
 2015-12-08,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,1
 2015-12-08,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,1
+2015-12-08,R-1324,LCD,0.01,Lainnya,2015,12,50,1
 2015-12-08,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,1
 2015-12-08,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,1
 2015-12-08,AI-0837,Meloxicam 7,5.0,Analgesik & Antiinflamasi,2015,12,50,1
@@ -374661,13 +375144,18 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-1202,Kapsul kosong 0,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,2
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0739,Ketokonazol 200 mg,14.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-1156,Ranitidine 150 mg,14.0,Lambung & Pencernaan,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-4910,Molexdryl syp,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,50,2
@@ -374675,6 +375163,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-1156,Ranitidine 150 mg,14.0,Lambung & Pencernaan,2015,12,50,2
 2015-12-09,R-0436,Chlorpeniramine Maleat 4mg (CTM),5.0,Lainnya,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0025,Acyclovir 400 mg,70.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
@@ -374690,6 +375179,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
@@ -374698,20 +375188,27 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
 2015-12-09,AI-1537,Erythromycin   500 mg,21.0,Lainnya,2015,12,50,2
 2015-12-09,R-0313,Carmed cream 40gr 10%,0.5,Lainnya,2015,12,50,2
 2015-12-09,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0066,Amitriptyline 25 mg,4.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0537,Gabexal 300 mg,7.0,Lainnya,2015,12,50,2
@@ -374741,10 +375238,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,12,50,2
 2015-12-09,AI-1156,Ranitidine 150 mg,14.0,Lambung & Pencernaan,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,2
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-1203,Kapsul kosong 00,10.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-1480,Methylprednisolone 4mg (REG),10.0,Kortikosteroid,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,2
@@ -374752,6 +375252,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,12,50,2
 2015-12-09,AI-1260,Sod. Chlorida (NaCl) 0,1.0,Bahan Non-Obat,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0050,Ambroxol 30 mg,2.0,Pernapasan & Batuk,2015,12,50,2
@@ -374763,11 +375264,13 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0242,Cetirizine 10 mg/mL,1.0,Alergi,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,2
 2015-12-09,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,2
 2015-12-09,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,12,50,2
 2015-12-09,AI-1156,Ranitidine 150 mg,14.0,Lambung & Pencernaan,2015,12,50,2
+2015-12-09,R-1324,LCD,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4201,Pot 50cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-1168,Renadinac 25 mg,10.0,Analgesik & Antiinflamasi,2015,12,50,2
@@ -374781,6 +375284,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-09,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0739,Ketokonazol 200 mg,14.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0881,Miconazol 2%,1.0,Lainnya,2015,12,50,2
+2015-12-09,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,2
+2015-12-09,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,2
 2015-12-09,R-4201,Pot 50cc,1.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0344,Depakene 250 mg/5 m,3.0,Lainnya,2015,12,50,2
 2015-12-09,AI-0264,Clindamycin 300 mg,14.0,Lainnya,2015,12,50,2
@@ -374797,6 +375302,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-10,AI-0771,Lansoprazole 30 mg,5.0,Lambung & Pencernaan,2015,12,50,3
 2015-12-10,AI-0943,Neurodex FC komb,10.0,Vitamin & Suplemen,2015,12,50,3
 2015-12-10,R-0107,Antasida Doen Syr,1.0,Lambung & Pencernaan,2015,12,50,3
+2015-12-10,AI-1185,Rimcure Paed 275 mg,120.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,12,50,3
 2015-12-10,AI-0943,Neurodex FC komb,7.0,Vitamin & Suplemen,2015,12,50,3
 2015-12-10,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,12,50,3
@@ -374852,20 +375358,26 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-10,R-0436,Chlorpeniramine Maleat 4mg (CTM),15.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,3
 2015-12-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,3
+2015-12-10,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,3
+2015-12-10,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,3
 2015-12-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,3
 2015-12-10,R-1480,Methylprednisolone 4mg (REG),6.0,Kortikosteroid,2015,12,50,3
+2015-12-10,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,3
 2015-12-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,3
+2015-12-10,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-1480,Methylprednisolone 4mg (REG),6.0,Kortikosteroid,2015,12,50,3
+2015-12-10,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0106,Asam Mefenamat 500 mg,15.0,Analgesik & Antiinflamasi,2015,12,50,3
 2015-12-10,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,12,50,3
 2015-12-10,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,3
 2015-12-10,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,3
+2015-12-10,R-1324,LCD,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-1480,Methylprednisolone 4mg (REG),12.0,Kortikosteroid,2015,12,50,3
 2015-12-10,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,3
 2015-12-10,AI-1178,Rhinofed 70 mg,10.0,Lainnya,2015,12,50,3
@@ -375101,6 +375613,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
 2015-12-11,R-0436,Chlorpeniramine Maleat 4mg (CTM),3.0,Lainnya,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0032,Albendazole 400 mg,3.0,Lainnya,2015,12,50,4
@@ -375108,14 +375621,18 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,4
+2015-12-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0264,Clindamycin 300 mg,9.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0837,Meloxicam 7,5.0,Analgesik & Antiinflamasi,2015,12,50,4
@@ -375126,6 +375643,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,AI-0106,Asam Mefenamat 500 mg,6.0,Analgesik & Antiinflamasi,2015,12,50,4
 2015-12-11,AI-0264,Clindamycin 300 mg,9.0,Lainnya,2015,12,50,4
 2015-12-11,R-2564,Acid Salicyl,0.02,Lainnya,2015,12,50,4
+2015-12-09,AI-1185,Rimcure Paed 275 mg,120.0,Lainnya,2015,12,50,2
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0645,Hydrocortison 2,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0739,Ketokonazol 200 mg,6.0,Lainnya,2015,12,50,4
@@ -375138,15 +375656,18 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-1480,Methylprednisolone 4mg (REG),9.0,Kortikosteroid,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,3.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-1480,Methylprednisolone 4mg (REG),12.0,Kortikosteroid,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0241,Cetirizine 10 mg,5.0,Alergi,2015,12,50,4
 2015-12-11,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0943,Neurodex FC komb,15.0,Vitamin & Suplemen,2015,12,50,4
+2015-12-11,R-1324,LCD,0.01,Lainnya,2015,12,50,4
 2015-12-11,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,4
 2015-12-11,AI-0106,Asam Mefenamat 500 mg,10.0,Analgesik & Antiinflamasi,2015,12,50,4
 2015-12-11,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,12,50,4
@@ -375170,6 +375691,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,AI-0241,Cetirizine 10 mg,1.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-1203,Kapsul kosong 00,4.0,Bahan Non-Obat,2015,12,50,5
+2015-12-12,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0389,Domperidone 10 mg,1.0,Lambung & Pencernaan,2015,12,50,5
 2015-12-12,AI-1057,Paracetamol 500 mg,3.0,Analgesik & Antiinflamasi,2015,12,50,5
@@ -375211,6 +375733,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,R-2054,Salbutamol 4mg,3.0,Pernapasan & Batuk,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-1280,Lanolin 100GR,0.01,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0094,Apazol 0,7.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0190,Candesartan TI 8 mg ,7.0,Hipertensi & Jantung,2015,12,50,5
@@ -375236,6 +375760,8 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,AI-1168,Renadinac 25 mg,28.0,Analgesik & Antiinflamasi,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-1324,LCD,0.01,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0263,Clindamycin 150 mg,10.0,Lainnya,2015,12,50,5
@@ -375316,10 +375842,14 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0943,Neurodex FC komb,14.0,Vitamin & Suplemen,2015,12,50,5
+2015-12-12,R-1324,LCD,0.01,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,10.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-1324,LCD,0.01,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0025,Acyclovir 400 mg,50.0,Lainnya,2015,12,50,5
@@ -375336,19 +375866,24 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,AI-1168,Renadinac 25 mg,14.0,Analgesik & Antiinflamasi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-1324,LCD,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-0313,Carmed cream 40gr 10%,0.1,Lainnya,2015,12,50,5
+2015-12-12,R-1324,LCD,0.01,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,15.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-1018,Ondansetron 4 mg/2 ml,1.0,Lainnya,2015,12,50,5
@@ -375371,10 +375906,12 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,AI-0241,Cetirizine 10 mg,14.0,Alergi,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0357,Dexocort 0,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4200,Pot 30cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-5117,LANOLIN 50GR,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0388,Domperidon 5mg/5ml,1.0,Lainnya,2015,12,50,5
@@ -381564,6 +382101,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-02,R-1480,Methylprednisolone 4mg (REG),8.0,Kortikosteroid,2015,12,49,2
 2015-12-02,AI-0500,Fitbon 500 mg,15.0,Vitamin & Suplemen,2015,12,49,2
 2015-12-02,AI-1185,Rimcure Paed 275 mg,120.0,Lainnya,2015,12,49,2
+2015-12-02,AI-1185,Rimcure Paed 275 mg,120.0,Lainnya,2015,12,49,2
 2015-12-02,AI-0216,Cefixime 100 mg,20.0,Antibiotik,2015,12,49,2
 2015-12-02,AI-1156,Ranitidine 150 mg,10.0,Lambung & Pencernaan,2015,12,49,2
 2015-12-02,AI-1409,Vastigo 6 mg,15.0,Saraf & Vertigo,2015,12,49,2
@@ -385615,6 +386153,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-12,R-0865,FLU TAB,10.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0241,Cetirizine 10 mg,1.0,Alergi,2015,12,50,5
 2015-12-12,R-1220,KERTAS PERKAMEN,10.0,Lainnya,2015,12,50,5
+2015-12-12,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,5
 2015-12-12,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,5
 2015-12-12,R-4873,Mometasone krim 5gr,1.0,Lainnya,2015,12,50,5
 2015-12-12,AI-0577,Glucobay 50 mg,60.0,Diabetes,2015,12,50,5
@@ -386054,6 +386593,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-15,R-1220,KERTAS PERKAMEN,7.0,Lainnya,2015,12,51,1
 2015-12-15,R-2464,Vitamin B Complex,1.0,Vitamin & Suplemen,2015,12,51,1
 2015-12-15,R-5051,Vitamin A 20.000 tab,2.0,Vitamin & Suplemen,2015,12,51,1
+2015-12-15,R-4919,CHLORAL HIDRAT SERBUK,120.0,Lainnya,2015,12,51,1
 2015-12-15,AI-0417,Elkana tab,1.0,Lainnya,2015,12,51,1
 2015-12-15,AI-0943,Neurodex FC komb,2.0,Vitamin & Suplemen,2015,12,51,1
 2015-12-15,AI-0943,Neurodex FC komb,5.0,Vitamin & Suplemen,2015,12,51,1
@@ -390011,6 +390551,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-26,AI-0958,Nitrokaf Retard Forte 5 mg,60.0,Hipertensi & Jantung,2015,12,52,5
 2015-12-26,AI-1174,Retaphyl SR 300 mg,30.0,Pernapasan & Batuk,2015,12,52,5
 2015-12-26,AI-1570,DIOVAN 80,30.0,Hipertensi & Jantung,2015,12,52,5
+2015-12-26,AI-1184,Rimactazid Paed 125 mg,120.0,Lainnya,2015,12,52,5
 2015-12-26,AI-0353,Dexanta 100 ml syp,1.0,Lainnya,2015,12,52,5
 2015-12-26,AI-0458,Euthyrox 0,60.0,Lainnya,2015,12,52,5
 2015-12-26,AI-0771,Lansoprazole 30 mg,5.0,Lambung & Pencernaan,2015,12,52,5
@@ -390333,6 +390874,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-29,AI-0106,Asam Mefenamat 500 mg,9.0,Analgesik & Antiinflamasi,2015,12,53,1
 2015-12-29,AI-0264,Clindamycin 300 mg,12.0,Lainnya,2015,12,53,1
 2015-12-29,AI-0533,Fusycom 20 mg/gr,1.0,Lainnya,2015,12,53,1
+2015-12-29,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,53,1
 2015-12-29,R-3535,Botol obat 100cc,1.0,Lainnya,2015,12,53,1
 2015-12-29,AI-0190,Candesartan TI 8 mg ,30.0,Hipertensi & Jantung,2015,12,53,1
 2015-12-29,AI-0771,Lansoprazole 30 mg,10.0,Lambung & Pencernaan,2015,12,53,1
@@ -391543,11 +392085,17 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-27,AI-0025,Acyclovir 400 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0027,Adalat Oros 30 mg,150.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0033,Albothyl 10 ml,2.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0043,Allopurinol 100 mg,120.0,Asam Urat,2015,12,52,6
+2015-12-27,AI-0050,Ambroxol 30 mg,120.0,Pernapasan & Batuk,2015,12,52,6
 2015-12-27,AI-0051,Amdixal 10 mg,90.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0052,Amdixal 5 mg,120.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0075,Amoxicillin 500 mg,65.0,Antibiotik,2015,12,52,6
 2015-12-27,AI-0094,Apazol 0,46.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0095,Apazol 1 mg,14.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0106,Asam Mefenamat 500 mg,5.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-0097,Aptor 100 mg,120.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-0106,Asam Mefenamat 500 mg,125.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-0114,Aspilets 80 mg,120.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-0120,Atorvastatin 20 mg,120.0,Kolesterol,2015,12,52,6
 2015-12-27,AI-0132,Avodart 0,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0135,Azithromycin 500 mg,3.0,Antibiotik,2015,12,52,6
 2015-12-27,AI-0143,Berotec MDI 100 mcg/pu,8.0,Lainnya,2015,12,52,6
@@ -391556,17 +392104,28 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-27,AI-0156,Bisoprolol 5 mg,60.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0162,Braxidin 7,20.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0174,Burnazin 1%,1.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0181,Cameloc 15 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0183,Cameloc 7,105.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0187,Canderin 16 mg,120.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0188,Canderin 8 mg,240.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0190,Candesartan TI 8 mg ,120.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0195,Carbloxal 6,37.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0201,Cardace 2,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0202,Cardace 5 mg,60.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0207,Casodex 50 mg,30.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0214,Cefadroxil 500 mg,120.0,Antibiotik,2015,12,52,6
 2015-12-27,AI-0226,Cendo Lyteers 15 ml,13.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0241,Cetirizine 10 mg,120.0,Alergi,2015,12,52,6
+2015-12-27,AI-0255,Ciprofloxacine 500 mg,120.0,Antibiotik,2015,12,52,6
 2015-12-27,AI-0274,Clopisan 75 mg,90.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0277,Clozer 100 mg,120.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0279,Co amoxiclav 625 mg,60.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0279,Co amoxiclav 625 mg,180.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0292,Concor 2,120.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0293,Concor 5 mg,120.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0297,Cordila SR 180 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0307,Curcuma 200 mg,45.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0337,Deculin 30 mg,106.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0336,Deculin 15 mg,120.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0337,Deculin 30 mg,226.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0353,Dexanta 100 ml syp,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0357,Dexocort 0,34.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0366,Diaversa 2 mg,35.0,Lainnya,2015,12,52,6
@@ -391575,66 +392134,97 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-27,AI-0389,Domperidone 10 mg,125.0,Lambung & Pencernaan,2015,12,52,6
 2015-12-27,AI-0397,Doxycycline 100 mg,10.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0399,Dulcolax 5 mg,20.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0405,Eclid 100 mg,120.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0406,Eclid 50 mg,120.0,Diabetes,2015,12,52,6
 2015-12-27,AI-0418,Elkana syr,1.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0449,Esvat 20 mg,240.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0458,Euthyrox 0,90.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0500,Fitbon 500 mg,120.0,Vitamin & Suplemen,2015,12,52,6
 2015-12-27,AI-0533,Fusycom 20 mg/gr,11.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0537,Gabexal 300 mg,50.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0537,Gabexal 300 mg,170.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0555,Glaopen 0,1.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0564,Glimepiride 1 mg,50.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0564,Glimepiride 1 mg,170.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0565,Glimepiride 2 mg,120.0,Diabetes,2015,12,52,6
 2015-12-27,AI-0567,Glimepiride 4 mg,30.0,Diabetes,2015,12,52,6
 2015-12-27,AI-0576,Glucobay 100 mg,30.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0577,Glucobay 50 mg,120.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0578,Glucodex 80 mg,120.0,Diabetes,2015,12,52,6
 2015-12-27,AI-0583,Glurenorm 30 mg,60.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0606,Haloperidol 1,60.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0607,Haloperidol 5 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0609,Harnal Ocas 0,90.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0645,Hydrocortison 2,3.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0651,Hytrin 1 mg,70.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0652,Hytrin 2 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0654,Hytroz 2 mg,55.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0661,Ibuprofen 400 mg,10.0,Analgesik & Antiinflamasi,2015,12,52,6
 2015-12-27,AI-0664,Iliadin Spray 0,3.0,Lainnya,2015,12,52,6
-2015-12-27,AI-0694,Irvebal 150 mg,33.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0694,Irvebal 150 mg,153.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0695,Irvebal 300 mg,90.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0703,Isosorbid Dinitrat 5 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0719,Kalnex 500 mg,20.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0737,Ketoconazole 200 mg { SALAH },55.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0738,Ketokonazol 2%,6.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0771,Lansoprazole 30 mg,240.0,Lambung & Pencernaan,2015,12,52,6
 2015-12-27,AI-0772,Lantus Solostar Pen 100 IU/ml,22.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0777,Laxadine 60 ml,8.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0789,Levemir Flexpen 100 IU/ml,13.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0791,Levofloxacin 500 mg,10.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0806,Loratadine 10 mg,10.0,Alergi,2015,12,52,6
 2015-12-27,AI-0837,Meloxicam 7,20.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-0853,Metformin 500 mg,120.0,Diabetes,2015,12,52,6
+2015-12-27,AI-0860,Methylprednisolone 4 mg,120.0,Kortikosteroid,2015,12,52,6
 2015-12-27,AI-0875,Metronidazole 500 mg,90.0,Antibiotik,2015,12,52,6
 2015-12-27,AI-0880,Micardis 80 mg,115.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0881,Miconazol 2%,25.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0903,Mucogard 500 mg/5 m,24.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0943,Neurodex FC komb,120.0,Vitamin & Suplemen,2015,12,52,6
 2015-12-27,AI-0947,New Diatab 600 mg,28.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0957,Nitrokaf Retard 2,120.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-0958,Nitrokaf Retard Forte 5 mg,120.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0964,Noperten 10 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0965,Noperten 5 mg,65.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0973,Norvask 5 mg,120.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-0981,Novo Mix FlexPen 100 IU/ml,8.0,Lainnya,2015,12,52,6
 2015-12-27,AI-0982,Novo Rapid FlexPen 100 IU/ml,69.0,Lainnya,2015,12,52,6
+2015-12-27,AI-0999,Olmetec 20 mg,240.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1000,Olmetec 40 mg,120.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1009,Omeprazole 20 mg,120.0,Lambung & Pencernaan,2015,12,52,6
+2015-12-27,AI-1028,Osteocal 500 mg,120.0,Vitamin & Suplemen,2015,12,52,6
+2015-12-27,AI-1057,Paracetamol 500 mg,120.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-1060,Paratusin 577 mg tab,240.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1131,Propiltiourasil 100 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1132,Propranolol 10 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1156,Ranitidine 150 mg,60.0,Lambung & Pencernaan,2015,12,52,6
+2015-12-27,AI-1168,Renadinac 25 mg,120.0,Analgesik & Antiinflamasi,2015,12,52,6
 2015-12-27,AI-1169,Renadinac 50 mg,30.0,Analgesik & Antiinflamasi,2015,12,52,6
+2015-12-27,AI-1174,Retaphyl SR 300 mg,120.0,Pernapasan & Batuk,2015,12,52,6
 2015-12-27,AI-1243,Simarc 2 mg,150.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1246,Simvastatin 10 mg,120.0,Kolesterol,2015,12,52,6
 2015-12-27,AI-1247,Simvastatin 20 mg,7.0,Kolesterol,2015,12,52,6
 2015-12-27,AI-1266,Solosa 1 mg,45.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1268,Solosa 3 mg,30.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1274,Sotatic 10 mg,10.0,Saraf & Vertigo,2015,12,52,6
-2015-12-27,AI-1284,Spironolacton 25 mg,77.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-1284,Spironolacton 25 mg,197.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-1311,Symbicort 160/4.5mcg,15.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1345,Thyrozol 5 mg,70.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1347,Tiaryt 200 mg,15.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1359,Tramadol 50 mg,10.0,Analgesik & Antiinflamasi,2015,12,52,6
 2015-12-27,AI-1372,Triaxitrol 5 ml,1.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1379,Trolip 100 mg,120.0,Kolesterol,2015,12,52,6
 2015-12-27,AI-1381,Trunal 50 mg,130.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1394,Urixin 400 mg,85.0,Lainnya,2015,12,52,6
-2015-12-27,AI-1409,Vastigo 6 mg,114.0,Saraf & Vertigo,2015,12,52,6
+2015-12-27,AI-1397,Vaclo 75 mg,120.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1409,Vastigo 6 mg,234.0,Saraf & Vertigo,2015,12,52,6
 2015-12-27,AI-1410,Vbloc 6,70.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1415,Ventolin Inhaler 100 mcg/pu,2.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1439,Voltadex 1%,71.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1524,Dilavask 5 mg,120.0,Hipertensi & Jantung,2015,12,52,6
+2015-12-27,AI-1527,Platogrix 75 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,AI-1541,Zilop   300 mg,40.0,Lainnya,2015,12,52,6
-2015-12-27,AI-1549,Allopurinol 300 mg,95.0,Asam Urat,2015,12,52,6
+2015-12-27,AI-1549,Allopurinol 300 mg,215.0,Asam Urat,2015,12,52,6
+2015-12-27,AI-1568,Farsix tab,120.0,Lainnya,2015,12,52,6
+2015-12-27,AI-1570,DIOVAN 80,240.0,Hipertensi & Jantung,2015,12,52,6
 2015-12-27,AI-1581,Thyrozol 10mg ,90.0,Lainnya,2015,12,52,6
 2015-12-27,R-0023,Acyclovir 5gr,1.0,Lainnya,2015,12,52,6
 2015-12-27,R-0065,alprazolam 1mg,41.0,Lainnya,2015,12,52,6
@@ -391645,6 +392235,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-27,R-0865,FLU TAB,115.0,Lainnya,2015,12,52,6
 2015-12-27,R-0950,Gentamicine salep kulit,13.0,Lainnya,2015,12,52,6
 2015-12-27,R-1023,HCT 25 MG TAB,45.0,Lainnya,2015,12,52,6
+2015-12-27,R-1050,Hexymer 2 mg,120.0,Lainnya,2015,12,52,6
 2015-12-27,R-3194,RECO TETES MATA,3.0,Lainnya,2015,12,52,6
 2015-12-27,R-3195,RECO TETES TELINGA,1.0,Lainnya,2015,12,52,6
 2015-12-27,R-3212,RISPERIDONE 2 MG TAB,60.0,Lainnya,2015,12,52,6
@@ -394205,6 +394796,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-05-08,AI-0255,Ciprofloxacine 500 mg,10.0,Antibiotik,2015,5,19,4
 2015-05-08,R-0176,Becom C tab,10.0,Lainnya,2015,5,19,4
 2015-05-08,R-0733,ENGERIX INJ PEDIATRIK 0.5ML,1.0,Lainnya,2015,5,19,4
+2015-05-08,AI-0194,Carbamazepine 200 mg,120.0,Lainnya,2015,5,19,4
 2015-05-08,R-0464,CLANEKSI FORTE TAB,15.0,Lainnya,2015,5,19,4
 2015-05-08,R-1512,Milmor,20.0,Lainnya,2015,5,19,4
 2015-05-08,R-2783,Duvadilan amp,4.0,Lainnya,2015,5,19,4
@@ -405882,6 +406474,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-10-13,R-1629,Neurosanbe Tab,10.0,Lainnya,2015,10,42,1
 2015-10-13,R-1913,Proneuron tab,10.0,Lainnya,2015,10,42,1
 2015-10-13,R-4951,Flunarizine hcl 5 mg,10.0,Lainnya,2015,10,42,1
+2015-10-13,R-4506,Masker Jilbab Remedi @ 50 pcs,120.0,Lainnya,2015,10,42,1
 2015-10-13,R-0695,Dumin Rectal Supp 125mg,1.0,Lainnya,2015,10,42,1
 2015-10-13,R-0863,floxa ED MDS,1.0,Lainnya,2015,10,42,1
 2015-10-13,R-2674,CENDO PROTAGENTA ED,1.0,Lainnya,2015,10,42,1
@@ -408094,6 +408687,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-11-16,R-0625,Diadium,10.0,Lainnya,2015,11,47,0
 2015-11-16,R-0481,Clobazam,10.0,Lainnya,2015,11,47,0
 2015-11-16,R-1295,Lapicef 125mg Syr,1.0,Lainnya,2015,11,47,0
+2015-11-16,R-1815,Phenobarbital  30mg,120.0,Lainnya,2015,11,47,0
 2015-11-16,R-4395,T-VIO 2-0,1.0,Lainnya,2015,11,47,0
 2015-11-16,R-4673,Kasa Steril Molex,2.0,Lainnya,2015,11,47,0
 2015-11-16,R-0481,Clobazam,5.0,Lainnya,2015,11,47,0
@@ -408491,6 +409085,7 @@ TGL,KD_OBAT,NAMA,QTY,KATEGORI,YEAR,MONTH,WEEK,DOW
 2015-12-10,AI-0357,Dexocort 0,3.0,Lainnya,2015,12,50,3
 2015-12-10,AI-0943,Neurodex FC komb,30.0,Vitamin & Suplemen,2015,12,50,3
 2015-12-10,R-1280,Lanolin 100GR,0.02,Lainnya,2015,12,50,3
+2015-12-10,R-2564,Acid Salicyl,0.01,Lainnya,2015,12,50,3
 2015-12-10,R-4199,Pot 20cc,1.0,Lainnya,2015,12,50,3
 2015-12-10,R-0557,Cygest supp 400mg,6.0,Lainnya,2015,12,50,3
 2015-12-11,AI-0067,Amlodipin 10 mg,20.0,Hipertensi & Jantung,2015,12,50,4

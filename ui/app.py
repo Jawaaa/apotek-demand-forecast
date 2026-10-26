@@ -261,29 +261,31 @@ if page == "🏠 Beranda":
     st.subheader("📊 Top 5 Prioritas Restock Minggu Ini")
     st.caption("Diurutkan dari kategori yang paling membutuhkan stok tambahan")
     
-    # Ambil Top 5
-    top5 = df_recs.sort_values("recommendation_restock", ascending=False).head(5)
+    # 1. Ambil data Top 5
+    top5 = df_recs.sort_values("recommendation_restock", ascending=False).head(5).copy()
     
-    fig = px.bar(
-        top5, 
-        x="recommendation_restock", 
-        y="kategori", 
-        orientation="h",
-        text="recommendation_restock",
-        color_discrete_sequence=["#2a9d8f"] # Hijau bersih
-    )
-    fig.update_traces(texttemplate='%{text:,.0f} unit', textposition='outside')
-    fig.update_layout(
-        height=350, 
-        xaxis_title="", yaxis_title="", 
-        showlegend=False,
-        margin=dict(l=0, r=50, t=20, b=20),
-        plot_bgcolor="white",
-        xaxis=dict(showgrid=True, gridcolor='#f0f0f0', showticklabels=False) # Sembunyikan sumbu X
-    )
-    # Urutkan dari terbesar di atas
-    fig.update_yaxes(categoryorder="total ascending", tickfont=dict(size=14))
-    st.plotly_chart(fig, use_container_width=True)
+    # 2. Bikin HTML Bar Chart Manual (Tanpa Spasi/Enter Nyasar)
+    max_val = top5["recommendation_restock"].max()
+    
+    html_code = '<div style="font-family: Arial, sans-serif; margin-top: 20px;">'
+    
+    for _, row in top5.iterrows():
+        kategori = row["kategori"]
+        nilai = row["recommendation_restock"]
+        lebar_persen = (nilai / max_val) * 75
+        
+        # 🔥 KUNCINYA: String HTML harus nempel (gak ada enter di awal baris)
+        html_code += f'<div style="display: flex; align-items: center; margin-bottom: 12px;">'
+        html_code += f'<div style="width: 180px; text-align: right; padding-right: 15px; color: white; font-size: 14px;">{kategori}</div>'
+        html_code += f'<div style="flex-grow: 1; background-color: rgba(255,255,255,0.1); border-radius: 5px; height: 28px; position: relative;">'
+        html_code += f'<div style="width: {lebar_persen}%; background-color: #3498db; height: 100%; border-radius: 5px;"></div>'
+        html_code += f'<div style="position: absolute; left: {lebar_persen + 1}%; top: 4px; color: white; font-weight: bold; font-size: 14px;">{nilai:,.0f} unit</div>'
+        html_code += f'</div></div>'
+        
+    html_code += '</div>'
+    
+    # 3. Tampilkan HTML
+    st.markdown(html_code, unsafe_allow_html=True)
 
     st.divider()
     csv = df_decision.to_csv(index=False).encode("utf-8")
@@ -348,51 +350,80 @@ elif page == "🔮 Analisis Prediksi":
                 f"(sudah termasuk buffer keamanan {buffer_pct}%).\n\n"
                 f"🎯 **Tindakan:** Siapkan pesanan ke supplier untuk kategori ini sebelum minggu depan."
             )
-
+                
             st.subheader("📈 Tren Historis + Prediksi Minggu Depan")
             st.caption(f"Kategori: {kategori}")
             
             df_hist = load_historical_data()
             if df_hist is not None:
-                df_cat = df_hist[df_hist["KATEGORI"] == kategori].sort_values("TGL")
+                # 1. Ambil data & reset index (jadi 0, 1, 2, ...)
+                df_cat = df_hist[df_hist["KATEGORI"] == kategori].reset_index(drop=True)
                 
-                fig = go.Figure()
+                # 2. Paksa ubah kolom QTY ke angka (buang teks aneh kalau ada)
+                y_values = pd.to_numeric(df_cat["QTY_SOLD"], errors='coerce').fillna(0).tolist()
                 
-                # Garis Historis (Biru)
-                fig.add_trace(go.Scatter(
-                    x=df_cat["TGL"], y=df_cat["QTY_SOLD"],
-                    mode="lines+markers", name="Penjualan Historis",
-                    line=dict(color="#1f77b4", width=3),
-                    marker=dict(size=6)
-                ))
-                
-                # Titik Prediksi (Oranye/Bintang Besar)
-                next_week = df_cat["TGL"].max() + timedelta(weeks=1)
-                fig.add_trace(go.Scatter(
-                    x=[next_week], y=[result["predicted_qty"]],
-                    mode="markers+text", name="Prediksi",
-                    marker=dict(color="#e76f51", size=18, symbol="star"),
-                    text=[f"<b>{result['predicted_qty']:,.0f}</b>"],
-                    textposition="top center",
-                    textfont=dict(size=14, color="#e76f51")
-                ))
-                
-                # Garis Rata-rata (Abu putus-putus)
-                avg_val = df_cat["QTY_SOLD"].mean()
-                fig.add_hline(y=avg_val, line_dash="dash", line_color="#999",
-                              annotation_text=f"Avg: {avg_val:.0f}", annotation_position="bottom right")
-                
-                fig.update_layout(
-                    xaxis_title="", yaxis_title="Unit Terjual",
-                    height=400, 
-                    hovermode="x unified",
-                    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
-                    plot_bgcolor="white",
-                    xaxis=dict(showgrid=False),
-                    yaxis=dict(showgrid=True, gridcolor='#f0f0f0')
-                )
-                st.plotly_chart(fig, use_container_width=True)
-
+                # 3. Cek apakah datanya beneran ada (bukan 0 semua)
+                if sum(y_values) == 0:
+                    st.warning("⚠️ Data historis untuk kategori ini kosong (0) di CSV. Coba cek file CSV-mu.")
+                else:
+                    fig = go.Figure()
+                    
+                    # 4. Gambar Garis Historis (PAKAI ANGKA URUTAN, BUKAN TANGGAL)
+                    fig.add_trace(go.Scatter(
+                        x=list(range(len(y_values))), 
+                        y=y_values,
+                        mode="lines+markers", 
+                        name="Penjualan Historis",
+                        line=dict(color="#1f77b4", width=3),
+                        marker=dict(size=6)
+                    ))
+                    
+                    # 5. Titik Prediksi (Ditaruh di urutan paling akhir + 1)
+                    next_index = len(y_values)
+                    fig.add_trace(go.Scatter(
+                        x=[next_index], y=[result["predicted_qty"]],
+                        mode="markers+text", 
+                        name="Prediksi",
+                        marker=dict(color="#e63946", size=20, symbol="star"),
+                        text=[f"<b>{result['predicted_qty']:,.0f}</b>"],
+                        textposition="top center",
+                        textfont=dict(size=14, color="#e63946")
+                    ))
+                    
+                    # 6. Garis Rata-rata
+                    avg_val = sum(y_values) / len(y_values) if len(y_values) > 0 else 0
+                    fig.add_hline(
+                        y=avg_val, line_dash="dash", line_color="#f1c40f",
+                        annotation_text=f"Rata-rata: {avg_val:.0f}", 
+                        annotation_position="bottom right",
+                        annotation_font=dict(color="#f1c40f")
+                    )
+                    
+                    # 7. Layout (Sembunyikan sumbu X karena udah ga pakai tanggal)
+                    fig.update_layout(
+                        xaxis_title="", 
+                        yaxis_title="Unit Terjual",
+                        height=400, 
+                        hovermode="x unified",
+                        legend=dict(
+                            orientation="h", yanchor="bottom", y=1.02, 
+                            xanchor="center", x=0.5, font=dict(color="white")
+                        ),
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        paper_bgcolor="rgba(0,0,0,0)",
+                        font=dict(color="white"),
+                        xaxis=dict(
+                            showgrid=True, 
+                            gridcolor='#444',
+                            showticklabels=False # Sembunyikan angka index
+                        ),
+                        yaxis=dict(
+                            showgrid=True, 
+                            gridcolor='#444'
+                        )
+                    )
+                    
+                    st.plotly_chart(fig, use_container_width=True)
 
 # ============================================================
 # HALAMAN 3: PERFORMA MODEL
@@ -530,54 +561,49 @@ elif page == "📊 Performa Model":
     st.divider()
 
     # ===== AKURASI PER KATEGORI =====
-    st.subheader("🔥 Akurasi per Kategori Obat")
-    st.caption("Kategori mana yang paling akurat diprediksi?")
+    st.subheader("🔥 Akurasi per Kategori Obat (LSTM)")
+    st.caption("Makin rendah MAPE, makin akurat. Hanya menampilkan performa model utama (LSTM).")
 
-    view_mode = st.radio(
-        "Pilih Tampilan:",
-        ["📊 Bar Chart", "🔥 Heatmap"],
-        horizontal=True,
-        label_visibility="collapsed",
-    )
+    # 1. Ambil data LSTM
+    df_lstm = df_perf[df_perf["Model"] == "LSTM per Kategori"].sort_values("MAPE", ascending=False)
 
-    try:
-        if view_mode == "📊 Bar Chart":
-            fig_heat = px.bar(
-                df_perf, x="Kategori", y="MAPE", color="Model", barmode="group",
-                title="Akurasi per Kategori (MAPE) — makin rendah makin baik",
-                color_discrete_map=colors,
-            )
-            fig_heat.update_layout(height=500, xaxis_tickangle=-45)
-            st.plotly_chart(fig_heat, use_container_width=True)
+    # 2. Bikin HTML Bar Chart
+    max_mape = df_lstm["MAPE"].max()
+    html_chart = '<div style="font-family: Arial, sans-serif; margin-top: 20px;">'
+    
+    for _, row in df_lstm.iterrows():
+        kategori = row["Kategori"]
+        mape = row["MAPE"]
+        lebar_persen = (mape / max_mape) * 85
+        
+        # Warna: Hijau (akurat), Kuning (sedang), Merah (jelek)
+        if mape < 15:
+            warna = "#2ecc71" 
+        elif mape < 20:
+            warna = "#f1c40f" 
         else:
-            pivot = df_perf.pivot_table(index="Kategori", columns="Model", values="MAPE", aggfunc="mean")
-            if not pivot.empty:
-                fig_heat = go.Figure(data=go.Heatmap(
-                    z=pivot.values, x=pivot.columns.tolist(), y=pivot.index.tolist(),
-                    colorscale=[[0, "#2a9d8f"], [0.5, "#f4a261"], [1, "#e63946"]],
-                    text=pivot.values, texttemplate="%{text:.1f}",
-                    textfont={"size": 11}, colorbar=dict(title="MAPE (%)"),
-                ))
-                fig_heat.update_layout(height=500, xaxis_title="Model", yaxis_title="Kategori")
-                st.plotly_chart(fig_heat, use_container_width=True)
-    except Exception as e:
-        st.error(f"Gagal render grafik: {e}")
+            warna = "#e74c3c" 
 
-    lstm_only = df_perf[df_perf["Model"] == "LSTM per Kategori"].sort_values("MAPE")
-    if not lstm_only.empty:
-        best_cat = lstm_only.iloc[0]
-        worst_cat = lstm_only.iloc[-1]
+        html_chart += f'<div style="display: flex; align-items: center; margin-bottom: 8px;">'
+        html_chart += f'<div style="width: 180px; text-align: right; padding-right: 15px; color: white; font-size: 13px;">{kategori}</div>'
+        html_chart += f'<div style="flex-grow: 1; background-color: rgba(255,255,255,0.05); border-radius: 4px; height: 22px; position: relative;">'
+        html_chart += f'<div style="width: {lebar_persen}%; background-color: {warna}; height: 100%; border-radius: 4px;"></div>'
+        html_chart += f'<div style="position: absolute; left: {lebar_persen + 1}%; top: 2px; color: white; font-weight: bold; font-size: 12px;">{mape:.1f}%</div>'
+        html_chart += f'</div></div>'
+        
+    html_chart += '</div>'
+    st.markdown(html_chart, unsafe_allow_html=True)
+
+    # 3. Kasih Kesimpulan (Paling Akurat & Perlu Perhatian)
+    if not df_lstm.empty:
+        best_cat = df_lstm.iloc[-1] # MAPE paling kecil
+        worst_cat = df_lstm.iloc[0] # MAPE paling besar
+        
         col1, col2 = st.columns(2)
         with col1:
-            st.success(f"""
-            ✅ **Paling Akurat:** {best_cat['Kategori']}
-            MAPE hanya **{best_cat['MAPE']:.1f}%** — bisa diandalkan
-            """)
+            st.success(f"✅ **Paling Akurat:** {best_cat['Kategori']} (MAPE {best_cat['MAPE']:.1f}%)")
         with col2:
-            st.warning(f"""
-            ⚠️ **Perlu Perhatian:** {worst_cat['Kategori']}
-            MAPE **{worst_cat['MAPE']:.1f}%** — perlu verifikasi manual
-            """)
+            st.warning(f"⚠️ **Perlu Perhatian:** {worst_cat['Kategori']} (MAPE {worst_cat['MAPE']:.1f}%)")
 
     st.divider()
 
@@ -824,50 +850,53 @@ elif page == "📦 Manajemen Stok":
             st.subheader("🎯 Daftar Keputusan Restock")
             st.dataframe(df_pred, use_container_width=True, hide_index=True)
 
-            # ===== GRAFIK =====
+                # ===== GRAFIK =====
             st.divider()
             st.subheader("📊 Analisis Risiko: Prediksi vs Stok Saat Ini")
             st.caption("Fokus pada 5 kategori dengan risiko stockout tertinggi")
 
-            # Ambil Top 5 Risiko
             top_risk = df_pred.head(5)
             
-            fig = go.Figure()
+            # Bikin HTML Bar Chart
+            max_val = max(top_risk["Prediksi Minggu Depan"].max(), top_risk["Stok Saat Ini"].max())
             
-            # Bar 1: Prediksi (Biru)
-            fig.add_trace(go.Bar(
-                name="Kebutuhan (Prediksi)",
-                x=top_risk["Kategori"], 
-                y=top_risk["Prediksi Minggu Depan"],
-                marker_color="#1f77b4",
-                text=top_risk["Prediksi Minggu Depan"].apply(lambda x: f"{x:,.0f}"),
-                textposition="outside"
-            ))
+            html_chart = '<div style="font-family: Arial, sans-serif; margin-top: 20px;">'
             
-            # Bar 2: Stok (Hijau)
-            fig.add_trace(go.Bar(
-                name="Stok Tersedia Saat Ini",
-                x=top_risk["Kategori"], 
-                y=top_risk["Stok Saat Ini"],
-                marker_color="#2a9d8f",
-                text=top_risk["Stok Saat Ini"].apply(lambda x: f"{x:,.0f}"),
-                textposition="outside"
-            ))
+            for _, row in top_risk.iterrows():
+                kat = row["Kategori"]
+                pred = row["Prediksi Minggu Depan"]
+                stok = row["Stok Saat Ini"]
+                
+                # Hitung lebar bar
+                w_pred = (pred / max_val) * 80
+                w_stok = (stok / max_val) * 80
+                
+                html_chart += f'<div style="margin-bottom: 25px;">'
+                # Nama Kategori
+                html_chart += f'<div style="color: white; font-weight: bold; margin-bottom: 5px;">{kat}</div>'
+                
+                # Bar Prediksi (Biru)
+                html_chart += f'<div style="display: flex; align-items: center; margin-bottom: 4px;">'
+                html_chart += f'<div style="width: 120px; color: #aaa; font-size: 12px;">Kebutuhan (Prediksi)</div>'
+                html_chart += f'<div style="flex-grow: 1; background-color: rgba(255,255,255,0.05); height: 20px; border-radius: 3px; position: relative;">'
+                html_chart += f'<div style="width: {w_pred}%; background-color: #3498db; height: 100%; border-radius: 3px;"></div>'
+                html_chart += f'<div style="position: absolute; left: {w_pred + 1}%; top: 2px; color: white; font-size: 12px;">{pred:,.0f}</div>'
+                html_chart += f'</div></div>'
+                
+                # Bar Stok (Hijau)
+                html_chart += f'<div style="display: flex; align-items: center;">'
+                html_chart += f'<div style="width: 120px; color: #aaa; font-size: 12px;">Stok Tersedia</div>'
+                html_chart += f'<div style="flex-grow: 1; background-color: rgba(255,255,255,0.05); height: 20px; border-radius: 3px; position: relative;">'
+                html_chart += f'<div style="width: {w_stok}%; background-color: #2ecc71; height: 100%; border-radius: 3px;"></div>'
+                html_chart += f'<div style="position: absolute; left: {w_stok + 1}%; top: 2px; color: white; font-size: 12px;">{stok:,.0f}</div>'
+                html_chart += f'</div></div>'
+                
+                html_chart += '</div>'
+                
+            html_chart += '</div>'
             
-            fig.update_layout(
-                barmode="group", 
-                xaxis_title="", 
-                yaxis_title="Jumlah Unit",
-                height=400, 
-                xaxis_tickangle=0, # Lurus, tidak miring
-                legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="center", x=0.5),
-                plot_bgcolor="white",
-                xaxis=dict(showgrid=False),
-                yaxis=dict(showgrid=True, gridcolor='#f0f0f0')
-            )
-            
-            st.plotly_chart(fig, use_container_width=True)
-            st.info("💡 Jika Bar Biru (Kebutuhan) lebih tinggi dari Bar Hijau (Stok), artinya kategori tersebut berisiko mengalami **Stockout**.")
+            st.markdown(html_chart, unsafe_allow_html=True)
+            st.info("💡 Jika Bar Biru (Kebutuhan) lebih panjang dari Bar Hijau (Stok), artinya kategori tersebut berisiko mengalami **Stockout**.")
 
             # ===== EXPORT =====
             st.divider()

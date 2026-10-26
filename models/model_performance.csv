@@ -1,0 +1,37 @@
+Model,Kategori,MAPE,RMSE
+Moving Average,Alergi,13.38,180.89
+Linear Regression,Alergi,15.23,227.58
+LSTM per Kategori,Alergi,13.37,177.5
+Moving Average,Analgesik & Antiinflamasi,9.23,1323.72
+Linear Regression,Analgesik & Antiinflamasi,13.53,1450.7
+LSTM per Kategori,Analgesik & Antiinflamasi,12.62,1569.84
+Moving Average,Antibiotik,10.65,463.75
+Linear Regression,Antibiotik,9.0,477.01
+LSTM per Kategori,Antibiotik,14.61,523.15
+Moving Average,Asam Urat,18.16,362.02
+Linear Regression,Asam Urat,15.18,340.28
+LSTM per Kategori,Asam Urat,21.34,350.39
+Moving Average,Diabetes,13.11,1597.84
+Linear Regression,Diabetes,16.91,1938.09
+LSTM per Kategori,Diabetes,12.67,1478.98
+Moving Average,Hipertensi & Jantung,8.31,1700.89
+Linear Regression,Hipertensi & Jantung,12.3,2387.99
+LSTM per Kategori,Hipertensi & Jantung,15.62,2810.11
+Moving Average,Kolesterol,18.28,422.77
+Linear Regression,Kolesterol,15.89,423.42
+LSTM per Kategori,Kolesterol,17.72,402.44
+Moving Average,Kortikosteroid,9.14,240.03
+Linear Regression,Kortikosteroid,10.79,307.65
+LSTM per Kategori,Kortikosteroid,8.32,218.12
+Moving Average,Lambung & Pencernaan,12.07,578.64
+Linear Regression,Lambung & Pencernaan,11.89,661.51
+LSTM per Kategori,Lambung & Pencernaan,13.79,565.17
+Moving Average,Pernapasan & Batuk,16.39,452.02
+Linear Regression,Pernapasan & Batuk,13.27,453.84
+LSTM per Kategori,Pernapasan & Batuk,16.17,416.57
+Moving Average,Saraf & Vertigo,18.4,286.23
+Linear Regression,Saraf & Vertigo,16.14,285.0
+LSTM per Kategori,Saraf & Vertigo,18.72,268.48
+Moving Average,Vitamin & Suplemen,18.49,1227.23
+Linear Regression,Vitamin & Suplemen,15.31,1010.93
+LSTM per Kategori,Vitamin & Suplemen,26.13,1623.85
